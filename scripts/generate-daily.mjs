@@ -105,7 +105,7 @@ export async function run({ fetchImpl = fetch, gemini, now = new Date(), sources
         try {
           const page = await getText(e.link, fetchImpl);
           const art = extractArticle(page.text, page.url);
-          if (!art || countWords(art.text) < MIN_WORDS) continue;
+          if (!art || countWords(art.text) < MIN_WORDS) { log(`${s.id} : ${e.link} trop court ou illisible (${art ? countWords(art.text) : 'null'} mots, ${page.text.length} octets)`); continue; }
           if (await analyzeAndStore({ url: e.link, title: e.title || art.title, text: art.text, source: s })) {
             ok = true;
             break;
