@@ -108,7 +108,7 @@ export function buildAnalyzePayload(text, known = []) {
   return {
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     systemInstruction: { parts: [{ text: ANALYZE_SYSTEM }] },
-    generationConfig: { responseMimeType: 'application/json', responseSchema: ANALYZE_SCHEMA, temperature: 0.3 },
+    generationConfig: { responseMimeType: 'application/json', responseSchema: ANALYZE_SCHEMA, temperature: 0.3, thinkingConfig: { thinkingLevel: 'low' } },
   };
 }
 
@@ -118,7 +118,7 @@ export function buildCorrectPayload(text, targets = []) {
   return {
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     systemInstruction: { parts: [{ text: CORRECT_SYSTEM }] },
-    generationConfig: { responseMimeType: 'application/json', responseSchema: CORRECT_SCHEMA, temperature: 0.4 },
+    generationConfig: { responseMimeType: 'application/json', responseSchema: CORRECT_SCHEMA, temperature: 0.4, thinkingConfig: { thinkingLevel: 'low' } },
   };
 }
 
