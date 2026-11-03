@@ -1,7 +1,7 @@
 // Client Gemini : détection automatique du modèle, nouvelle tentative sur surcharge, repli entre modèles.
 import { withoutSchema } from './prompts.js';
 
-const BASE = 'https://generativelanguage.googleapis.com/v1beta';
+const BASE = 'https://generativelanguage.googleapis.com/v1beta'; const CALL_TIMEOUT_MS = 50000;
 
 export class GeminiError extends Error {
   constructor(code, message, status) {
@@ -83,11 +83,11 @@ export function createGemini({ apiKey, fetchImpl = globalThis.fetch, sleep = def
           res = await fetchImpl(`${BASE}/models/${model}:generateContent`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json', 'x-goog-api-key': apiKey },
-            body: JSON.stringify(body),
+            body: JSON.stringify(body), signal: AbortSignal.timeout(CALL_TIMEOUT_MS),
           });
         } catch (e) {
           last = new GeminiError('network', String(e?.message || e), 502);
-          if (attempt === 0) await sleep(1500);
+          if (e?.name === 'TimeoutError') break; if (attempt === 0) await sleep(1500);
           continue;
         }
         if (res.ok) return { text: extractText(await res.json()), model };
@@ -98,7 +98,7 @@ export function createGemini({ apiKey, fetchImpl = globalThis.fetch, sleep = def
           attempt--; // ne consomme pas la tentative
           continue;
         }
-        if (res.status === 400 && /api key/i.test(msg)) throw new GeminiError('bad_key', msg, 400);
+        if (res.status === 400 && body.generationConfig?.thinkingConfig && /thinking/i.test(msg)) { const { thinkingConfig, ...gc } = body.generationConfig; body = { ...body, generationConfig: gc }; payload = { ...payload, generationConfig: gc }; attempt--; continue; } if (res.status === 400 && /api key/i.test(msg)) throw new GeminiError('bad_key', msg, 400);
         if (res.status === 401 || res.status === 403) throw new GeminiError('bad_key', msg, res.status);
         if (res.status === 400) throw new GeminiError('bad_request', msg, 400);
         if (res.status === 404) {
