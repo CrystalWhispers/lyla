@@ -1,0 +1,1 @@
+{"name":"move","on":{"push":{"branches":["main"]}},"permissions":{"contents":"write"},"jobs":{"m":{"runs-on":"ubuntu-latest","steps":[{"uses":"actions/checkout@v4"},{"run":"if [ -d lyla-upload ]; then shopt -s dotglob; git mv lyla-upload/* . ; git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -m 'Move files to repo root'; git push; fi"}]}}}
