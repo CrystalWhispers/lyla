@@ -8,7 +8,7 @@ export class ApiError extends Error {
   }
 }
 
-async function call(path, { method = 'GET', body, timeout = 100000 } = {}) {
+async function call(path, { method = 'GET', body, timeout = 240000 } = {}) {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), timeout);
   try {
