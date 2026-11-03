@@ -1,7 +1,7 @@
 // Client Gemini : détection automatique du modèle, nouvelle tentative sur surcharge, repli entre modèles.
 import { withoutSchema } from './prompts.js';
 
-const BASE = 'https://generativelanguage.googleapis.com/v1beta'; const CALL_TIMEOUT_MS = 50000;
+const BASE = 'https://generativelanguage.googleapis.com/v1beta'; const CALL_TIMEOUT_MS =25000;
 
 export class GeminiError extends Error {
   constructor(code, message, status) {
@@ -72,7 +72,7 @@ export function createGemini({ apiKey, fetchImpl = globalThis.fetch, sleep = def
 
   // payload : corps Gemini ; schema : schéma de réponse (pour le repli sans schéma)
   async function generate(payload, schema) {
-    const models = (await listModels()).slice(0, 4);
+    const models = (await listModels()).slice(0, 4); models.push(...models.splice(0, 2));
     let last;
     for (const model of models) {
       let body = payload;
