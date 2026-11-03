@@ -1,0 +1,401 @@
+{
+ "id": "2026-11-03-1pbg5",
+ "date": "2026-11-03",
+ "title": "Piratage de Binance : accusée, la Corée du Nord dénonce une \"grave provocation politique\"",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 418,
+ "model": "gemini-3.8-flash",
+ "analysis": {
+  "title": "Piratage de Binance : la Corée du Nord rejette les accusations américaines",
+  "summary": "Pyongyang a vivement contesté les conclusions du FBI lui imputant le vol record de 6,3 milliards de dollars sur la plateforme d'échanges Binance. Qualifiant ces allégations de manœuvre politique hostile, le régime dénonce une atteinte concertée à sa souveraineté et à son prestige international.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "xx5ubn",
+    "kind": "vocab",
+    "term": "sinistre",
+    "surface": "sinistre",
+    "usage": "passif",
+    "definition_fr": "Qui annonce un malheur, malveillant ou inspirant l'effroi.",
+    "translation_cn": "阴险的，邪恶的，险恶的",
+    "exemple": "Le porte-parole a dénoncé les sinistres manœuvres destinées à déstabiliser le gouvernement.",
+    "note": "En droit et en assurance, 'un sinistre' (nom masculin) désigne un dommage ou une catastrophe.",
+    "context": "Kim Yo-jong a dénoncé \"une tentative sinistre de nuire à l'image internationale de la RPDC, de porter atteinte à sa dignité et à son prestige …",
+    "synonymes": [
+     "malveillant",
+     "funeste",
+     "machiavélique"
+    ],
+    "famille": [
+     "un sinistre (m.)",
+     "sinistrement (adv.)"
+    ],
+    "collocations": [
+     "un sinistre dessein",
+     "une sombre manœuvre",
+     "un présage sinistre"
+    ]
+   },
+   {
+    "id": "itmpes",
+    "kind": "vocab",
+    "term": "revendiquer",
+    "surface": "revendique",
+    "usage": "actif",
+    "definition_fr": "Affirmer posséder quelque chose (titre, statut) ou assumer la responsabilité d'un acte.",
+    "translation_cn": "声称拥有，自称拥有；主张",
+    "exemple": "L'institution financière revendique désormais une part de marché supérieure à 20 % dans la région.",
+    "note": "S'emploie tant pour un droit ('revendiquer une hausse de salaire') que pour un chiffre affiché avec fierté.",
+    "context": "Numéro un mondial en volume d'échanges de devises numériques, Binance revendique 335 millions d'utilisateurs.",
+    "synonymes": [
+     "prétendre à",
+     "réclamer",
+     "arborer"
+    ],
+    "famille": [
+     "une revendication (f.)",
+     "revendicatif (adj.)"
+    ],
+    "collocations": [
+     "revendiquer un bilan",
+     "revendiquer la paternité de",
+     "revendiquer des réformes"
+    ]
+   },
+   {
+    "id": "1mzf61z",
+    "kind": "vocab",
+    "term": "être affilié à",
+    "surface": "affilié",
+    "usage": "actif",
+    "definition_fr": "Rattaché, associé ou subordonné à un organisme ou à un réseau plus large.",
+    "translation_cn": "隶属于，附属于",
+    "exemple": "Ce cabinet d'audit est directement affilié à un groupe financier basé à Londres.",
+    "note": "S'utilise aussi couramment dans le domaine de la sécurité sociale ('être affilié au régime général').",
+    "context": "Le groupe TraderTraitor est considéré comme faisant partie du groupe Lazarus, lui-même affilié aux services de renseignement nord-coréens.",
+    "synonymes": [
+     "rattaché à",
+     "associé à",
+     "subordonné à"
+    ],
+    "famille": [
+     "l'affiliation (f.)",
+     "affilier (v.)"
+    ],
+    "collocations": [
+     "être affilié à un réseau",
+     "être affilié à un syndicat",
+     "groupe affilié"
+    ]
+   },
+   {
+    "id": "1v1b9sn",
+    "kind": "vocab",
+    "term": "malveillant",
+    "surface": "malveillants",
+    "usage": "actif",
+    "definition_fr": "Animé d'une intention de nuire ou conçu pour porter préjudice.",
+    "translation_cn": "恶意的，怀有恶意的",
+    "exemple": "Les infrastructures critiques doivent se prémunir contre des intrusions malveillantes répétées.",
+    "note": "Antonyme rigoureux : 'bienveillant'. Très fréquent dans le domaine de la cybersécurité.",
+    "context": "\"La politique constante du gouvernement de la RPDC est de s'opposer résolument à tous actes malveillants dans le cyberespace\", a-t-elle affirmé.",
+    "synonymes": [
+     "hostile",
+     "nuisible",
+     "pernicieux"
+    ],
+    "famille": [
+     "la malveillance (f.)",
+     "malveillamment (adv.)"
+    ],
+    "collocations": [
+     "un acte malveillant",
+     "un logiciel malveillant",
+     "une intention malveillante"
+    ]
+   },
+   {
+    "id": "112w5jf",
+    "kind": "vocab",
+    "term": "la cyberguerre (f.)",
+    "surface": "cyberguerre",
+    "usage": "actif",
+    "definition_fr": "Ensemble des opérations offensives et défensives menées dans le cyberespace entre États ou groupes organisés.",
+    "translation_cn": "网络战，网络战争",
+    "exemple": "La cyberguerre constitue aujourd'hui un volet majeur des conflits asymétriques contemporains.",
+    "note": "Terme souvent soudé sans trait d'union dans l'usage journalistique et militaire moderne.",
+    "context": "Selon un rapport de l'armée américaine en 2020, l'unité nord-coréenne de cyberguerre, le \"Bureau 121\", compte 6 000 employés qui opèrent aussi à partir de …",
+    "synonymes": [
+     "guerre informatique",
+     "conflit cybernétique"
+    ],
+    "famille": [
+     "le cyberespace (m.)",
+     "la cyberdéfense (f.)",
+     "la cybercriminalité (f.)"
+    ],
+    "collocations": [
+     "mener une cyberguerre",
+     "arsenal de cyberguerre",
+     "capacités de cyberguerre"
+    ]
+   },
+   {
+    "id": "pprjez",
+    "kind": "vocab",
+    "term": "opérer",
+    "surface": "opèrent",
+    "usage": "actif",
+    "definition_fr": "Mener des activités, fonctionner ou agir dans un cadre géographique ou opérationnel précis.",
+    "translation_cn": "运作，活动，开展行动",
+    "exemple": "Ces fonds souverains opèrent principalement sur les marchés émergents d'Asie du Sud-Est.",
+    "note": "En registre diplomatique et sécuritaire, s'emploie intransitivement pour désigner le rayon d'action d'agents ou de réseaux.",
+    "context": "… nord-coréenne de cyberguerre, le \"Bureau 121\", compte 6 000 employés qui opèrent aussi à partir de l'étranger, notamment de Biélorussie de Chine, d'Inde, de Malaisie …",
+    "synonymes": [
+     "agir",
+     "manœuvrer",
+     "fonctionner"
+    ],
+    "famille": [
+     "une opération (f.)",
+     "opérationnel (adj.)",
+     "un opérateur (m.)"
+    ],
+    "collocations": [
+     "opérer dans la clandestinité",
+     "opérer à l'échelle mondiale",
+     "opérer sous couverture"
+    ]
+   },
+   {
+    "id": "1gq8nir",
+    "kind": "vocab",
+    "term": "satirique",
+    "surface": "satirique",
+    "usage": "actif",
+    "definition_fr": "Qui use d'ironie, de raillerie ou de sarcasme pour critiquer les mœurs ou le pouvoir politique.",
+    "translation_cn": "讽刺的",
+    "exemple": "La presse satirique joue un rôle déterminant dans le contre-pouvoir démocratique.",
+    "note": "Ne pas confondre 'satirique' (de la satire) avec 'satyrique' (relatif aux satyres de la mythologie).",
+    "context": "… quand il avait été accusé d'avoir piraté les studios Sony Pictures Entertainment en représailles au film satirique sur la Corée du Nord \"L'Interview qui tue!",
+    "synonymes": [
+     "ironique",
+     "caustique",
+     "sarcastique"
+    ],
+    "famille": [
+     "la satire (f.)",
+     "satiriser (v.)"
+    ],
+    "collocations": [
+     "un journal satirique",
+     "un ton satirique",
+     "une œuvre satirique"
+    ]
+   },
+   {
+    "id": "55nifc",
+    "kind": "vocab",
+    "term": "dénoncer",
+    "surface": "dénoncé",
+    "usage": "actif",
+    "definition_fr": "Signaler avec indignation une injustice, ou déclarer solennellement caduc un accord.",
+    "translation_cn": "谴责，抨击；宣告（条约）废止",
+    "exemple": "La chancellerie a fermement dénoncé les violations répétées du cessez-le-feu par les milices.",
+    "note": "En diplomatie, 'dénoncer un accord' signifie officiellement y mettre fin unilatéralement.",
+    "context": "La Corée du Nord a dénoncé mardi 3 novembre les accusations du FBI selon lesquelles Pyongyang serait à l'origine du piratage record de 6,3 milliards …",
+    "synonymes": [
+     "condamner",
+     "fustiger",
+     "flétrir"
+    ],
+    "famille": [
+     "une dénonciation (f.)",
+     "un dénonciateur (m.)"
+    ],
+    "collocations": [
+     "dénoncer des dérives",
+     "dénoncer un traité",
+     "dénoncer une ingérence"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "67muy3",
+    "kind": "expression",
+    "term": "être à l'origine de",
+    "surface": "à l'origine du",
+    "usage": "actif",
+    "definition_fr": "Être la cause première ou l'instigateur d'un événement ou d'un phénomène.",
+    "translation_cn": "是……的起因，是……的始作俑者",
+    "exemple": "Une spéculation excessive a été à l'origine de l'effondrement boursier de l'automne.",
+    "note": "Formule sobre et élégante très employée dans l'analyse géopolitique et économique.",
+    "context": "… mardi 3 novembre les accusations du FBI selon lesquelles Pyongyang serait à l'origine du piratage record de 6,3 milliards de dollars contre la plateforme d'échanges …",
+    "collocations": [
+     "être à l'origine d'une crise",
+     "se trouver à l'origine de l'escalade",
+     "être à l'origine du scandale"
+    ]
+   },
+   {
+    "id": "wye2pu",
+    "kind": "expression",
+    "term": "porter atteinte à",
+    "surface": "porter atteinte à",
+    "usage": "actif",
+    "definition_fr": "Nuire gravement, dégrader ou léser un principe, une réputation ou un droit.",
+    "translation_cn": "损害，侵害，有损于",
+    "exemple": "Cette décision unilatérale risque de porter gravement atteinte à la crédibilité de l'alliance.",
+    "note": "Expression canonique du discours diplomatique et juridique. Requiert impérativement la préposition 'à'.",
+    "context": "… tentative sinistre de nuire à l'image internationale de la RPDC, de porter atteinte à sa dignité et à son prestige national, et d’une nouvelle violation …",
+    "collocations": [
+     "porter atteinte à la souveraineté",
+     "porter atteinte à l'intégrité",
+     "porter atteinte aux intérêts"
+    ]
+   },
+   {
+    "id": "150jupw",
+    "kind": "expression",
+    "term": "en représailles à",
+    "surface": "en représailles au",
+    "usage": "actif",
+    "definition_fr": "En mesure de rétorsion ou de vengeance face à une action jugée agressive.",
+    "translation_cn": "作为对……的报复，以报复……",
+    "exemple": "Le pays a suspendu ses livraisons d'hydrocarbures en représailles aux sanctions économiques votées par l'ONU.",
+    "note": "'Représailles' s'emploie presque exclusivement au pluriel dans ce type de tournure.",
+    "context": "… quand il avait été accusé d'avoir piraté les studios Sony Pictures Entertainment en représailles au film satirique sur la Corée du Nord \"L'Interview qui tue!",
+    "collocations": [
+     "agir en représailles à",
+     "adopter des sanctions en représailles à",
+     "frapper en représailles à"
+    ]
+   },
+   {
+    "id": "oxw61f",
+    "kind": "expression",
+    "term": "être du fait de",
+    "surface": "de notre fait",
+    "usage": "actif",
+    "definition_fr": "Être causé ou provoqué par quelqu'un ; incomber à la responsabilité de quelqu'un.",
+    "translation_cn": "由……造成，归咎于……",
+    "exemple": "Le retard accumulé dans les négociations n'est nullement du fait de la délégation européenne.",
+    "note": "S'accorde avec le pronom possessif correspondant : 'de mon fait', 'de leur fait', etc.",
+    "context": "… si tous les cybercrimes commis dans différentes parties du monde étaient de notre fait\", a déclaré Kim Yo-jong, utilisant l'acronyme désignant la République populaire démocratique …",
+    "collocations": [
+     "être de son fait",
+     "ne pas être de notre fait",
+     "être du fait d'autrui"
+    ]
+   },
+   {
+    "id": "14fxha1",
+    "kind": "expression",
+    "term": "à l'égard de",
+    "surface": "à l'égard de",
+    "usage": "actif",
+    "definition_fr": "Relativement à, envers, en ce qui concerne.",
+    "translation_cn": "对，针对，在……方面",
+    "exemple": "La posture adoptée par Washington à l'égard de ses partenaires asiatiques demeure ambiguë.",
+    "note": "Beaucoup plus soutenu que le simple 'envers' ou 'pour'.",
+    "context": "\"C'est une grave provocation politique à l'égard de la RPDC que les États-Unis trompent l'opinion publique internationale, comme si tous les cybercrimes commis dans différentes …",
+    "collocations": [
+     "une politique ferme à l'égard de",
+     "des réserves à l'égard de",
+     "des obligations à l'égard de"
+    ]
+   },
+   {
+    "id": "ku2khw",
+    "kind": "expression",
+    "term": "s'opposer résolument à",
+    "surface": "s'opposer résolument à",
+    "usage": "actif",
+    "definition_fr": "Rejeter ou combattre quelque chose avec une détermination totale et sans concession.",
+    "translation_cn": "坚决反对",
+    "exemple": "Le ministère des Affaires étrangères s'oppose résolument à tout déploiement militaire étranger le long de sa frontière.",
+    "note": "L'adverbe 'résolument' confère une solennité doctrinale typique des communiqués officiels.",
+    "context": "\"La politique constante du gouvernement de la RPDC est de s'opposer résolument à tous actes malveillants dans le cyberespace\", a-t-elle affirmé.",
+    "collocations": [
+     "s'opposer résolument à toute ingérence",
+     "s'opposer résolument au projet",
+     "s'opposer résolument aux mesures"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1ulmqrc",
+    "kind": "connecteur",
+    "term": "compte tenu de",
+    "surface": "compte tenu des",
+    "usage": "actif",
+    "definition_fr": "En prenant en considération, eu égard à.",
+    "translation_cn": "鉴于，考虑到",
+    "exemple": "Compte tenu des tensions géopolitiques dans le détroit, les primes d'assurance maritime ont flambé.",
+    "note": "Invariable lorsqu'il précède le groupe nominal qu'il régit ('compte tenu de/des').",
+    "context": "… affirmations du FBI relevaient d'une \"rhétorique absurde n'apportant rien de nouveau\", compte tenu des précédentes accusations américaines selon lesquelles la Corée du Nord aurait déjà …",
+    "fonction": "cause"
+   },
+   {
+    "id": "4nng9e",
+    "kind": "connecteur",
+    "term": "selon lequel",
+    "surface": "selon lesquelles",
+    "usage": "actif",
+    "definition_fr": "D'après lequel, suivant le contenu de.",
+    "translation_cn": "根据……，按照……的说法",
+    "exemple": "Le porte-parole a réfuté les informations selon lesquelles le président préparerait un remaniement gouvernemental.",
+    "note": "S'accorde en genre et en nombre avec l'antécédent ('les accusations selon lesquelles').",
+    "context": "… du Nord a dénoncé mardi 3 novembre les accusations du FBI selon lesquelles Pyongyang serait à l'origine du piratage record de 6,3 milliards de dollars …",
+    "fonction": "reformulation"
+   },
+   {
+    "id": "92pj3k",
+    "kind": "connecteur",
+    "term": "notamment",
+    "surface": "notamment",
+    "usage": "actif",
+    "definition_fr": "En particulier, singulièrement, pour illustrer par un ou plusieurs exemples représentatifs.",
+    "translation_cn": "尤其，特别是",
+    "exemple": "Le sommet abordera les défis climatiques, notamment l'approvisionnement en eau dans les zones arides.",
+    "note": "Évite l'alourdissement produit par 'par exemple' ou 'en particulier' dans un discours formel.",
+    "context": "… le \"Bureau 121\", compte 6 000 employés qui opèrent aussi à partir de l'étranger, notamment de Biélorussie de Chine, d'Inde, de Malaisie ou de Russie.",
+    "fonction": "addition"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "selon lesquelles Pyongyang serait à l'origine du piratage record",
+    "structure": "Conditionnel journalistique d'attribution",
+    "explication": "Le verbe au conditionnel présent ('serait') permet au rédacteur de relater une imputation sans endosser la responsabilité factuelle de sa véracité.",
+    "modele": "D'après des sources concordantes, la banque centrale envisagerait une nouvelle hausse de ses taux directeurs dès le mois prochain."
+   },
+   {
+    "surface": "la sœur du dirigeant Kim Jong-un les qualifiant de \"grave provocation politique\"",
+    "structure": "Proposition participe apposée",
+    "explication": "Le participe présent ('qualifiant') assure une transition narrative fluide en rattachant une citation directe sans surcharger la phrase d'une seconde proposition coordonnée.",
+    "modele": "Le ministre des Finances a clôturé la séance, plusieurs élus d'opposition qualifiant son plan de sauvetage d'insuffisant."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "rhétorique absurde n'apportant rien de nouveau",
+    "figure": "Qualification dépréciative polémique",
+    "effet": "Décrédibilise l'argumentation adverse en la réduisant à un pur artifice verbeux dépourvu de substance logique ou de nouveauté documentaire."
+   },
+   {
+    "surface": "cybercasse du siècle",
+    "figure": "Métaphore hyperbolique",
+    "effet": "Transfère le registre du grand banditisme physique vers l'univers numérique, amplifiant la gravité et la spectacularité du préjudice financier."
+   }
+  ],
+  "dropped": 1
+ }
+}
