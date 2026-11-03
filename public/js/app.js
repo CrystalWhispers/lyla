@@ -244,7 +244,7 @@ function analyserView() {
       <textarea id="src" rows="14" maxlength="9000" placeholder="Collez ici un texte en français…" ${busy ? 'disabled' : ''}>${esc(ui.analyserText)}</textarea>
       <div class="bar">
         <span id="count" class="muted">${ui.analyserText.length} / 9000</span>
-        <button class="primary" data-action="analyze" ${busy || ui.ai.state !== 'ok' ? 'disabled' : ''}>${busy ? 'Analyse en cours…' : 'Analyser le texte'}</button>
+        <button class="primary" data-action="analyze" ${busy || ui.ai.state !== 'ok' ? 'disabled' : ''}>${busy ? 'Analyse en cours (1 à 3 min)…' : 'Analyser le texte'}</button>
       </div>
       ${busy ? '<p class="muted" role="status">L\'analyse prend en général entre 10 et 40 secondes.</p>' : ''}
       ${aiNote()}
@@ -562,7 +562,7 @@ function atelierView() {
       <div class="bar">
         <button class="chip-btn mic${ui.listeningMic ? ' on' : ''}" data-action="atelier-mic" ${speech.canListen ? '' : 'disabled title="La dictée vocale demande Chrome ou Edge"'}>${ICON.mic} ${ui.listeningMic ? 'Arrêter la dictée' : 'Dicter'}</button>
         <button class="chip-btn" data-action="atelier-topic">Proposer un sujet</button>
-        <button class="primary" data-action="atelier-correct" ${busy || ui.ai.state !== 'ok' ? 'disabled' : ''}>${busy ? 'Correction en cours…' : 'Corriger et enrichir'}</button>
+        <button class="primary" data-action="atelier-correct" ${busy || ui.ai.state !== 'ok' ? 'disabled' : ''}>${busy ? 'Correction en cours (1 à 3 min)…' : 'Corriger et enrichir'}</button>
       </div>
       ${A.input ? `<p class="topic">Sujet : ${esc(A.input)}</p>` : ''}
       ${targets}
