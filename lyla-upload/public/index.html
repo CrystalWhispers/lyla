@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Le français avec Lyla</title>
+  <meta name="description" content="Lire, retenir et réemployer le français de la politique et de l'économie internationales.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%23F7CFE0'/%3E%3Cstop offset='1' stop-color='%23CDE5F8'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='18' fill='url(%23g)'/%3E%3Ctext x='32' y='42' font-family='Georgia,serif' font-style='italic' font-size='28' text-anchor='middle' fill='%232B2745'%3ELY%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400;1,9..144,600&family=Hanken+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <a class="skip" href="#main">Aller au contenu</a>
+
+  <header class="top">
+    <div class="brand">
+      <span class="mono" aria-hidden="true">LY</span>
+      <div>
+        <h1>Le français avec Lyla</h1>
+        <p>Politique et économie internationales</p>
+      </div>
+    </div>
+    <nav id="tabs" class="tabs" aria-label="Sections"></nav>
+    <div class="tools">
+      <span id="ai-pill" class="pill" role="status">Connexion…</span>
+      <button class="ghost" data-action="settings-open">Réglages</button>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+    <noscript><p class="empty">Ce site demande JavaScript.</p></noscript>
+  </main>
+
+  <dialog id="settings" aria-labelledby="settings-title">
+    <h2 id="settings-title">Réglages</h2>
+    <div class="field">
+      <label for="set-voice">Voix de lecture</label>
+      <select id="set-voice"></select>
+      <button class="link" id="set-test" type="button">Tester la voix</button>
+    </div>
+    <div class="field">
+      <label for="set-rate">Vitesse de lecture</label>
+      <input id="set-rate" type="range" min="0.6" max="1.2" step="0.05" value="0.95">
+    </div>
+    <div class="field check">
+      <input id="set-cn" type="checkbox">
+      <label for="set-cn">Afficher la traduction chinoise d'emblée</label>
+    </div>
+    <div class="field">
+      <label for="set-code">Code d'accès à l'IA</label>
+      <input id="set-code" type="password" autocomplete="off" placeholder="Fourni par votre professeur">
+    </div>
+    <div class="field">
+      <span class="label">Sauvegarde du carnet</span>
+      <div class="row-btns">
+        <button class="chip-btn" id="set-backup" type="button">Exporter</button>
+        <label class="chip-btn file">Importer<input id="set-import" type="file" accept="application/json,.json" hidden></label>
+      </div>
+      <p class="muted">Le carnet est stocké dans ce navigateur. Exportez-le de temps en temps pour ne rien perdre.</p>
+    </div>
+    <div class="field">
+      <span class="label">Mots déjà connus</span>
+      <p id="set-known" class="muted"></p>
+      <button class="link danger" id="set-reset-known" type="button">Vider la liste</button>
+    </div>
+    <div class="dialog-foot"><button class="primary" data-close type="button">Fermer</button></div>
+  </dialog>
+
+  <div id="toasts" aria-live="polite"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

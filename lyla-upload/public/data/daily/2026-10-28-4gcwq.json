@@ -1,0 +1,457 @@
+{
+ "id": "2026-10-28-4gcwq",
+ "date": "2026-10-28",
+ "title": "Budget : un gouvernement pris en étau",
+ "source": {
+  "name": "Texte original du site",
+  "url": "",
+  "mode": "full",
+  "license": "Texte pédagogique rédigé pour ce site (pas un article de presse)."
+ },
+ "words": 196,
+ "model": "rédigé à la main",
+ "text": "À quelques semaines de l'examen du projet de loi de finances, le gouvernement se trouve pris en étau entre des engagements européens contraignants et une majorité fragile. Le déficit public, qui avoisine les cinq pour cent du produit intérieur brut, ne saurait se résorber sans un effort d'économies d'une ampleur inédite, que l'exécutif peine à faire accepter.\n\nLe ministre de l'Économie plaide pour une trajectoire de redressement étalée sur plusieurs années : il s'agit, dit-il, de rétablir les comptes sans briser l'élan de l'investissement. L'opposition, de son côté, dénonce un budget de rigueur qui ne dit pas son nom et réclame que les efforts soient équitablement répartis. Les syndicats menacent de mobiliser dès l'automne.\n\nLes agences de notation, elles, scrutent chaque annonce. Une dégradation de la note souveraine renchérirait le coût de l'emprunt et réduirait d'autant les moyens d'action de l'État. À cela s'ajoute la question des prélèvements : relever les impôts risquerait de peser sur la consommation, tandis que tailler dans les dépenses sociales exposerait le pouvoir à une contestation durable.\n\nDans ces conditions, nul ne s'attend à un compromis rapide. Il faudra sans doute arbitrer entre des priorités concurrentes, au risque de mécontenter tout le monde.",
+ "analysis": {
+  "title": "Le budget et la contrainte des déficits",
+  "summary": "Le gouvernement doit réduire un déficit proche de 5 % du PIB sans majorité solide. Chaque option, hausse d’impôts ou coupes sociales, comporte un coût politique élevé.",
+  "theme": "Économie & finances publiques",
+  "vocabulaire": [
+   {
+    "id": "b3e3li",
+    "kind": "vocab",
+    "term": "contraignant",
+    "surface": "contraignants",
+    "usage": "actif",
+    "definition_fr": "Qui impose une obligation.",
+    "translation_cn": "有约束力的；强制性的",
+    "exemple": "Les objectifs climatiques deviennent juridiquement contraignants.",
+    "note": "",
+    "context": "À quelques semaines de l'examen du projet de loi de finances, le gouvernement se trouve pris en étau entre des engagements européens contraignants et une majorité fragile.",
+    "start": 133,
+    "end": 146,
+    "synonymes": [],
+    "famille": [
+     "contraindre",
+     "contrainte"
+    ],
+    "collocations": [
+     "engagements contraignants",
+     "règles contraignantes"
+    ]
+   },
+   {
+    "id": "ug24xo",
+    "kind": "vocab",
+    "term": "avoisiner",
+    "surface": "avoisine",
+    "usage": "actif",
+    "definition_fr": "Être proche d’un chiffre.",
+    "translation_cn": "接近（某个数值）",
+    "exemple": "Le taux de chômage avoisine les sept pour cent.",
+    "note": "",
+    "context": "Le déficit public, qui avoisine les cinq pour cent du produit intérieur brut, ne saurait se résorber sans un effort d'économies d'une ampleur inédite, que l'exécutif peine à faire accepter.",
+    "start": 195,
+    "end": 203,
+    "synonymes": [
+     "frôler",
+     "approcher"
+    ],
+    "famille": [],
+    "collocations": [
+     "avoisiner les 5 %"
+    ]
+   },
+   {
+    "id": "1nzkhc4",
+    "kind": "vocab",
+    "term": "se résorber",
+    "surface": "se résorber",
+    "usage": "actif",
+    "definition_fr": "Diminuer jusqu’à disparaître (déficit, chômage).",
+    "translation_cn": "（赤字、失业等）逐渐消除",
+    "exemple": "Le déficit ne se résorbera pas sans réformes.",
+    "note": "",
+    "context": "Le déficit public, qui avoisine les cinq pour cent du produit intérieur brut, ne saurait se résorber sans un effort d'économies d'une ampleur inédite, que l'exécutif peine à faire accepter.",
+    "start": 261,
+    "end": 272,
+    "synonymes": [],
+    "famille": [
+     "résorption",
+     "résorber"
+    ],
+    "collocations": [
+     "résorber le déficit",
+     "le chômage se résorbe"
+    ]
+   },
+   {
+    "id": "10pkoqq",
+    "kind": "vocab",
+    "term": "une ampleur (f.)",
+    "surface": "ampleur inédite",
+    "usage": "actif",
+    "definition_fr": "Importance, taille d’un phénomène.",
+    "translation_cn": "规模；幅度",
+    "exemple": "La mobilisation a pris une ampleur inattendue.",
+    "note": "",
+    "context": "Le déficit public, qui avoisine les cinq pour cent du produit intérieur brut, ne saurait se résorber sans un effort d'économies d'une ampleur inédite, que l'exécutif peine à faire accepter.",
+    "start": 306,
+    "end": 321,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "prendre de l’ampleur",
+     "l’ampleur des dégâts"
+    ]
+   },
+   {
+    "id": "1v72dv7",
+    "kind": "vocab",
+    "term": "étaler",
+    "surface": "étalée",
+    "usage": "actif",
+    "definition_fr": "Répartir dans le temps.",
+    "translation_cn": "分摊（在时间上）；分期",
+    "exemple": "Le remboursement sera étalé sur dix ans.",
+    "note": "",
+    "context": "Le ministre de l'Économie plaide pour une trajectoire de redressement étalée sur plusieurs années : il s'agit, dit-il, de rétablir les comptes sans briser l'élan de l'investissement.",
+    "start": 433,
+    "end": 439,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "étaler les paiements",
+     "étaler une dette"
+    ]
+   },
+   {
+    "id": "55nifc",
+    "kind": "vocab",
+    "term": "dénoncer",
+    "surface": "dénonce",
+    "usage": "actif",
+    "definition_fr": "Critiquer publiquement et vivement.",
+    "translation_cn": "公开谴责；揭露",
+    "exemple": "L’opposition dénonce un manque de transparence.",
+    "note": "",
+    "context": "L'opposition, de son côté, dénonce un budget de rigueur qui ne dit pas son nom et réclame que les efforts soient équitablement répartis.",
+    "start": 573,
+    "end": 580,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "dénoncer un scandale",
+     "dénoncer une injustice"
+    ]
+   },
+   {
+    "id": "7iy1x2",
+    "kind": "vocab",
+    "term": "scruter",
+    "surface": "scrutent",
+    "usage": "passif",
+    "definition_fr": "Examiner avec une grande attention.",
+    "translation_cn": "仔细审视",
+    "exemple": "Les investisseurs scrutent les décisions de la banque centrale.",
+    "note": "",
+    "context": "Les agences de notation, elles, scrutent chaque annonce.",
+    "start": 767,
+    "end": 775,
+    "synonymes": [
+     "épier",
+     "examiner"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1o5jmd2",
+    "kind": "vocab",
+    "term": "renchérir",
+    "surface": "renchérirait",
+    "usage": "actif",
+    "definition_fr": "Rendre plus cher.",
+    "translation_cn": "使…变贵；提高成本",
+    "exemple": "Une hausse des taux renchérirait le crédit immobilier.",
+    "note": "",
+    "context": "Une dégradation de la note souveraine renchérirait le coût de l'emprunt et réduirait d'autant les moyens d'action de l'État.",
+    "start": 830,
+    "end": 842,
+    "synonymes": [],
+    "famille": [
+     "cher",
+     "renchérissement"
+    ],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "3fu5r",
+    "kind": "expression",
+    "term": "être pris en étau (entre)",
+    "surface": "pris en étau",
+    "usage": "actif",
+    "definition_fr": "Subir deux pressions contraires en même temps.",
+    "translation_cn": "被夹在中间；腹背受敌",
+    "exemple": "Les PME sont prises en étau entre l’inflation et la baisse de la demande.",
+    "note": "",
+    "context": "À quelques semaines de l'examen du projet de loi de finances, le gouvernement se trouve pris en étau entre des engagements européens contraignants et une majorité fragile.",
+    "start": 88,
+    "end": 100,
+    "collocations": []
+   },
+   {
+    "id": "1kg9uxe",
+    "kind": "expression",
+    "term": "peiner à + infinitif",
+    "surface": "peine à faire accepter",
+    "usage": "actif",
+    "definition_fr": "Avoir du mal à.",
+    "translation_cn": "难以…",
+    "exemple": "Le gouvernement peine à convaincre sa propre majorité.",
+    "note": "",
+    "context": "Le déficit public, qui avoisine les cinq pour cent du produit intérieur brut, ne saurait se résorber sans un effort d'économies d'une ampleur inédite, que l'exécutif peine à faire accepter.",
+    "start": 338,
+    "end": 360,
+    "collocations": []
+   },
+   {
+    "id": "1k031av",
+    "kind": "expression",
+    "term": "une trajectoire de redressement",
+    "surface": "trajectoire de redressement",
+    "usage": "actif",
+    "definition_fr": "Chemin planifié pour rétablir une situation, ici les comptes publics.",
+    "translation_cn": "（财政）修复路径",
+    "exemple": "Bruxelles exige une trajectoire de redressement crédible.",
+    "note": "",
+    "context": "Le ministre de l'Économie plaide pour une trajectoire de redressement étalée sur plusieurs années : il s'agit, dit-il, de rétablir les comptes sans briser l'élan de l'investissement.",
+    "start": 405,
+    "end": 432,
+    "collocations": [
+     "une trajectoire budgétaire",
+     "redresser les comptes"
+    ]
+   },
+   {
+    "id": "1dcxq0p",
+    "kind": "expression",
+    "term": "briser l’élan",
+    "surface": "briser l'élan",
+    "usage": "actif",
+    "definition_fr": "Interrompre une dynamique positive.",
+    "translation_cn": "打断势头",
+    "exemple": "Cette décision risque de briser l’élan de la reprise.",
+    "note": "",
+    "context": "Le ministre de l'Économie plaide pour une trajectoire de redressement étalée sur plusieurs années : il s'agit, dit-il, de rétablir les comptes sans briser l'élan de l'investissement.",
+    "start": 511,
+    "end": 524,
+    "collocations": []
+   },
+   {
+    "id": "xbu8sp",
+    "kind": "expression",
+    "term": "un budget de rigueur qui ne dit pas son nom",
+    "surface": "budget de rigueur qui ne dit pas son nom",
+    "usage": "actif",
+    "definition_fr": "Un budget d’austérité que l’on refuse d’appeler ainsi.",
+    "translation_cn": "名不副实的紧缩预算",
+    "exemple": "Ils dénoncent une réforme des retraites qui ne dit pas son nom.",
+    "note": "« Qui ne dit pas son nom » = que l’on dissimule volontairement.",
+    "context": "L'opposition, de son côté, dénonce un budget de rigueur qui ne dit pas son nom et réclame que les efforts soient équitablement répartis.",
+    "start": 584,
+    "end": 624,
+    "collocations": []
+   },
+   {
+    "id": "1qwbbn2",
+    "kind": "expression",
+    "term": "la note souveraine",
+    "surface": "note souveraine",
+    "usage": "actif",
+    "definition_fr": "Évaluation de la solvabilité d’un État par une agence de notation.",
+    "translation_cn": "主权信用评级",
+    "exemple": "La note souveraine du pays a été abaissée d’un cran.",
+    "note": "",
+    "context": "Une dégradation de la note souveraine renchérirait le coût de l'emprunt et réduirait d'autant les moyens d'action de l'État.",
+    "start": 814,
+    "end": 829,
+    "collocations": [
+     "dégrader la note",
+     "perdre son triple A"
+    ]
+   },
+   {
+    "id": "fojl6u",
+    "kind": "expression",
+    "term": "peser sur",
+    "surface": "peser sur la consommation",
+    "usage": "actif",
+    "definition_fr": "Exercer une pression négative sur.",
+    "translation_cn": "对…造成压力",
+    "exemple": "L’inflation pèse sur le moral des ménages.",
+    "note": "",
+    "context": "À cela s'ajoute la question des prélèvements : relever les impôts risquerait de peser sur la consommation, tandis que tailler dans les dépenses sociales exposerait le pouvoir à une contestation durable.",
+    "start": 997,
+    "end": 1022,
+    "collocations": []
+   },
+   {
+    "id": "llzgz1",
+    "kind": "expression",
+    "term": "tailler dans les dépenses",
+    "surface": "tailler dans les dépenses sociales",
+    "usage": "actif",
+    "definition_fr": "Réduire fortement les dépenses.",
+    "translation_cn": "大幅削减开支",
+    "exemple": "Le gouvernement veut tailler dans les dépenses de fonctionnement.",
+    "note": "",
+    "context": "À cela s'ajoute la question des prélèvements : relever les impôts risquerait de peser sur la consommation, tandis que tailler dans les dépenses sociales exposerait le pouvoir à une contestation durable.",
+    "start": 1035,
+    "end": 1069,
+    "collocations": []
+   },
+   {
+    "id": "q0scxi",
+    "kind": "expression",
+    "term": "arbitrer entre",
+    "surface": "arbitrer entre des priorités concurrentes",
+    "usage": "actif",
+    "definition_fr": "Choisir entre des options qui ne peuvent pas toutes être satisfaites.",
+    "translation_cn": "在…之间权衡取舍",
+    "exemple": "Il faudra arbitrer entre la défense et la santé.",
+    "note": "",
+    "context": "Il faudra sans doute arbitrer entre des priorités concurrentes, au risque de mécontenter tout le monde.",
+    "start": 1202,
+    "end": 1243,
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1105t7v",
+    "kind": "connecteur",
+    "term": "de son côté",
+    "surface": "de son côté",
+    "usage": "actif",
+    "definition_fr": "Introduit la position d’un autre acteur.",
+    "translation_cn": "就其而言；另一方面",
+    "exemple": "Le patronat, de son côté, réclame une baisse des charges.",
+    "note": "",
+    "context": "L'opposition, de son côté, dénonce un budget de rigueur qui ne dit pas son nom et réclame que les efforts soient équitablement répartis.",
+    "start": 560,
+    "end": 571,
+    "fonction": "opposition"
+   },
+   {
+    "id": "1prs7e2",
+    "kind": "connecteur",
+    "term": "d’autant (que)",
+    "surface": "d'autant",
+    "usage": "actif",
+    "definition_fr": "Dans la même mesure, en proportion.",
+    "translation_cn": "相应地；更何况",
+    "exemple": "Le projet est d’autant plus risqué que les fonds manquent.",
+    "note": "« D’autant plus que » introduit une cause qui renforce.",
+    "context": "Une dégradation de la note souveraine renchérirait le coût de l'emprunt et réduirait d'autant les moyens d'action de l'État.",
+    "start": 877,
+    "end": 885,
+    "fonction": "proportion"
+   },
+   {
+    "id": "18igbur",
+    "kind": "connecteur",
+    "term": "à cela s’ajoute",
+    "surface": "À cela s'ajoute",
+    "usage": "actif",
+    "definition_fr": "Introduit un élément supplémentaire.",
+    "translation_cn": "此外还有…",
+    "exemple": "À cela s’ajoute une pénurie de main-d’œuvre.",
+    "note": "",
+    "context": "À cela s'ajoute la question des prélèvements : relever les impôts risquerait de peser sur la consommation, tandis que tailler dans les dépenses sociales exposerait le pouvoir à une contestation durable.",
+    "start": 917,
+    "end": 932,
+    "fonction": "addition"
+   },
+   {
+    "id": "tjs0ft",
+    "kind": "connecteur",
+    "term": "tandis que",
+    "surface": "tandis que",
+    "usage": "actif",
+    "definition_fr": "Oppose deux faits simultanés.",
+    "translation_cn": "而（对比）",
+    "exemple": "Les prix grimpent tandis que les salaires stagnent.",
+    "note": "",
+    "context": "À cela s'ajoute la question des prélèvements : relever les impôts risquerait de peser sur la consommation, tandis que tailler dans les dépenses sociales exposerait le pouvoir à une contestation durable.",
+    "start": 1024,
+    "end": 1034,
+    "fonction": "opposition"
+   },
+   {
+    "id": "ij5kna",
+    "kind": "connecteur",
+    "term": "dans ces conditions",
+    "surface": "Dans ces conditions",
+    "usage": "actif",
+    "definition_fr": "Compte tenu de ce qui précède.",
+    "translation_cn": "在这种情况下",
+    "exemple": "Dans ces conditions, le report paraît inévitable.",
+    "note": "",
+    "context": "Dans ces conditions, nul ne s'attend à un compromis rapide.",
+    "start": 1121,
+    "end": 1140,
+    "fonction": "conséquence"
+   },
+   {
+    "id": "16gwt65",
+    "kind": "connecteur",
+    "term": "au risque de",
+    "surface": "au risque de",
+    "usage": "actif",
+    "definition_fr": "En acceptant la possibilité d’un inconvénient.",
+    "translation_cn": "冒着…的风险",
+    "exemple": "Il persiste, au risque de se couper de sa base.",
+    "note": "",
+    "context": "Il faudra sans doute arbitrer entre des priorités concurrentes, au risque de mécontenter tout le monde.",
+    "start": 1245,
+    "end": 1257,
+    "fonction": "risque assumé"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "ne saurait se résorber sans un effort d'économies d'une ampleur inédite",
+    "structure": "Conditionnel de « pouvoir » à valeur de négation posée",
+    "explication": "Dans la langue soutenue, « ne saurait » + infinitif exprime l’impossibilité ou l’interdiction avec plus de retenue et d’élégance que « ne peut pas ».",
+    "modele": "Le débat ne saurait être réduit à une question de chiffres."
+   },
+   {
+    "surface": "Une dégradation de la note souveraine renchérirait le coût de l'emprunt et réduirait d'autant les moyens d'action de l'État",
+    "structure": "Conditionnel d’hypothèse portée par le sujet",
+    "explication": "La condition est contenue dans le groupe nominal sujet (« une dégradation… ») : le conditionnel suffit, sans proposition en « si ».",
+    "modele": "Un retrait des investisseurs précipiterait la chute de la monnaie."
+   },
+   {
+    "surface": "nul ne s'attend à un compromis rapide",
+    "structure": "Pronom indéfini négatif « nul ne » (registre soutenu)",
+    "explication": "« Nul ne » équivaut à « personne ne » mais appartient à la langue écrite et oratoire ; il se construit sans « pas ».",
+    "modele": "Nul ne saurait nier l’urgence de la situation."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "pris en étau",
+    "figure": "Métaphore",
+    "effet": "L’image physique de l’étau traduit une contrainte mécanique inévitable ; elle présente le gouvernement comme victime des circonstances plus que de ses choix."
+   },
+   {
+    "surface": "budget de rigueur qui ne dit pas son nom",
+    "figure": "Dénonciation d’un euphémisme",
+    "effet": "L’opposition accuse le pouvoir de dissimuler la réalité des économies sous un vocabulaire adouci ; la formule est plus accusatrice qu’une critique frontale."
+   }
+  ],
+  "dropped": 0
+ }
+}

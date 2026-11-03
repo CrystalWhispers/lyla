@@ -1,0 +1,5 @@
+# File d'attente de l'enseignant : une URL d'article par ligne.
+# Format : URL   ou   URL | thème (facultatif)
+# Les articles de cette liste sont analysés au prochain passage (au plus 2 par jour).
+# Seules de courtes citations (25 mots maximum par élément) sont conservées sur le site, avec le lien vers la source.
+# Les lignes qui commencent par # sont ignorées.

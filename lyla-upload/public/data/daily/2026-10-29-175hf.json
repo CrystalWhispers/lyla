@@ -1,0 +1,485 @@
+{
+ "id": "2026-10-29-175hf",
+ "date": "2026-10-29",
+ "title": "La Banque centrale face à l’inflation : tenir le cap",
+ "source": {
+  "name": "Texte original du site",
+  "url": "",
+  "mode": "full",
+  "license": "Texte pédagogique rédigé pour ce site (pas un article de presse)."
+ },
+ "words": 209,
+ "model": "rédigé à la main",
+ "text": "Depuis dix-huit mois, la Banque centrale européenne durcit sa politique monétaire avec une constance qui n'a guère d'équivalent dans son histoire récente. Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.\n\nLes marchés, eux, restent sceptiques. Certains analystes estiment que l'institution a tardé à réagir et qu'elle s'efforce désormais de rattraper le temps perdu ; d'autres redoutent qu'elle ne pèche par excès de zèle et n'étouffe la reprise dans l'œuf. Il n'en demeure pas moins que la désinflation tarde à se manifester dans les services, où les hausses de salaires se répercutent sur les prix.\n\nPour les gouvernements, la marge de manœuvre se réduit à vue d'œil. Le renchérissement du crédit alourdit la charge de la dette, alors même que l'opinion réclame des mesures de soutien au pouvoir d'achat. Reste à savoir si les États parviendront à concilier rigueur budgétaire et protection des ménages sans que l'un ne se fasse au détriment de l'autre. Quoi qu'il en soit, la crédibilité de la banque centrale dépendra de sa capacité à tenir le cap, sans céder aux pressions politiques.",
+ "analysis": {
+  "title": "La banque centrale face à l’inflation",
+  "summary": "La BCE relève ses taux au risque de freiner une croissance déjà faible, tandis que les États voient leur marge budgétaire se réduire. Sa crédibilité dépendra de sa fermeté.",
+  "theme": "Monnaie & inflation",
+  "vocabulaire": [
+   {
+    "id": "y8239w",
+    "kind": "vocab",
+    "term": "alimenter (une inflation, un débat)",
+    "surface": "alimentée",
+    "usage": "actif",
+    "definition_fr": "Entretenir et faire croître.",
+    "translation_cn": "助长；推动（通胀、争论等）",
+    "exemple": "Les rumeurs ont alimenté la défiance envers les banques.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 189,
+    "end": 198,
+    "synonymes": [
+     "nourrir",
+     "entretenir"
+    ],
+    "famille": [],
+    "collocations": [
+     "alimenter les tensions",
+     "alimenter un débat"
+    ]
+   },
+   {
+    "id": "1c7s3c0",
+    "kind": "vocab",
+    "term": "une flambée (f.)",
+    "surface": "flambée",
+    "usage": "actif",
+    "definition_fr": "Hausse brutale et rapide, surtout des prix.",
+    "translation_cn": "（价格等）飙升",
+    "exemple": "La flambée du cours du gaz a surpris les ménages.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 221,
+    "end": 228,
+    "synonymes": [
+     "envolée",
+     "explosion"
+    ],
+    "famille": [
+     "flamber"
+    ],
+    "collocations": [
+     "flambée des prix",
+     "flambée de violence"
+    ]
+   },
+   {
+    "id": "ncsh4v",
+    "kind": "vocab",
+    "term": "atone",
+    "surface": "atone",
+    "usage": "actif",
+    "definition_fr": "Sans dynamisme, très faible.",
+    "translation_cn": "疲软的；缺乏活力的",
+    "exemple": "La demande intérieure reste atone depuis le printemps.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 416,
+    "end": 421,
+    "synonymes": [
+     "molle",
+     "anémique"
+    ],
+    "famille": [],
+    "collocations": [
+     "croissance atone",
+     "demande atone"
+    ]
+   },
+   {
+    "id": "13zsewy",
+    "kind": "vocab",
+    "term": "fragiliser",
+    "surface": "fragiliser",
+    "usage": "actif",
+    "definition_fr": "Rendre plus fragile, affaiblir.",
+    "translation_cn": "使脆弱；削弱",
+    "exemple": "Ce scandale a fragilisé la position du ministre.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 385,
+    "end": 395,
+    "synonymes": [],
+    "famille": [
+     "fragile",
+     "fragilité",
+     "fragilisation"
+    ],
+    "collocations": [
+     "fragiliser l’économie",
+     "fragiliser une coalition"
+    ]
+   },
+   {
+    "id": "sgy26e",
+    "kind": "vocab",
+    "term": "la désinflation (f.)",
+    "surface": "désinflation",
+    "usage": "actif",
+    "definition_fr": "Ralentissement de la hausse des prix.",
+    "translation_cn": "通胀回落（物价涨幅放缓）",
+    "exemple": "La désinflation est plus lente que prévu dans les services.",
+    "note": "À ne pas confondre avec la déflation, qui est une baisse générale des prix.",
+    "context": "Il n'en demeure pas moins que la désinflation tarde à se manifester dans les services, où les hausses de salaires se répercutent sur les prix.",
+    "start": 709,
+    "end": 721,
+    "synonymes": [],
+    "famille": [
+     "inflation",
+     "déflation"
+    ],
+    "collocations": []
+   },
+   {
+    "id": "w6g249",
+    "kind": "vocab",
+    "term": "le renchérissement (m.)",
+    "surface": "renchérissement",
+    "usage": "actif",
+    "definition_fr": "Augmentation du prix de quelque chose.",
+    "translation_cn": "涨价；成本上升",
+    "exemple": "Le renchérissement des matières premières pèse sur les marges.",
+    "note": "",
+    "context": "Le renchérissement du crédit alourdit la charge de la dette, alors même que l'opinion réclame des mesures de soutien au pouvoir d'achat.",
+    "start": 891,
+    "end": 906,
+    "synonymes": [],
+    "famille": [
+     "cher",
+     "renchérir"
+    ],
+    "collocations": [
+     "le renchérissement du crédit",
+     "le renchérissement de l’énergie"
+    ]
+   },
+   {
+    "id": "kd7pii",
+    "kind": "vocab",
+    "term": "la crédibilité (f.)",
+    "surface": "crédibilité",
+    "usage": "actif",
+    "definition_fr": "Capacité à être cru et à inspirer confiance.",
+    "translation_cn": "可信度；公信力",
+    "exemple": "Une banque centrale vit de sa crédibilité.",
+    "note": "",
+    "context": "Quoi qu'il en soit, la crédibilité de la banque centrale dépendra de sa capacité à tenir le cap, sans céder aux pressions politiques.",
+    "start": 1197,
+    "end": 1208,
+    "synonymes": [],
+    "famille": [
+     "crédible",
+     "discréditer"
+    ],
+    "collocations": [
+     "perdre en crédibilité",
+     "asseoir sa crédibilité"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "ai6fus",
+    "kind": "expression",
+    "term": "durcir sa politique monétaire",
+    "surface": "durcit sa politique monétaire",
+    "usage": "actif",
+    "definition_fr": "Rendre le crédit plus cher et plus rare, en relevant les taux.",
+    "translation_cn": "收紧货币政策",
+    "exemple": "La Fed pourrait durcir sa politique monétaire dès l’automne.",
+    "note": "",
+    "context": "Depuis dix-huit mois, la Banque centrale européenne durcit sa politique monétaire avec une constance qui n'a guère d'équivalent dans son histoire récente.",
+    "start": 52,
+    "end": 81,
+    "collocations": [
+     "assouplir la politique monétaire"
+    ]
+   },
+   {
+    "id": "j844ki",
+    "kind": "expression",
+    "term": "une spirale inflationniste",
+    "surface": "spirale inflationniste",
+    "usage": "actif",
+    "definition_fr": "Mécanisme où hausse des prix et hausse des salaires s’entraînent mutuellement.",
+    "translation_cn": "通胀螺旋",
+    "exemple": "Les syndicats craignent d’être accusés d’alimenter une spirale inflationniste.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 166,
+    "end": 188,
+    "collocations": []
+   },
+   {
+    "id": "2p8jlg",
+    "kind": "expression",
+    "term": "pécher par excès de zèle",
+    "surface": "pèche par excès de zèle",
+    "usage": "actif",
+    "definition_fr": "En faire trop, avec de bonnes intentions mais de mauvais effets.",
+    "translation_cn": "矫枉过正；过于热心反而误事",
+    "exemple": "L’administration a péché par excès de zèle en multipliant les contrôles.",
+    "note": "",
+    "context": "Certains analystes estiment que l'institution a tardé à réagir et qu'elle s'efforce désormais de rattraper le temps perdu ; d'autres redoutent qu'elle ne pèche par excès de zèle et n'étouffe la reprise dans l'œuf.",
+    "start": 616,
+    "end": 639,
+    "collocations": []
+   },
+   {
+    "id": "ruembw",
+    "kind": "expression",
+    "term": "étouffer quelque chose dans l’œuf",
+    "surface": "étouffe la reprise dans l'œuf",
+    "usage": "actif",
+    "definition_fr": "Empêcher quelque chose de se développer dès le début.",
+    "translation_cn": "把…扼杀在萌芽状态",
+    "exemple": "Le gouvernement veut étouffer la contestation dans l’œuf.",
+    "note": "",
+    "context": "Certains analystes estiment que l'institution a tardé à réagir et qu'elle s'efforce désormais de rattraper le temps perdu ; d'autres redoutent qu'elle ne pèche par excès de zèle et n'étouffe la reprise dans l'œuf.",
+    "start": 645,
+    "end": 674,
+    "collocations": []
+   },
+   {
+    "id": "3jvpyz",
+    "kind": "expression",
+    "term": "tarder à + infinitif",
+    "surface": "tarde à se manifester",
+    "usage": "actif",
+    "definition_fr": "Mettre longtemps à se produire.",
+    "translation_cn": "迟迟没有…",
+    "exemple": "Les effets de la réforme tardent à se faire sentir.",
+    "note": "« Sans tarder » = immédiatement.",
+    "context": "Il n'en demeure pas moins que la désinflation tarde à se manifester dans les services, où les hausses de salaires se répercutent sur les prix.",
+    "start": 722,
+    "end": 743,
+    "collocations": []
+   },
+   {
+    "id": "1fr2ooy",
+    "kind": "expression",
+    "term": "se répercuter sur",
+    "surface": "se répercutent sur les prix",
+    "usage": "actif",
+    "definition_fr": "Avoir des effets en chaîne sur.",
+    "translation_cn": "波及；传导到",
+    "exemple": "La hausse des coûts se répercute sur les consommateurs.",
+    "note": "",
+    "context": "Il n'en demeure pas moins que la désinflation tarde à se manifester dans les services, où les hausses de salaires se répercutent sur les prix.",
+    "start": 790,
+    "end": 817,
+    "collocations": [
+     "se répercuter sur les prix",
+     "se répercuter sur l’emploi"
+    ]
+   },
+   {
+    "id": "vqaw8p",
+    "kind": "expression",
+    "term": "une marge de manœuvre",
+    "surface": "marge de manœuvre",
+    "usage": "actif",
+    "definition_fr": "Liberté d’action dont on dispose.",
+    "translation_cn": "回旋余地",
+    "exemple": "Le déficit limite la marge de manœuvre de l’État.",
+    "note": "",
+    "context": "Pour les gouvernements, la marge de manœuvre se réduit à vue d'œil.",
+    "start": 847,
+    "end": 864,
+    "collocations": [
+     "réduire la marge de manœuvre",
+     "retrouver des marges de manœuvre"
+    ]
+   },
+   {
+    "id": "1wo91ew",
+    "kind": "expression",
+    "term": "alourdir la charge de la dette",
+    "surface": "alourdit la charge de la dette",
+    "usage": "actif",
+    "definition_fr": "Augmenter ce que l’État doit payer chaque année pour sa dette (intérêts).",
+    "translation_cn": "加重债务负担",
+    "exemple": "La hausse des taux alourdit la charge de la dette.",
+    "note": "",
+    "context": "Le renchérissement du crédit alourdit la charge de la dette, alors même que l'opinion réclame des mesures de soutien au pouvoir d'achat.",
+    "start": 917,
+    "end": 947,
+    "collocations": [
+     "la charge de la dette",
+     "alourdir la facture"
+    ]
+   },
+   {
+    "id": "1y0j48v",
+    "kind": "expression",
+    "term": "à vue d’œil",
+    "surface": "à vue d'œil",
+    "usage": "actif",
+    "definition_fr": "De façon perceptible, très vite.",
+    "translation_cn": "肉眼可见地",
+    "exemple": "Les stocks diminuent à vue d’œil.",
+    "note": "",
+    "context": "Pour les gouvernements, la marge de manœuvre se réduit à vue d'œil.",
+    "start": 875,
+    "end": 886,
+    "collocations": []
+   },
+   {
+    "id": "1k0755q",
+    "kind": "expression",
+    "term": "tenir le cap",
+    "surface": "tenir le cap",
+    "usage": "actif",
+    "definition_fr": "Maintenir sa ligne d’action malgré les difficultés.",
+    "translation_cn": "坚持既定方向",
+    "exemple": "Le Premier ministre promet de tenir le cap des réformes.",
+    "note": "",
+    "context": "Quoi qu'il en soit, la crédibilité de la banque centrale dépendra de sa capacité à tenir le cap, sans céder aux pressions politiques.",
+    "start": 1257,
+    "end": 1269,
+    "collocations": []
+   },
+   {
+    "id": "1hvtc0e",
+    "kind": "expression",
+    "term": "au détriment de",
+    "surface": "au détriment de",
+    "usage": "actif",
+    "definition_fr": "En causant du tort à.",
+    "translation_cn": "以…为代价；损害…",
+    "exemple": "Les économies se font au détriment de la qualité du service.",
+    "note": "",
+    "context": "Reste à savoir si les États parviendront à concilier rigueur budgétaire et protection des ménages sans que l'un ne se fasse au détriment de l'autre.",
+    "start": 1149,
+    "end": 1164,
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "15d83t7",
+    "kind": "connecteur",
+    "term": "tout à la fois… et",
+    "surface": "tout à la fois",
+    "usage": "actif",
+    "definition_fr": "Exprime que deux réalités coexistent.",
+    "translation_cn": "既…又…（同时）",
+    "exemple": "Une crise tout à la fois sociale et politique.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 199,
+    "end": 213,
+    "fonction": "addition"
+   },
+   {
+    "id": "kn83yx",
+    "kind": "connecteur",
+    "term": "quitte à + infinitif",
+    "surface": "quitte à",
+    "usage": "actif",
+    "definition_fr": "En acceptant le risque ou l’inconvénient de.",
+    "translation_cn": "哪怕要…；不惜…",
+    "exemple": "Il maintiendra sa réforme, quitte à perdre sa majorité.",
+    "note": "",
+    "context": "Face à une spirale inflationniste alimentée tout à la fois par la flambée des prix de l'énergie et par les tensions sur les chaînes d'approvisionnement, ses dirigeants ont relevé les taux directeurs à plusieurs reprises, quitte à fragiliser une croissance déjà atone.",
+    "start": 376,
+    "end": 384,
+    "fonction": "risque assumé"
+   },
+   {
+    "id": "ojjpe0",
+    "kind": "connecteur",
+    "term": "il n’en demeure pas moins que",
+    "surface": "Il n'en demeure pas moins que",
+    "usage": "actif",
+    "definition_fr": "Malgré ce qui vient d’être dit, il reste que.",
+    "translation_cn": "尽管如此，仍然…",
+    "exemple": "Il n’en demeure pas moins que les résultats sont décevants.",
+    "note": "",
+    "context": "Il n'en demeure pas moins que la désinflation tarde à se manifester dans les services, où les hausses de salaires se répercutent sur les prix.",
+    "start": 676,
+    "end": 705,
+    "fonction": "concession"
+   },
+   {
+    "id": "1joyqlb",
+    "kind": "connecteur",
+    "term": "alors même que",
+    "surface": "alors même que",
+    "usage": "actif",
+    "definition_fr": "Malgré le fait que (renforce « alors que »).",
+    "translation_cn": "尽管…（强调反差）",
+    "exemple": "Il a été réélu alors même que son bilan était contesté.",
+    "note": "",
+    "context": "Le renchérissement du crédit alourdit la charge de la dette, alors même que l'opinion réclame des mesures de soutien au pouvoir d'achat.",
+    "start": 949,
+    "end": 963,
+    "fonction": "concession"
+   },
+   {
+    "id": "eek6t9",
+    "kind": "connecteur",
+    "term": "reste à savoir si",
+    "surface": "Reste à savoir si",
+    "usage": "actif",
+    "definition_fr": "Il faut encore déterminer si.",
+    "translation_cn": "尚待观察…是否…",
+    "exemple": "Reste à savoir si le texte sera adopté.",
+    "note": "",
+    "context": "Reste à savoir si les États parviendront à concilier rigueur budgétaire et protection des ménages sans que l'un ne se fasse au détriment de l'autre.",
+    "start": 1025,
+    "end": 1042,
+    "fonction": "ouverture d’une question"
+   },
+   {
+    "id": "winxwb",
+    "kind": "connecteur",
+    "term": "quoi qu’il en soit",
+    "surface": "Quoi qu'il en soit",
+    "usage": "actif",
+    "definition_fr": "Quelle que soit la situation, en tout cas.",
+    "translation_cn": "无论如何",
+    "exemple": "Quoi qu’il en soit, la décision appartient aux électeurs.",
+    "note": "",
+    "context": "Quoi qu'il en soit, la crédibilité de la banque centrale dépendra de sa capacité à tenir le cap, sans céder aux pressions politiques.",
+    "start": 1174,
+    "end": 1192,
+    "fonction": "conclusion"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "d'autres redoutent qu'elle ne pèche par excès de zèle et n'étouffe la reprise dans l'œuf",
+    "structure": "Subjonctif après un verbe de crainte, avec « ne » explétif",
+    "explication": "Après redouter ou craindre que, on emploie le subjonctif, et la langue soignée ajoute un « ne » sans valeur négative. Le sens reste positif : ils craignent qu’elle pèche.",
+    "modele": "Les experts redoutent que la crise ne s’aggrave avant l’été."
+   },
+   {
+    "surface": "Les marchés, eux, restent sceptiques",
+    "structure": "Mise en relief par le pronom disjoint",
+    "explication": "Le pronom « eux » inséré après le sujet marque l’opposition avec ce qui précède (ici, les dirigeants de la banque).",
+    "modele": "Les syndicats, eux, refusent tout compromis."
+   },
+   {
+    "surface": "Reste à savoir si les États parviendront à concilier rigueur budgétaire et protection des ménages sans que l'un ne se fasse au détriment de l'autre",
+    "structure": "Tournure elliptique « reste à + infinitif », puis « sans que » + subjonctif",
+    "explication": "« Reste à savoir » omet le sujet (il reste à savoir) et ouvre une question en fin de paragraphe. « Sans que » exige le subjonctif et accepte un « ne » explétif.",
+    "modele": "Reste à voir si le gouvernement saura réformer sans que la dette ne s’envole."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "spirale inflationniste",
+    "figure": "Métaphore",
+    "effet": "La spirale évoque un mouvement qui s’entretient lui-même et échappe au contrôle : l’image dramatise la situation et justifie la fermeté de la banque."
+   },
+   {
+    "surface": "étouffe la reprise dans l'œuf",
+    "figure": "Métaphore biologique",
+    "effet": "La reprise devient un être vivant fragile que l’on peut tuer avant sa naissance ; l’image souligne le risque d’une erreur irréversible."
+   }
+  ],
+  "dropped": 0
+ }
+}

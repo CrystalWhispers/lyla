@@ -1,0 +1,16 @@
+{
+  "name": "le-francais-avec-lyla",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "daily": "node scripts/generate-daily.mjs",
+    "seeds": "node scripts/build-seeds.mjs"
+  },
+  "dependencies": {
+    "@mozilla/readability": "0.5.0",
+    "fast-xml-parser": "4.5.0",
+    "linkedom": "0.18.5"
+  }
+}

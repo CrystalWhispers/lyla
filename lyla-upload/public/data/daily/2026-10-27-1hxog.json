@@ -1,0 +1,458 @@
+{
+ "id": "2026-10-27-1hxog",
+ "date": "2026-10-27",
+ "title": "Commerce : l’Europe cherche une voix commune",
+ "source": {
+  "name": "Texte original du site",
+  "url": "",
+  "mode": "full",
+  "license": "Texte pédagogique rédigé pour ce site (pas un article de presse)."
+ },
+ "words": 197,
+ "model": "rédigé à la main",
+ "text": "Au sommet de Bruxelles, les Vingt-Sept se sont efforcés de parler d'une seule voix face à la montée du protectionnisme. Les dirigeants européens ont réaffirmé leur attachement au multilatéralisme, tout en admettant que l'Union ne pouvait plus se contenter d'un rôle de simple spectatrice dans la compétition entre grandes puissances.\n\nAu cœur des discussions figurait la question des subventions massives accordées par certains partenaires à leurs industries. Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles. La présidence tente de ménager la chèvre et le chou en proposant un dispositif graduel, qui ne serait déclenché qu'en dernier recours.\n\nReste que les divergences sont profondes. Les États les plus exposés à la concurrence étrangère jugent urgent d'agir, alors que les économies tournées vers l'export mettent en garde contre toute escalade. Le compromis, s'il aboutit, devra répondre à un double impératif : protéger le tissu industriel européen sans fermer le marché unique au reste du monde.\n\nD'ici là, les négociations commerciales avec les partenaires du continent se poursuivent à huis clos. Nul ne sait encore si elles déboucheront sur un accord avant la fin de l'année.",
+ "analysis": {
+  "title": "L’Europe entre ouverture et défense commerciale",
+  "summary": "Les Vingt-Sept cherchent une ligne commune face aux subventions étrangères. Les pays exposés veulent durcir la défense commerciale, les exportateurs craignent l’escalade.",
+  "theme": "Commerce international",
+  "vocabulaire": [
+   {
+    "id": "1x45f1d",
+    "kind": "vocab",
+    "term": "réaffirmer",
+    "surface": "réaffirmé",
+    "usage": "actif",
+    "definition_fr": "Affirmer de nouveau avec force.",
+    "translation_cn": "重申",
+    "exemple": "Le président a réaffirmé son soutien à l’Alliance.",
+    "note": "",
+    "context": "Les dirigeants européens ont réaffirmé leur attachement au multilatéralisme, tout en admettant que l'Union ne pouvait plus se contenter d'un rôle de simple spectatrice dans la compétition entre grandes puissances.",
+    "start": 149,
+    "end": 158,
+    "synonymes": [],
+    "famille": [
+     "affirmer",
+     "affirmation"
+    ],
+    "collocations": [
+     "réaffirmer son attachement à",
+     "réaffirmer son soutien"
+    ]
+   },
+   {
+    "id": "xe3qp4",
+    "kind": "vocab",
+    "term": "un durcissement (m.)",
+    "surface": "durcissement",
+    "usage": "actif",
+    "definition_fr": "Fait de devenir plus strict ou plus sévère.",
+    "translation_cn": "强化；收紧",
+    "exemple": "On observe un durcissement du discours sur l’immigration.",
+    "note": "",
+    "context": "Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles.",
+    "start": 497,
+    "end": 509,
+    "synonymes": [],
+    "famille": [
+     "dur",
+     "durcir"
+    ],
+    "collocations": [
+     "durcissement du ton",
+     "durcissement des conditions"
+    ]
+   },
+   {
+    "id": "xi1lbc",
+    "kind": "vocab",
+    "term": "soucieux (de)",
+    "surface": "soucieuses de préserver",
+    "usage": "actif",
+    "definition_fr": "Qui se préoccupe de quelque chose, qui y tient.",
+    "translation_cn": "重视…的；关切…的",
+    "exemple": "Soucieux de rassurer, le ministre a multiplié les déclarations.",
+    "note": "",
+    "context": "Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles.",
+    "start": 562,
+    "end": 585,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "soucieux de l’environnement",
+     "soucieux de préserver"
+    ]
+   },
+   {
+    "id": "d5qy7s",
+    "kind": "vocab",
+    "term": "un engrenage (m.)",
+    "surface": "engrenage",
+    "usage": "actif",
+    "definition_fr": "Enchaînement de faits dont on ne peut plus s’échapper.",
+    "translation_cn": "连锁升级；恶性循环",
+    "exemple": "Les sanctions risquent d’enclencher un engrenage de représailles.",
+    "note": "",
+    "context": "Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles.",
+    "start": 619,
+    "end": 628,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "un engrenage de violence",
+     "être pris dans l’engrenage"
+    ]
+   },
+   {
+    "id": "spmj21",
+    "kind": "vocab",
+    "term": "les représailles (f. pl.)",
+    "surface": "représailles",
+    "usage": "actif",
+    "definition_fr": "Mesures de riposte prises en réponse à une action jugée hostile.",
+    "translation_cn": "报复措施",
+    "exemple": "Pékin a annoncé des représailles commerciales.",
+    "note": "Presque toujours au pluriel.",
+    "context": "Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles.",
+    "start": 632,
+    "end": 644,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "exercer des représailles",
+     "en représailles à"
+    ]
+   },
+   {
+    "id": "1e21t4o",
+    "kind": "vocab",
+    "term": "un dispositif (m.)",
+    "surface": "dispositif",
+    "usage": "actif",
+    "definition_fr": "Ensemble organisé de mesures pour atteindre un but.",
+    "translation_cn": "机制；措施体系",
+    "exemple": "Un dispositif d’alerte précoce sera mis en place.",
+    "note": "",
+    "context": "La présidence tente de ménager la chèvre et le chou en proposant un dispositif graduel, qui ne serait déclenché qu'en dernier recours.",
+    "start": 714,
+    "end": 724,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "mettre en place un dispositif",
+     "un dispositif de sécurité"
+    ]
+   },
+   {
+    "id": "y8xn7n",
+    "kind": "vocab",
+    "term": "déclencher",
+    "surface": "déclenché",
+    "usage": "actif",
+    "definition_fr": "Mettre en marche, provoquer.",
+    "translation_cn": "触发；启动",
+    "exemple": "La clause pourra être déclenchée à la majorité qualifiée.",
+    "note": "",
+    "context": "La présidence tente de ménager la chèvre et le chou en proposant un dispositif graduel, qui ne serait déclenché qu'en dernier recours.",
+    "start": 748,
+    "end": 757,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "déclencher une procédure",
+     "déclencher une crise"
+    ]
+   },
+   {
+    "id": "d7c0ff",
+    "kind": "vocab",
+    "term": "un impératif (m.)",
+    "surface": "impératif",
+    "usage": "actif",
+    "definition_fr": "Exigence à laquelle on ne peut échapper.",
+    "translation_cn": "迫切要求；必要条件",
+    "exemple": "La transition énergétique est devenue un impératif économique.",
+    "note": "",
+    "context": "Le compromis, s'il aboutit, devra répondre à un double impératif : protéger le tissu industriel européen sans fermer le marché unique au reste du monde.",
+    "start": 1042,
+    "end": 1051,
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "un impératif de sécurité",
+     "répondre à un impératif"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "nmymyo",
+    "kind": "expression",
+    "term": "parler d’une seule voix",
+    "surface": "parler d'une seule voix",
+    "usage": "actif",
+    "definition_fr": "Défendre une position commune.",
+    "translation_cn": "用同一个声音说话；立场一致",
+    "exemple": "Les partenaires sociaux ont réussi à parler d’une seule voix.",
+    "note": "",
+    "context": "Au sommet de Bruxelles, les Vingt-Sept se sont efforcés de parler d'une seule voix face à la montée du protectionnisme.",
+    "start": 59,
+    "end": 82,
+    "collocations": []
+   },
+   {
+    "id": "13c98q5",
+    "kind": "expression",
+    "term": "la montée du protectionnisme",
+    "surface": "montée du protectionnisme",
+    "usage": "actif",
+    "definition_fr": "Progression des politiques de protection du marché national.",
+    "translation_cn": "保护主义抬头",
+    "exemple": "La montée du protectionnisme inquiète les exportateurs.",
+    "note": "",
+    "context": "Au sommet de Bruxelles, les Vingt-Sept se sont efforcés de parler d'une seule voix face à la montée du protectionnisme.",
+    "start": 93,
+    "end": 118,
+    "collocations": [
+     "la montée du populisme",
+     "la montée des tensions"
+    ]
+   },
+   {
+    "id": "y6x6pm",
+    "kind": "expression",
+    "term": "se contenter de",
+    "surface": "se contenter d'un rôle de simple spectatrice",
+    "usage": "actif",
+    "definition_fr": "Ne pas chercher à obtenir davantage que.",
+    "translation_cn": "满足于…；仅限于…",
+    "exemple": "L’Europe ne peut plus se contenter de commenter.",
+    "note": "",
+    "context": "Les dirigeants européens ont réaffirmé leur attachement au multilatéralisme, tout en admettant que l'Union ne pouvait plus se contenter d'un rôle de simple spectatrice dans la compétition entre grandes puissances.",
+    "start": 243,
+    "end": 287,
+    "collocations": []
+   },
+   {
+    "id": "1i0ba08",
+    "kind": "expression",
+    "term": "plaider pour",
+    "surface": "plaident pour un durcissement",
+    "usage": "actif",
+    "definition_fr": "Défendre une idée, la soutenir avec des arguments.",
+    "translation_cn": "主张；为…辩护",
+    "exemple": "Plusieurs ONG plaident pour un moratoire.",
+    "note": "",
+    "context": "Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles.",
+    "start": 480,
+    "end": 509,
+    "collocations": [
+     "plaider pour une réforme",
+     "plaider en faveur de"
+    ]
+   },
+   {
+    "id": "1em8juj",
+    "kind": "expression",
+    "term": "les mesures de défense commerciale",
+    "surface": "mesures de défense commerciale",
+    "usage": "actif",
+    "definition_fr": "Outils (droits antidumping, quotas) qui protègent les producteurs contre la concurrence jugée déloyale.",
+    "translation_cn": "贸易防御措施",
+    "exemple": "Bruxelles étudie de nouvelles mesures de défense commerciale.",
+    "note": "",
+    "context": "Plusieurs capitales plaident pour un durcissement des mesures de défense commerciale, quand d'autres, soucieuses de préserver leurs exportations, redoutent un engrenage de représailles.",
+    "start": 514,
+    "end": 544,
+    "collocations": []
+   },
+   {
+    "id": "1qgrk6j",
+    "kind": "expression",
+    "term": "ménager la chèvre et le chou",
+    "surface": "ménager la chèvre et le chou",
+    "usage": "actif",
+    "definition_fr": "Satisfaire deux parties aux intérêts opposés.",
+    "translation_cn": "两边都不得罪；左右逢源",
+    "exemple": "Le gouvernement tente de ménager la chèvre et le chou.",
+    "note": "Familier, mais fréquent dans la presse politique.",
+    "context": "La présidence tente de ménager la chèvre et le chou en proposant un dispositif graduel, qui ne serait déclenché qu'en dernier recours.",
+    "start": 669,
+    "end": 697,
+    "collocations": []
+   },
+   {
+    "id": "k0rn46",
+    "kind": "expression",
+    "term": "en dernier recours",
+    "surface": "en dernier recours",
+    "usage": "actif",
+    "definition_fr": "Seulement quand tout le reste a échoué.",
+    "translation_cn": "作为最后手段",
+    "exemple": "La force ne doit être employée qu’en dernier recours.",
+    "note": "",
+    "context": "La présidence tente de ménager la chèvre et le chou en proposant un dispositif graduel, qui ne serait déclenché qu'en dernier recours.",
+    "start": 761,
+    "end": 779,
+    "collocations": []
+   },
+   {
+    "id": "1yuz6d1",
+    "kind": "expression",
+    "term": "mettre en garde contre",
+    "surface": "mettent en garde contre toute escalade",
+    "usage": "actif",
+    "definition_fr": "Avertir d’un danger.",
+    "translation_cn": "警告；提醒注意…的危险",
+    "exemple": "Les experts mettent en garde contre un emballement des prix.",
+    "note": "",
+    "context": "Les États les plus exposés à la concurrence étrangère jugent urgent d'agir, alors que les économies tournées vers l'export mettent en garde contre toute escalade.",
+    "start": 947,
+    "end": 985,
+    "collocations": []
+   },
+   {
+    "id": "1ef38y2",
+    "kind": "expression",
+    "term": "déboucher sur",
+    "surface": "déboucheront sur un accord",
+    "usage": "actif",
+    "definition_fr": "Aboutir à, avoir pour résultat.",
+    "translation_cn": "导致；通向",
+    "exemple": "Ces discussions n’ont débouché sur rien.",
+    "note": "",
+    "context": "Nul ne sait encore si elles déboucheront sur un accord avant la fin de l'année.",
+    "start": 1271,
+    "end": 1297,
+    "collocations": []
+   },
+   {
+    "id": "1rvh6xe",
+    "kind": "expression",
+    "term": "le tissu industriel",
+    "surface": "tissu industriel",
+    "usage": "actif",
+    "definition_fr": "Ensemble des entreprises industrielles d’un territoire et de leurs liens.",
+    "translation_cn": "工业基础；产业网络",
+    "exemple": "La région a perdu une part de son tissu industriel.",
+    "note": "",
+    "context": "Le compromis, s'il aboutit, devra répondre à un double impératif : protéger le tissu industriel européen sans fermer le marché unique au reste du monde.",
+    "start": 1066,
+    "end": 1082,
+    "collocations": [
+     "le tissu économique",
+     "le tissu associatif"
+    ]
+   },
+   {
+    "id": "hmga5w",
+    "kind": "expression",
+    "term": "à huis clos",
+    "surface": "à huis clos",
+    "usage": "actif",
+    "definition_fr": "Sans public ni presse.",
+    "translation_cn": "闭门（进行）",
+    "exemple": "Le procès se tiendra à huis clos.",
+    "note": "",
+    "context": "D'ici là, les négociations commerciales avec les partenaires du continent se poursuivent à huis clos.",
+    "start": 1230,
+    "end": 1241,
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "5svzqx",
+    "kind": "connecteur",
+    "term": "tout en + gérondif",
+    "surface": "tout en admettant que",
+    "usage": "actif",
+    "definition_fr": "Exprime une concession en même temps qu’une action.",
+    "translation_cn": "虽然…但同时…",
+    "exemple": "Il salue le texte tout en regrettant sa lenteur.",
+    "note": "",
+    "context": "Les dirigeants européens ont réaffirmé leur attachement au multilatéralisme, tout en admettant que l'Union ne pouvait plus se contenter d'un rôle de simple spectatrice dans la compétition entre grandes puissances.",
+    "start": 197,
+    "end": 218,
+    "fonction": "concession"
+   },
+   {
+    "id": "16vd3aj",
+    "kind": "connecteur",
+    "term": "reste que",
+    "surface": "Reste que",
+    "usage": "actif",
+    "definition_fr": "Il n’en est pas moins vrai que.",
+    "translation_cn": "问题依然是…",
+    "exemple": "Reste que le calendrier est serré.",
+    "note": "",
+    "context": "Reste que les divergences sont profondes.",
+    "start": 782,
+    "end": 791,
+    "fonction": "restriction"
+   },
+   {
+    "id": "yj8u7j",
+    "kind": "connecteur",
+    "term": "alors que",
+    "surface": "alors que",
+    "usage": "actif",
+    "definition_fr": "Oppose deux situations.",
+    "translation_cn": "而；然而（对比）",
+    "exemple": "Certains défendent la réforme alors que d’autres la rejettent.",
+    "note": "",
+    "context": "Les États les plus exposés à la concurrence étrangère jugent urgent d'agir, alors que les économies tournées vers l'export mettent en garde contre toute escalade.",
+    "start": 900,
+    "end": 909,
+    "fonction": "opposition"
+   },
+   {
+    "id": "vzt0ba",
+    "kind": "connecteur",
+    "term": "d’ici là",
+    "surface": "D'ici là",
+    "usage": "actif",
+    "definition_fr": "Entre maintenant et ce moment futur.",
+    "translation_cn": "在此之前",
+    "exemple": "D’ici là, les marchés resteront nerveux.",
+    "note": "",
+    "context": "D'ici là, les négociations commerciales avec les partenaires du continent se poursuivent à huis clos.",
+    "start": 1141,
+    "end": 1149,
+    "fonction": "temps"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Les États les plus exposés à la concurrence étrangère jugent urgent d'agir",
+    "structure": "Verbe d’opinion + adjectif attribut + « de » + infinitif",
+    "explication": "« Juger urgent de + infinitif » est plus dense que « penser qu’il est urgent d’agir » : l’adjectif attribut suit directement le verbe, sans « il est ».",
+    "modele": "Les experts jugent indispensable de revoir la méthode."
+   },
+   {
+    "surface": "qui ne serait déclenché qu'en dernier recours",
+    "structure": "Conditionnel de l’éventualité + restriction « ne… que »",
+    "explication": "« Ne… que » limite la condition (seulement en dernier recours) ; le conditionnel signale une mesure encore hypothétique.",
+    "modele": "Un dispositif qui ne serait activé qu’en cas de crise grave."
+   },
+   {
+    "surface": "Nul ne sait encore si elles déboucheront sur un accord avant la fin de l'année",
+    "structure": "« Nul ne » + interrogative indirecte au futur",
+    "explication": "« Si » introduit une question indirecte ; on emploie le futur, car le fait est à venir.",
+    "modele": "Nul ne sait encore si le texte sera voté avant l’été."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "parler d'une seule voix",
+    "figure": "Métaphore",
+    "effet": "L’unité politique devient une voix unique : l’image insiste sur la cohésion attendue et suggère, par contraste, la réalité des divisions."
+   },
+   {
+    "surface": "ménager la chèvre et le chou",
+    "figure": "Expression imagée",
+    "effet": "Le ton familier présente la présidence en équilibriste, avec une légère ironie sur la difficulté de contenter tout le monde."
+   }
+  ],
+  "dropped": 0
+ }
+}
