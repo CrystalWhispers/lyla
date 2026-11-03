@@ -269,3 +269,5 @@ dialog h2 { font-size: 1.6rem; margin-bottom: 18px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+:root{--page:#f8f4ea;--paper:#fffdf8;--line:#e6dfd0;--rose:#e9d3d8;--rose-deep:#9f4e66;--rose-wash:#f4e8eb;--ciel:#d0dde8;--ciel-deep:#3e6685;--ciel-wash:#e9f0f5;--lavande:#e3deec;--pistache:#dde7d8;--pistache-deep:#46704f;--vanille:#f1e8c9;--peche:#f0ddd1} body{background:var(--page)} .macarons{display:none} .hero{background:linear-gradient(90deg,var(--rose),var(--ciel)) top/100% 5px no-repeat,var(--paper);padding:48px 56px} .hero-text{max-width:820px} .primary{box-shadow:0 8px 20px -12px rgba(159,78,102,.6)} .primary:hover:not(:disabled){background:#873f55} .tab:hover{background:var(--rose-wash)} .row:hover{background:var(--paper)} .sheet{box-shadow:0 20px 44px -34px rgba(43,39,69,.3)}
