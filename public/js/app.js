@@ -246,7 +246,7 @@ function analyserView() {
         <span id="count" class="muted">${ui.analyserText.length} / 9000</span>
         <button class="primary" data-action="analyze" ${busy || ui.ai.state !== 'ok' ? 'disabled' : ''}>${busy ? 'Analyse en cours (1 à 3 min)…' : 'Analyser le texte'}</button>
       </div>
-      ${busy ? '<p class="muted" role="status">L\'analyse prend en général entre 10 et 40 secondes.</p>' : ''}
+      ${busy ? '<p class="muted" role="status">L\'analyse prend en général entre 30 et 90 secondes.</p>' : ''}
       ${aiNote()}
     </div>
     <aside class="history"><h3>Analyses récentes</h3>${hist}</aside>
