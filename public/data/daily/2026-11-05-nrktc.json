@@ -1,0 +1,399 @@
+{
+ "id": "2026-11-05-nrktc",
+ "date": "2026-11-05",
+ "title": "France: les syndicats dans la rue pour les salaires, le gouvernement sous pression et «vigilant»",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/france/20261105-france-les-syndicats-dans-la-rue-pour-les-salaires-le-gouvernement-sous-pression-et-vigilant",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 891,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Mobilisation sociale et grève interprofessionnelle en France",
+  "summary": "Ce texte analyse l'ampleur et l'impact attendus d'une journée de mobilisation interprofessionnelle en France. Il aborde les tensions entre syndicats et authorities concernant la sécurisation des parcours et les perturbations dans les transports et les services publics.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "1tdzl84",
+    "kind": "vocab",
+    "term": "un préfet (m.)",
+    "surface": "préfets",
+    "usage": "actif",
+    "definition_fr": "Représentant de l'État dans un département ou une région, responsable de l'ordre public.",
+    "translation_cn": "省长，地方行政长官 (m.)",
+    "exemple": "",
+    "note": "",
+    "context": "Mardi, le ministre de l'Intérieur Laurent Nuñez a demandé aux préfets et responsables de sécurité de prévoir des « dispositifs robustes » pour cette journée …",
+    "synonymes": [
+     "un représentant de l'État (m.)",
+     "un haut fonctionnaire (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1x4lcom",
+    "kind": "vocab",
+    "term": "un barrage filtrant (m.)",
+    "surface": "barrage filtrant",
+    "usage": "actif",
+    "definition_fr": "Obstacle routier qui ralentit la circulation en ne laissant passer les véhicules qu'au compte-gouttes.",
+    "translation_cn": "选择性路障，打折通行的封锁线 (m.)",
+    "exemple": "",
+    "note": "",
+    "context": "En Isère, la Confédération paysanne doit organiser un barrage filtrant à Voreppe, près d'un péage sur l'A48.",
+    "synonymes": [
+     "un blocage partiel (m.)",
+     "une filtration (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "17htblx",
+    "kind": "vocab",
+    "term": "fustiger",
+    "surface": "fustigé",
+    "usage": "actif",
+    "definition_fr": "Blâmer ou critiquer avec une extrême sévérité.",
+    "translation_cn": "严厉谴责，痛批",
+    "exemple": "",
+    "note": "",
+    "context": "Les secrétaires générales de la CGT et de la CFDT ont fustigé les conditions d'organisation des manifestations, déplorant des cortèges souvent éloignés des centres-villes et …",
+    "synonymes": [
+     "blâmer",
+     "stigmatiser",
+     "fustiger vivement"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "vkt7ur",
+    "kind": "vocab",
+    "term": "un cortège (m.)",
+    "surface": "cortège",
+    "usage": "actif",
+    "definition_fr": "Groupe de personnes défilant ensemble lors d'une manifestation publique.",
+    "translation_cn": "游行队伍 (m.)",
+    "exemple": "",
+    "note": "",
+    "context": "À Paris, à moins de 24 heures du départ du cortège, la préfecture de police a interdit le parcours entre les places de la Bastille …",
+    "synonymes": [
+     "un défilé (m.)",
+     "une procession (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "hy6aj8",
+    "kind": "vocab",
+    "term": "substituer",
+    "surface": "substituant",
+    "usage": "actif",
+    "definition_fr": "Mettre une personne ou une chose à la place d'une autre.",
+    "translation_cn": "替代，以……替换",
+    "exemple": "",
+    "note": "",
+    "context": "… interdit le parcours entre les places de la Bastille et de la Concorde souhaité par les syndicats, lui substituant un parcours entre République et Nation.",
+    "synonymes": [
+     "remplacer",
+     "échanger"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "18707b5",
+    "kind": "vocab",
+    "term": "une assignation à résidence (f.)",
+    "surface": "assignations à résidence",
+    "usage": "passif",
+    "definition_fr": "Obligation légale faite à une personne de demeurer dans un lieu déterminé sans possibilité d'en sortir librement.",
+    "translation_cn": "软禁，指定居所监视居住 (f.)",
+    "exemple": "",
+    "note": "",
+    "context": "À lire aussiColère sociale en France: des avocats dénoncent des assignations à résidence de certains militants",
+    "synonymes": [
+     "une résidence surveillée (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1cs0nru",
+    "kind": "vocab",
+    "term": "en amont",
+    "surface": "en amont",
+    "usage": "actif",
+    "definition_fr": "Préalablement, avant qu'un événement ne se produise.",
+    "translation_cn": "事前，前期",
+    "exemple": "",
+    "note": "",
+    "context": "… », selon un télégramme consulté par l'AFP, préconisant notamment des contrôles en amont des rassemblements pour « limiter la circulation de profils à risques ».",
+    "synonymes": [
+     "au préalable",
+     "antérieurement"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "3hqbhg",
+    "kind": "vocab",
+    "term": "l'encadrement (m.)",
+    "surface": "encadrement",
+    "usage": "actif",
+    "definition_fr": "Ensemble des cadres et du personnel de direction d'une entreprise ou administration.",
+    "translation_cn": "管理层，干部群体 (m.)",
+    "exemple": "",
+    "note": "",
+    "context": "Jeudi, toutes les principales organisations de travailleurs – même le syndicat de l'encadrement CFE-CGC, initialement plus réservé – reprennent la main.",
+    "synonymes": [
+     "les cadres (m.pl.)",
+     "la maîtrise (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "10pkoqq",
+    "kind": "vocab",
+    "term": "une ampleur (f.)",
+    "surface": "ampleur",
+    "usage": "actif",
+    "definition_fr": "Dimensons, portée ou importance considérable d'un phénomène.",
+    "translation_cn": "规模，程度 (f.)",
+    "exemple": "",
+    "note": "",
+    "context": "Des gilets jaunes prévoient en outre des actions sur certaines routes, ronds-points ou autoroutes, dont l'ampleur est difficile à anticiper.",
+    "synonymes": [
+     "une envergure (f.)",
+     "une portée (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "um1ysz",
+    "kind": "vocab",
+    "term": "décompter",
+    "surface": "dénombrées",
+    "usage": "passif",
+    "definition_fr": "Compter en détail pour établir le nombre exact.",
+    "translation_cn": "清点，统计",
+    "exemple": "",
+    "note": "",
+    "context": "… et 40 000 à 80 000 personnes dans la capitale, soit davantage que les 550 000 dénombrées par le ministère de l'Intérieur le 17 octobre.",
+    "synonymes": [
+     "recenser",
+     "comptabiliser"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1lksgwa",
+    "kind": "vocab",
+    "term": "un bras de fer (m.)",
+    "surface": "bras de fer",
+    "usage": "actif",
+    "definition_fr": "Conflit d'intérêts ou de pouvoir où chaque partie cherche à imposer sa volonté à l'autre.",
+    "translation_cn": "力量博弈，僵持较量 (m.)",
+    "exemple": "",
+    "note": "",
+    "context": "Plus de 250 rassemblements sont prévus partout en France, mais des parcours de manifestations sont sujets de bras de fer avec les autorités.",
+    "synonymes": [
+     "une épreuve de force (f.)",
+     "un conflit (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "1f7r9l5",
+    "kind": "expression",
+    "term": "tourner au ralenti",
+    "surface": "faire tourner le pays au ralenti",
+    "usage": "actif",
+    "definition_fr": "Fonctionner à un rythme réduit ou au minimum de sa capacité.",
+    "translation_cn": "缓慢运转，瘫痪",
+    "exemple": "La grève générale risque de faire tourner les services publics au ralenti toute la semaine.",
+    "note": "",
+    "context": "La journée interprofessionnelle de grèves et de manifestations pour les salaires de ce jeudi 5 novembre va-t-elle faire tourner le pays au ralenti ?",
+    "collocations": []
+   },
+   {
+    "id": "19y4fja",
+    "kind": "expression",
+    "term": "reprendre la main",
+    "surface": "reprennent la main",
+    "usage": "actif",
+    "definition_fr": "Reprendre le contrôle ou l'initiative d'une situation.",
+    "translation_cn": "重掌握主动权",
+    "exemple": "Après plusieurs jours de flottement, le gouvernement tente de reprendre la main sur les négociations.",
+    "note": "",
+    "context": "Jeudi, toutes les principales organisations de travailleurs – même le syndicat de l'encadrement CFE-CGC, initialement plus réservé – reprennent la main.",
+    "collocations": []
+   },
+   {
+    "id": "130t0iu",
+    "kind": "expression",
+    "term": "hors de question",
+    "surface": "hors de question",
+    "usage": "actif",
+    "definition_fr": "Absolument inacceptable ou impossible à envisager.",
+    "translation_cn": "绝不可能，毫无可能",
+    "exemple": "Il est hors de question de céder sur ce point stratégique de la réforme.",
+    "note": "",
+    "context": "… « extrêmement vigilant », selon sa porte-parole Maud Bregeon, « parce qu'il est hors de question qu'on revive, de quelque manière que ce soit [.",
+    "collocations": []
+   },
+   {
+    "id": "1e8c2b9",
+    "kind": "expression",
+    "term": "être sujet à",
+    "surface": "sujets de",
+    "usage": "passif",
+    "definition_fr": "Être l'objet ou la matière de discussions, contestations ou modifications.",
+    "translation_cn": "成为……的焦点/对象",
+    "exemple": "Les modalités du budget sont sujettes à de vive polémiques au Parlement.",
+    "note": "",
+    "context": "Plus de 250 rassemblements sont prévus partout en France, mais des parcours de manifestations sont sujets de bras de fer avec les autorités.",
+    "collocations": []
+   },
+   {
+    "id": "bb3vde",
+    "kind": "expression",
+    "term": "gonfler les cortèges",
+    "surface": "gonfleront les cortèges",
+    "usage": "actif",
+    "definition_fr": "Augmenter de manière importante le nombre de participants aux manifestations.",
+    "translation_cn": "壮大游行队伍",
+    "exemple": "La participation des étudiants viendra gonfler les cortèges de l'après-midi.",
+    "note": "",
+    "context": "Insatisfaits des premières réponses du gouvernement, lycéens et étudiants gonfleront les cortèges après avoir repris les blocages en début de semaine, dès le retour des …",
+    "collocations": []
+   },
+   {
+    "id": "p2b6ho",
+    "kind": "expression",
+    "term": "épouser les codes",
+    "surface": "épousant les codes",
+    "usage": "actif",
+    "definition_fr": "Adopter la symbolique, le vocabulaire ou la manière de faire d'un groupe.",
+    "translation_cn": "沿袭/采纳……的符号与形式",
+    "exemple": "Ce mouvement politique émergent progresse en épousant les codes des réseaux sociaux.",
+    "note": "",
+    "context": "… journée fait suite à trois samedis consécutifs de mobilisation contre la vie chère, épousant les codes des gilets jaunes et soutenue seulement par certains syndicats.",
+    "collocations": []
+   },
+   {
+    "id": "1bpiked",
+    "kind": "expression",
+    "term": "tabler sur",
+    "surface": "table sur",
+    "usage": "actif",
+    "definition_fr": "Compter sur quelque chose, l'anticiper dans ses prévisions.",
+    "translation_cn": "预计，根据……做出预测",
+    "exemple": "La Banque centrale table sur une baisse progressive de la tension inflationniste.",
+    "note": "",
+    "context": "Le ministère de l'Éducation nationale table sur environ 17 % de grévistes à l'école primaire.",
+    "collocations": []
+   },
+   {
+    "id": "cmjgv7",
+    "kind": "expression",
+    "term": "tour d'horizon",
+    "surface": "Tour d'horizon",
+    "usage": "actif",
+    "definition_fr": "Bilan général ou examen d'ensemble d'une situation.",
+    "translation_cn": "全面盘点，纵览",
+    "exemple": "Le ministre a commencé la réunion par un tour d'horizon de la conjoncture internationale.",
+    "note": "",
+    "context": "Tour d'horizon des principaux impacts attendus, alors que les syndicats, rejoints par les jeunes et les gilets jaunes, appellent secteurs public et privé à se …",
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "vgd11v",
+    "kind": "connecteur",
+    "term": "ainsi",
+    "surface": "Ainsi",
+    "usage": "actif",
+    "definition_fr": "De cette façon ; introduit une illustration concrète ou une conséquence directe.",
+    "translation_cn": "因此，例如",
+    "exemple": "",
+    "note": "Placé en début de phrase soutenue pour introduire un exemple applicatif.",
+    "context": "Ainsi, à Strasbourg, un blocage est prévu sur l'A35 dès 8H00.",
+    "fonction": "illustration"
+   },
+   {
+    "id": "q6jz47",
+    "kind": "connecteur",
+    "term": "en outre",
+    "surface": "en outre",
+    "usage": "actif",
+    "definition_fr": "De plus, s'ajoute à ce qui vient d'être mentionné.",
+    "translation_cn": "此外，加之",
+    "exemple": "",
+    "note": "Tranché et très élégant pour l'expression orale formelle.",
+    "context": "Des gilets jaunes prévoient en outre des actions sur certaines routes, ronds-points ou autoroutes, dont l'ampleur est difficile à anticiper.",
+    "fonction": "addition"
+   },
+   {
+    "id": "1m54pjy",
+    "kind": "connecteur",
+    "term": "selon",
+    "surface": "selon",
+    "usage": "actif",
+    "definition_fr": "D'après, en se référant au point de vue ou aux estimations de quelqu'un.",
+    "translation_cn": "根据，依据",
+    "exemple": "",
+    "note": "Essentiel pour attribuer une information à une source spécifique dans la presse.",
+    "context": "Quelque 252 actions et manifestations ont été annoncées, selon une carte de la CGT.",
+    "fonction": "référence"
+   },
+   {
+    "id": "yj8u7j",
+    "kind": "connecteur",
+    "term": "alors que",
+    "surface": "alors que",
+    "usage": "actif",
+    "definition_fr": "Pendant que ou bien marquant une concession/opposition avec une situation donnée.",
+    "translation_cn": "正当……之际，然而",
+    "exemple": "",
+    "note": "Suivi de l'indicatif dans la plupart des cas d'opposition contextuelle.",
+    "context": "Tour d'horizon des principaux impacts attendus, alors que les syndicats, rejoints par les jeunes et les gilets jaunes, appellent secteurs public et privé à se …",
+    "fonction": "concession"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "parce qu'il est hors de question qu'on revive, de quelque manière que ce soit [...] ce qu'on a pu traverser",
+    "structure": "il est + adjectif/locution + que + subjonctif",
+    "explication": "Structure impersonnelle véhiculant une exigence catégorique ou un jugement absolu.",
+    "modele": "Il est indispensable que les décideurs prennent, de toute urgence, les mesures financières adaptées."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "faire tourner le pays au ralenti",
+    "figure": "Metaphora",
+    "effet": "Assimile une nation à une machine industrielle qui risque la panne ou la mise en veille, amplifiant le sentiment d'urgence économique."
+   },
+   {
+    "surface": "dispositifs robustes",
+    "figure": "Epithete valorisante",
+    "effet": "Instaure une image de fermeté administrative et d'assurance institutionnelle face au risque de désordres civils."
+   }
+  ],
+  "dropped": 3
+ }
+}
