@@ -1,0 +1,521 @@
+{
+ "id": "2026-11-06-169a5",
+ "date": "2026-11-06",
+ "title": "Accord sur le gazole mort-né : pourquoi les pétroliers russes se détournent des États-Unis",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/%C3%A9co-tech/20261106-accord-sur-le-gazole-mort-n%C3%A9-pourquoi-les-p%C3%A9troliers-russes-se-d%C3%A9tournent-des-%C3%A9tats-unis",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 847,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Analyses sur l'échec de l'accord pétrolier russo-américain",
+  "summary": "Cet article analyse les difficultés de mise en œuvre de l'accord sur le gazole entre Washington et Moscou. Malgré l'exemption présidentielle accordée par Donald Trump, les navires détournent leur trajectoire face aux risques juridiques et aux blocages politiques locaux.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "vsqmpo",
+    "kind": "vocab",
+    "term": "un gazole (m.)",
+    "surface": "gazole",
+    "usage": "actif",
+    "definition_fr": "Carburant liquide pour moteur diesel issu du raffinage du pétrole.",
+    "translation_cn": "柴油",
+    "exemple": "La hausse des prix du gazole a provoqué des manifestations à travers le pays.",
+    "note": "Orthographié aussi 'gazole' ou 'gazole'/'gazole' en français, très courant en économie.",
+    "context": "L’Agioi Fanendes représente la dernière chance pour Donald Trump de voir son fameux \"deal\" avec Vladimir Poutine pour importer du gazole se concrétiser.",
+    "synonymes": [
+     "diesel (m.)"
+    ],
+    "famille": [
+     "gaz (m.)"
+    ],
+    "collocations": [
+     "importer du gazole",
+     "pénurie de gazole",
+     "prix du gazole"
+    ]
+   },
+   {
+    "id": "1kgcjzv",
+    "kind": "vocab",
+    "term": "bifurquer",
+    "surface": "bifurqué",
+    "usage": "actif",
+    "definition_fr": "Changer brusquement de direction ou d'orientation.",
+    "translation_cn": "分岔，突然改变方向",
+    "exemple": "Face au durcissement des sanctions, le porte-conteneurs a bifurqué vers un port neutre.",
+    "note": "S'emploie au sens propre (trajectoire) comme au sens figuré (politique, carrière).",
+    "context": "… de sanctions internationales parti de la région de Saint-Pétersbourg le 22 octobre, a bifurqué abruptement pour s’éloigner de l’Atlantique et se rendre en mer Méditerranée.",
+    "synonymes": [
+     "dévier",
+     "tourner"
+    ],
+    "famille": [
+     "une bifurcation (f.)"
+    ],
+    "collocations": [
+     "bifurquer brusquement",
+     "bifurquer à droite"
+    ]
+   },
+   {
+    "id": "fjub2v",
+    "kind": "vocab",
+    "term": "un cercle de réflexion (m.)",
+    "surface": "cercle de réflexion",
+    "usage": "actif",
+    "definition_fr": "Groupe d'experts produisant des analyses et des propositions politiques ou économiques.",
+    "translation_cn": "智库，思想库",
+    "exemple": "Ce cercle de réflexion britannique a publié un rapport alarmant sur la sécurité en mer Noire.",
+    "note": "Équivalent français courant pour le terme anglais 'think tank'.",
+    "context": "… en pratique\", assure Kevin Rowlands, spécialiste de sécurité maritime au Royal United Services Institute, un influent cercle de réflexion britannique sur les questions de défense.",
+    "synonymes": [
+     "un laboratoire d'idées (m.)",
+     "un think tank (m.)"
+    ],
+    "famille": [
+     "réfléchir",
+     "une réflexion (f.)"
+    ],
+    "collocations": [
+     "un cercle de réflexion influent",
+     "intégrer un cercle de réflexion"
+    ]
+   },
+   {
+    "id": "1lk71rb",
+    "kind": "vocab",
+    "term": "une exemption (f.)",
+    "surface": "exemption",
+    "usage": "actif",
+    "definition_fr": "Dispense accordée par une autorité de se soumettre à une règle ou obligation.",
+    "translation_cn": "豁免，免除",
+    "exemple": "Le gouvernement a accordé une exemption temporaire de taxes pétrolières.",
+    "note": "Très fréquent dans le contexte des régimes de sanctions ou de la fiscalité.",
+    "context": "À la suite de cette exemption présidentielle, Moscou avait, de son côté, levé l’interdiction d’exporter du gazole, instaurée quelques mois plus tôt pour faire face …",
+    "synonymes": [
+     "une dérogation (f.)",
+     "une dispense (f.)"
+    ],
+    "famille": [
+     "exempter",
+     "exempt"
+    ],
+    "collocations": [
+     "accorder une exemption",
+     "obtenir une exemption",
+     "exemption fiscale"
+    ]
+   },
+   {
+    "id": "1dj7yca",
+    "kind": "vocab",
+    "term": "une pénurie (f.)",
+    "surface": "pénurie",
+    "usage": "actif",
+    "definition_fr": "Manque grave et général d'une chose nécessaire.",
+    "translation_cn": "短缺，匮乏",
+    "exemple": "Les frappes stratégiques ont causé une pénurie d'électricité majeure dans la région.",
+    "note": "Nom féminin indispensable pour le vocabulaire économique.",
+    "context": "… gazole, instaurée quelques mois plus tôt pour faire face à la pénurie de carburant en Russie en raison des bombardements ukrainiens sur les installations pétrolières.",
+    "synonymes": [
+     "un manque (m.)",
+     "une raréfaction (f.)"
+    ],
+    "famille": [
+     "pénurie (f.)"
+    ],
+    "collocations": [
+     "une pénurie de carburant",
+     "faire face à une pénurie",
+     "risquer la pénurie"
+    ]
+   },
+   {
+    "id": "1jqym7a",
+    "kind": "vocab",
+    "term": "un convoi (m.)",
+    "surface": "convois",
+    "usage": "actif",
+    "definition_fr": "Ensemble de véhicules ou de navires se déplaçant ensemble sous protection ou surveillance.",
+    "translation_cn": "护航队，运输队",
+    "exemple": "Plusieurs convois humanitaires ont réussi à franchir la frontière.",
+    "note": "S'emploie souvent pour le transport maritime, militaire ou logistique.",
+    "context": "Il a fallu la vigilance d’ONG comme Greenpeace et de sociétés comme Kpler pour découvrir ces convois.",
+    "synonymes": [
+     "une escadre (f.)",
+     "une flotte (f.)"
+    ],
+    "famille": [
+     "convoyer",
+     "un convoyeur (m.)"
+    ],
+    "collocations": [
+     "un convoi maritime",
+     "escorter un convoi"
+    ]
+   },
+   {
+    "id": "1ehhkqg",
+    "kind": "vocab",
+    "term": "dubitatif",
+    "surface": "dubitatifs",
+    "usage": "actif",
+    "definition_fr": "Qui exprime le doute ou l'hésitation.",
+    "translation_cn": "怀疑的，半信半疑的",
+    "exemple": "Les marchés financiers sont restés dubitatifs face aux annonces de la Banque centrale.",
+    "note": "Adjectif très utile à l'oral comme à l'écrit soutenu.",
+    "context": "La logique économique d’un accord qui allait rapporter des millions à Moscou a aussi laissé les analystes dubitatifs.",
+    "synonymes": [
+     "sceptique",
+     "inrédule"
+    ],
+    "famille": [
+     "le doute (m.)",
+     "douter"
+    ],
+    "collocations": [
+     "rester dubitatif",
+     "un air dubitatif"
+    ]
+   },
+   {
+    "id": "1ltekjp",
+    "kind": "vocab",
+    "term": "un revirement (m.)",
+    "surface": "revirement",
+    "usage": "actif",
+    "definition_fr": "Changement complet et soudain d'opinion, de politique ou de comportement.",
+    "translation_cn": "态度或政策的突然改变，剧变",
+    "exemple": "Ce revirement diplomatique inattendu a surpris les alliés de l'OTAN.",
+    "note": "Très fréquent dans la presse politique.",
+    "context": "\"Difficile de savoir quelle est la raison précise de ce revirement\", concède Maximilian Hess, fondateur du cabinet de conseil Enmetena Advisory et auteur de \"Economic …",
+    "synonymes": [
+     "un changement de cap (m.)",
+     "une volte-face (f.)"
+    ],
+    "famille": [
+     "revirer",
+     "virer"
+    ],
+    "collocations": [
+     "un revirement politique",
+     "un revirement de situation"
+    ]
+   },
+   {
+    "id": "1qbz8ku",
+    "kind": "vocab",
+    "term": "édicté",
+    "surface": "édicte",
+    "usage": "passif",
+    "definition_fr": "Ordonner ou fixer une règle par voie d'autorité.",
+    "translation_cn": "颁布，制定（法律、规定）",
+    "exemple": "Le Parlement a édicté de nouvelles normes environnementales pour les raffineries.",
+    "note": "Verbe formel du registre juridique et institutionnel.",
+    "context": "… fin de l'importation de pétrole russe) adopté en 2022 et qui édicte une obligation pour le président d’obtenir l’aval du Congrès avant d’accorder une exemption …",
+    "synonymes": [
+     "promulguer",
+     "décréter"
+    ],
+    "famille": [
+     "un édit (m.)"
+    ],
+    "collocations": [
+     "édicter une loi",
+     "édicter une règle"
+    ]
+   },
+   {
+    "id": "1qd8ib6",
+    "kind": "vocab",
+    "term": "un aval (m.)",
+    "surface": "aval",
+    "usage": "actif",
+    "definition_fr": "Accord, approbation ou soutien donné à un projet.",
+    "translation_cn": "同意，批准，支持",
+    "exemple": "Le ministre doit obtenir l'aval des parlementaires avant d'engager les dépenses.",
+    "note": "Attention : ne pas confondre avec l'expression géographique 'en aval'.",
+    "context": "… adopté en 2022 et qui édicte une obligation pour le président d’obtenir l’aval du Congrès avant d’accorder une exemption aux sanctions sur le pétrole russe.",
+    "synonymes": [
+     "une approbation (f.)",
+     "un feu vert (m.)"
+    ],
+    "famille": [
+     "avaler (étymologie différente)"
+    ],
+    "collocations": [
+     "obtenir l'aval de",
+     "donner son aval"
+    ]
+   },
+   {
+    "id": "1mcddgr",
+    "kind": "vocab",
+    "term": "bancal",
+    "surface": "bancal",
+    "usage": "actif",
+    "definition_fr": "Qui manque d'équilibre, de solidité ou de rigueur.",
+    "translation_cn": "立足不稳的，站不住脚的，不稳固的",
+    "exemple": "Ce projet de loi repose sur un montage financier bancal.",
+    "note": "S'emploie au sens figuré pour désigner un accord mal conçu.",
+    "context": "La trajectoire de ces trois pétroliers vient tourner définitivement la page d’un accord \"très bancal dès le départ\", tranche Kevin Rowlands.",
+    "synonymes": [
+     "fragile",
+     "instable"
+    ],
+    "famille": [
+     "bancale (f.)"
+    ],
+    "collocations": [
+     "un accord bancal",
+     "un compromis bancal"
+    ]
+   },
+   {
+    "id": "ln7ap7",
+    "kind": "vocab",
+    "term": "battre pavillon",
+    "surface": "battant pavillon",
+    "usage": "passif",
+    "definition_fr": "Naviguer sous l'immatriculation et le drapeau d'un État déterminé.",
+    "translation_cn": "挂……国旗航行",
+    "exemple": "Le pétrolier battant pavillon du Panama a été arraisonné au large des côtes.",
+    "note": "Expression technique du droit maritime.",
+    "context": "… Russie pour, officiellement, livrer leur précieuse cargaison aux États-Unis, ce cargo battant pavillon maltais reste le seul à se diriger encore vers les côtes américaines, …",
+    "synonymes": [
+     "naviguer sous le drapeau de"
+    ],
+    "famille": [
+     "un pavillon (m.)"
+    ],
+    "collocations": [
+     "battre pavillon de complaisance",
+     "battre pavillon français"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "9snnza",
+    "kind": "expression",
+    "term": "en catimini",
+    "surface": "en catimini",
+    "usage": "actif",
+    "definition_fr": "En cachette, de manière discrète ou secrète.",
+    "translation_cn": "偷偷地，暗中",
+    "exemple": "La directive ministérielle a été modifiée en catimini pendant les congés d'été.",
+    "note": "Registre familier à soigné, très employé dans le journalisme politique.",
+    "context": "en catimini.",
+    "collocations": [
+     "agir en catimini",
+     "signer un accord en catimini"
+    ]
+   },
+   {
+    "id": "1xuczhu",
+    "kind": "expression",
+    "term": "tourner la page",
+    "surface": "tourner définitivement la page",
+    "usage": "actif",
+    "definition_fr": "Mettre fin à une situation et passer à autre chose.",
+    "translation_cn": "翻过的一页，彻底结束",
+    "exemple": "Les deux nations espèrent tourner la page de plusieurs années de tensions commerciales.",
+    "note": "Expression métaphorique très fréquente.",
+    "context": "La trajectoire de ces trois pétroliers vient tourner définitivement la page d’un accord \"très bancal dès le départ\", tranche Kevin Rowlands.",
+    "collocations": [
+     "tourner la page de",
+     "tourner définitivement la page"
+    ]
+   },
+   {
+    "id": "2tooxh",
+    "kind": "expression",
+    "term": "une levée de boucliers (f.)",
+    "surface": "une levée de boucliers",
+    "usage": "actif",
+    "definition_fr": "Une protestation collective et vive contre une décision.",
+    "translation_cn": "强烈反对，抗议浪潮",
+    "exemple": "La hausse de la taxe carbone a provoqué une vive levée de boucliers chez les transporteurs.",
+    "note": "Origine militaire antique, devenue incontournable dans le débat public.",
+    "context": "Il faut dire qu’aux États-Unis, ce compromis russo-américain a suscité une levée de boucliers des deux côtés de l’échiquier politique.",
+    "collocations": [
+     "susciter une levée de boucliers",
+     "faire face à une levée de boucliers"
+    ]
+   },
+   {
+    "id": "1y6nkrd",
+    "kind": "expression",
+    "term": "de part et d'autre de l'échiquier politique",
+    "surface": "des deux côtés de l’échiquier politique",
+    "usage": "actif",
+    "definition_fr": "De la part de toutes les tendances politiques (gauche comme droite).",
+    "translation_cn": "在跨越光谱的各政治派别中",
+    "exemple": "La réforme de la défense bénéficie d'un soutien sur tout l'échiquier politique.",
+    "note": "Référence au jeu d'échecs pour désigner l'éventail des partis politiques.",
+    "context": "Il faut dire qu’aux États-Unis, ce compromis russo-américain a suscité une levée de boucliers des deux côtés de l’échiquier politique.",
+    "collocations": [
+     "l'échiquier politique",
+     "couvrir tout l'échiquier politique"
+    ]
+   },
+   {
+    "id": "gddlfw",
+    "kind": "expression",
+    "term": "changer de cap",
+    "surface": "changer de cap",
+    "usage": "actif",
+    "definition_fr": "Modifier radicalement de direction, de stratégie ou d'objectif.",
+    "translation_cn": "改变航向，调整策略",
+    "exemple": "La Banque centrale a dû changer de cap en raison des chiffres élevés de l'inflation.",
+    "note": "Issu de la marine, très couramment utilisé en politique et gestion.",
+    "context": "Pourquoi alors ont-ils décidé de changer de cap ?",
+    "collocations": [
+     "changer brusquement de cap",
+     "forcer à changer de cap"
+    ]
+   },
+   {
+    "id": "186rfbs",
+    "kind": "expression",
+    "term": "dans la foulée",
+    "surface": "Dans la foulée",
+    "usage": "actif",
+    "definition_fr": "Immédiatement après, dans la continuité directe d'un événement.",
+    "translation_cn": "紧接着，随之",
+    "exemple": "Le sommet s'est achevé le matin, et le communiqué conjoint a été diffusé dans la foulée.",
+    "note": "Très fluide à l'oral comme à l'écrit pour exprimer une succession rapide.",
+    "context": "Dans la foulée, le ministère des Finances avait publié une réglementation censée permettre aux entreprises américaines d’acheter, d'importer et de revendre du gazole russe malgré …",
+    "collocations": [
+     "agir dans la foulée",
+     "publier dans la foulée"
+    ]
+   },
+   {
+    "id": "8g9y04",
+    "kind": "expression",
+    "term": "se heurter à la résistance de",
+    "surface": "se heurter à la résistance de",
+    "usage": "actif",
+    "definition_fr": "Faire face à l'opposition ou à l'obstacle dressé par quelqu'un.",
+    "translation_cn": "遭到……的抵抗/阻碍",
+    "exemple": "Le plan du gouvernement fédéral s'est heurté à la résistance fermée des parlements régionaux.",
+    "note": "Verbe pronominal transitif indirect ('se heurter à').",
+    "context": "… américain peut signer un accord international, mais pour le faire respecter, l’autorité fédérale peut se heurter à la résistance de certains gouverneurs\", souligne Kevin Rowlands.",
+    "collocations": [
+     "se heurter à un refus",
+     "se heurter à une forte résistance"
+    ]
+   },
+   {
+    "id": "1ht2nxv",
+    "kind": "expression",
+    "term": "en fanfare",
+    "surface": "en fanfare",
+    "usage": "actif",
+    "definition_fr": "Avec beaucoup de bruit, de soulignement public ou d'ostentation.",
+    "translation_cn": "敲锣打鼓地，张扬地",
+    "exemple": "Le plan de relance avait été présenté en fanfare avant d'être fortement réduit.",
+    "note": "S'utilise souvent de manière ironique lorsque les résultats ne sont pas à la hauteur.",
+    "context": "Il avait été annoncé en fanfare par Donald Trump le 9 octobre, comme une réponse à la hausse des prix de l’essence.",
+    "collocations": [
+     "annoncer en fanfare",
+     "lancer en fanfare"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1t9eofp",
+    "kind": "connecteur",
+    "term": "néanmoins",
+    "surface": "Néanmoins",
+    "usage": "actif",
+    "definition_fr": "Cependant, malgré cela.",
+    "translation_cn": "然而，尽管如此",
+    "exemple": "Les négociations sont difficiles ; néanmoins, un compromis reste envisageable.",
+    "note": "Marqueur logique du registre soutenu.",
+    "context": "Néanmoins, il n’a plus comme destination officielle les côtes américaines, mais son statut est dorénavant \"en attente d’ordres\".",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1v02xob",
+    "kind": "connecteur",
+    "term": "dorénavant",
+    "surface": "dorénavant",
+    "usage": "actif",
+    "definition_fr": "À partir de ce moment, à l'avenir.",
+    "translation_cn": "从今往后，从此",
+    "exemple": "Les entreprises devront dorénavant déclarer la provenance exacte de leurs matières premières.",
+    "note": "Plus soutenu que 'désormais'.",
+    "context": "Néanmoins, il n’a plus comme destination officielle les côtes américaines, mais son statut est dorénavant \"en attente d’ordres\".",
+    "fonction": "temporel"
+   },
+   {
+    "id": "vgd11v",
+    "kind": "connecteur",
+    "term": "ainsi",
+    "surface": "ainsi",
+    "usage": "actif",
+    "definition_fr": "De cette manière, par conséquent, par exemple.",
+    "translation_cn": "因此，就这样",
+    "exemple": "Ainsi, la plupart des navires ont refusé d'embarquer les marchandises litigieuses.",
+    "note": "Très employé en tête de phrase pour introduire une illustration ou conclusion.",
+    "context": "C’est ainsi que l’Agioi Fanendes, le Leruo et le Talisman ont pu prendre le large…",
+    "fonction": "conséquence"
+   },
+   {
+    "id": "nknism",
+    "kind": "connecteur",
+    "term": "à la suite de",
+    "surface": "À la suite de",
+    "usage": "actif",
+    "definition_fr": "En conséquence de, après l'événement de.",
+    "translation_cn": "在……之后，由于",
+    "exemple": "À la suite de la réunion de crise, des mesures d'urgence ont été annoncées.",
+    "note": "Locution prépositive introduisant un complément de cause ou de temps.",
+    "context": "À la suite de cette exemption présidentielle, Moscou avait, de son côté, levé l’interdiction d’exporter du gazole, instaurée quelques mois plus tôt pour faire face …",
+    "fonction": "cause"
+   },
+   {
+    "id": "2ildd4",
+    "kind": "connecteur",
+    "term": "en effet",
+    "surface": "en effet",
+    "usage": "actif",
+    "definition_fr": "Car, en réalité, pour expliciter ce qui vient d'être affirmé.",
+    "translation_cn": "事实上，确实",
+    "exemple": "Le Premier ministre a renoncé au projet ; en effet, la majorité était très divisée.",
+    "note": "Sert à justifier l'affirmation précédente.",
+    "context": "Il peut, en effet, y avoir plusieurs explications.",
+    "fonction": "explication"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "l’accord annoncé en octobre a beau continuer à être en vigueur en théorie, il peut être déclaré mort en pratique",
+    "structure": "Concession avec 'avoir beau + infinitif'",
+    "explication": "La structure 'avoir beau + infinitif' exprime une concession fort élégante en français, équivalente à 'bien que + subjonctif', suivie de la principale de conséquence ou d'opposition.",
+    "modele": "Le gouvernement a beau multiplier les annonces d'apaisement, la colère sociale ne faiblit pas."
+   },
+   {
+    "surface": "Comment est-ce possible alors que Donald Trump ait signé une exemption aux sanctions sur le gazole russe ?",
+    "structure": "Subordonnée de concession/opposition introduite par 'alors que' au subjonctif",
+    "explication": "Dans une interrogation orale ou journalistique exprimant la surprise ou la contradiction, 'alors que' peut être suivi du subjonctif au lieu de l'indicatif habituel.",
+    "modele": "Comment peut-il prétendre ignorer le dossier alors qu'il ait lui-même présidé la réunion ?"
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "déclaré mort en pratique",
+    "figure": "Métaphore",
+    "effet": "Personnifie un accord international en le qualifiant de 'mort', ce qui donne un poids dramatique et sans appel à son échec concret."
+   }
+  ],
+  "dropped": 2
+ }
+}
