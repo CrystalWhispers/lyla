@@ -1,0 +1,241 @@
+{
+ "id": "2026-11-07-1coz8",
+ "date": "2026-11-07",
+ "title": "Guinée: l'opposant Aliou Bah libéré après presque deux années de détention",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/afrique/20261106-guin%C3%A9e-l-opposant-aliou-bah-lib%C3%A9r%C3%A9-apr%C3%A8s-presque-deux-ann%C3%A9es-de-d%C3%A9tention",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 268,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Libération d'Aliou Bah en Guinée après une grâce présidentielle",
+  "summary": "L'opposant guinéen Aliou Bah a été libéré après avoir purgé près de deux ans de détention et accompli un stage civique obligatoire. Son parti, le MoDeL, a réaffirmé son engagement pour les libertés démocratiques et l'État de droit.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "6g4sqb",
+    "kind": "vocab",
+    "term": "recouvrer (v.)",
+    "surface": "recouvré",
+    "usage": "actif",
+    "definition_fr": "Retrouver ou rentrer en possession de quelque chose qu'on avait perdu.",
+    "translation_cn": "重新获得，收回",
+    "exemple": "",
+    "note": "",
+    "context": "L'opposant guinéen Aliou Bah a recouvré la liberté, vendredi 6 novembre, après près de 23 mois de détention.",
+    "synonymes": [
+     "retrouver",
+     "récupérer",
+     "réintégrer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "dc46dk",
+    "kind": "vocab",
+    "term": "une grâce (f.)",
+    "surface": "grâce",
+    "usage": "actif",
+    "definition_fr": "Mesure par laquelle le chef de l'État annule ou réduit une peine d'un condamné.",
+    "translation_cn": "赦免，大赦",
+    "exemple": "",
+    "note": "",
+    "context": "Le président du Mouvement démocratique libéral (MoDeL) avait bénéficié d'une grâce présidentielle début octobre, mais devait encore effectuer un stage obligatoire de réinsertion de 45 …",
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "grâce présidentielle",
+     "accorder sa grâce",
+     "bénéficier d'une grâce"
+    ]
+   },
+   {
+    "id": "3ykj9e",
+    "kind": "vocab",
+    "term": "la réinsertion (f.)",
+    "surface": "réinsertion",
+    "usage": "actif",
+    "definition_fr": "Fait de réintégrer la société et la vie professionnelle après une peine ou une exclusion.",
+    "translation_cn": "重新融入社会",
+    "exemple": "",
+    "note": "",
+    "context": "… président du Mouvement démocratique libéral (MoDeL) avait bénéficié d'une grâce présidentielle début octobre, mais devait encore effectuer un stage obligatoire de réinsertion de 45 jours.",
+    "synonymes": [],
+    "famille": [
+     "réinsérer",
+     "insertion",
+     "insérer"
+    ],
+    "collocations": []
+   },
+   {
+    "id": "1m0th6v",
+    "kind": "vocab",
+    "term": "une formation (f.)",
+    "surface": "formation",
+    "usage": "actif",
+    "definition_fr": "Organisation politique ou parti.",
+    "translation_cn": "政党，政治团体",
+    "exemple": "",
+    "note": "",
+    "context": "Dans un communiqué, sa formation politique, le MoDeL, exprime son soulagement après près de deux ans de détention de son leader.",
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "formation politique",
+     "formation de l'opposition"
+    ]
+   },
+   {
+    "id": "s2fd1a",
+    "kind": "vocab",
+    "term": "assorti (adj.)",
+    "surface": "assortie",
+    "usage": "passif",
+    "definition_fr": "Accompagné ou suivi de conditions particulières.",
+    "translation_cn": "附带的，伴随的",
+    "exemple": "",
+    "note": "",
+    "context": "Une mesure assortie, toutefois, d'un stage d'encadrement civique et de préparation à la réinsertion de 45 jours, que l'opposant devait accomplir.",
+    "synonymes": [],
+    "famille": [],
+    "collocations": [
+     "être assorti de conditions",
+     "mesure assortie d'une réserve"
+    ]
+   },
+   {
+    "id": "8t89gm",
+    "kind": "vocab",
+    "term": "la diffamation (f.)",
+    "surface": "diffamation",
+    "usage": "actif",
+    "definition_fr": "Allégation ou imputation d'un fait qui porte atteinte à l'honneur d'une personne.",
+    "translation_cn": "诽谤，名誉毁损",
+    "exemple": "",
+    "note": "",
+    "context": "… 2025 à deux ans de prison ferme pour « offense et diffamation envers le chef de l’État », Aliou Bah avait toujours contesté les accusations …",
+    "synonymes": [],
+    "famille": [
+     "diffamer",
+     "diffamatoire"
+    ],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "cpji72",
+    "kind": "expression",
+    "term": "recouvrer la liberté",
+    "surface": "recouvré la liberté",
+    "usage": "actif",
+    "definition_fr": "Sortir de prison ou être libéré de captivité.",
+    "translation_cn": "重获自由",
+    "exemple": "",
+    "note": "",
+    "context": "L'opposant guinéen Aliou Bah a recouvré la liberté, vendredi 6 novembre, après près de 23 mois de détention.",
+    "collocations": [
+     "recouvrer la liberté après une détention",
+     "enfin recouvrer la liberté"
+    ]
+   },
+   {
+    "id": "vlzly0",
+    "kind": "expression",
+    "term": "bénéficier de (v.)",
+    "surface": "bénéficié d'une",
+    "usage": "actif",
+    "definition_fr": "Obtenir un avantage, une mesure favorable ou une aide.",
+    "translation_cn": "享有，得到（赞助/赦免/优势）",
+    "exemple": "",
+    "note": "",
+    "context": "Le président du Mouvement démocratique libéral (MoDeL) avait bénéficié d'une grâce présidentielle début octobre, mais devait encore effectuer un stage obligatoire de réinsertion de 45 …",
+    "collocations": [
+     "bénéficier d'une mesure de grâce",
+     "bénéficier d'un soutien"
+    ]
+   },
+   {
+    "id": "1wxs4vf",
+    "kind": "expression",
+    "term": "en faveur de (prep.)",
+    "surface": "en faveur des",
+    "usage": "actif",
+    "definition_fr": "Au bénéfice de, pour soutenir quelque chose ou quelqu'un.",
+    "translation_cn": "支持，有利于",
+    "exemple": "",
+    "note": "",
+    "context": "Son parti annonce sa libération et réaffirme son engagement en faveur des libertés démocratiques.",
+    "collocations": [
+     "un engagement en faveur de",
+     "plaider en faveur de"
+    ]
+   },
+   {
+    "id": "1ii778q",
+    "kind": "expression",
+    "term": "un état de droit (m.)",
+    "surface": "État de droit",
+    "usage": "actif",
+    "definition_fr": "Système institutionnel dans lequel le respect du droit est garanti à tous.",
+    "translation_cn": "法治，法治国家",
+    "exemple": "",
+    "note": "",
+    "context": "Le parti réaffirme également son attachement à la démocratie, à l'État de droit et au respect des libertés fondamentales.",
+    "collocations": [
+     "respect de l'État de droit",
+     "consolider l'État de droit"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "198d846",
+    "kind": "connecteur",
+    "term": "toutefois (adv.)",
+    "surface": "toutefois",
+    "usage": "actif",
+    "definition_fr": "Indique une restriction ou une nuance dans une affirmation.",
+    "translation_cn": "然而，不过",
+    "exemple": "",
+    "note": "",
+    "context": "Une mesure assortie, toutefois, d'un stage d'encadrement civique et de préparation à la réinsertion de 45 jours, que l'opposant devait accomplir.",
+    "fonction": "restriction"
+   },
+   {
+    "id": "zob1ta",
+    "kind": "connecteur",
+    "term": "également (adv.)",
+    "surface": "également",
+    "usage": "actif",
+    "definition_fr": "S'emploie pour ajouter un élément de même nature.",
+    "translation_cn": "同样，也",
+    "exemple": "",
+    "note": "",
+    "context": "Le parti réaffirme également son attachement à la démocratie, à l'État de droit et au respect des libertés fondamentales.",
+    "fonction": "addition"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Le parti réaffirme également son attachement à la démocratie, à l'État de droit et au respect des libertés fondamentales.",
+    "structure": "Parallélisme de compléments introduits par la préposition « à »",
+    "explication": "Cette structure permet de coordonner plusieurs valeurs de manière fluide et solennelle dans le discours politique.",
+    "modele": "Le gouvernement a réitéré sa fidélité aux alliances stratégiques, aux traités internationaux et à la souveraineté des nations."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "son attachement à la démocratie, à l'État de droit et au respect des libertés fondamentales",
+    "figure": "Ternarité / Énumération rythmique",
+    "effet": "Renforce la légitimité institutionnelle du propos et donne un ton solennel au communiqué politique."
+   }
+  ],
+  "dropped": 1
+ }
+}
