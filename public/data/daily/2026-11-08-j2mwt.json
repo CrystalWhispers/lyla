@@ -1,0 +1,238 @@
+{
+ "id": "2026-11-08-j2mwt",
+ "date": "2026-11-08",
+ "title": "Municipales en Afrique du Sud: déroute historique de l'ANC qui passe à peine les 30%",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261107-municipales-en-afrique-du-sud-d%C3%A9route-historique-de-l-anc-qui-passe-%C3%A0-peine-les-30",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 244,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Résultats électoraux en Afrique du Sud et crise constitutionnelle en Somalie",
+  "summary": "Ce bulletin d'information revient sur le recul historique de l'ANC aux élections municipales sud-africaines face à l'Alliance démocratique. Il aborde également la crise politique en Somalie liée à la prolongation contestée du mandat présidentiel, ainsi que les enjeux de préservation du poivre sauvage à Madagascar.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "ch9kan",
+    "kind": "vocab",
+    "term": "un bulletin (m.)",
+    "surface": "bulletins",
+    "usage": "actif",
+    "definition_fr": "Papier servant à exprimer un vote lors d'un scrutin.",
+    "translation_cn": "选票",
+    "exemple": "",
+    "note": "",
+    "context": "Plus de 99 % des bulletins ont été dépouillés.",
+    "synonymes": [
+     "suffrage",
+     "vote",
+     "bulletin de vote"
+    ],
+    "famille": [],
+    "collocations": [
+     "dépouiller les bulletins",
+     "un bulletin secret",
+     "un bulletin nul"
+    ]
+   },
+   {
+    "id": "8j6k3n",
+    "kind": "vocab",
+    "term": "dépouiller",
+    "surface": "dépouillés",
+    "usage": "actif",
+    "definition_fr": "Compter et analyser les bulletins de vote d'une élection.",
+    "translation_cn": "统计（选票），计票",
+    "exemple": "",
+    "note": "",
+    "context": "Plus de 99 % des bulletins ont été dépouillés.",
+    "synonymes": [
+     "comptabiliser",
+     "recenser"
+    ],
+    "famille": [],
+    "collocations": [
+     "dépouiller le scrutin",
+     "dépouiller les urnes"
+    ]
+   },
+   {
+    "id": "102ff25",
+    "kind": "vocab",
+    "term": "une contestation (f.)",
+    "surface": "contestations",
+    "usage": "actif",
+    "definition_fr": "Action de remettre en cause la validité d'une décision ou d'un résultat.",
+    "translation_cn": "争议，异议，抗议",
+    "exemple": "",
+    "note": "",
+    "context": "Les résultats seront annoncés demain, après vérification de près de 200 contestations.",
+    "synonymes": [
+     "litige",
+     "réclamation",
+     "objection"
+    ],
+    "famille": [
+     "contester",
+     "contestable"
+    ],
+    "collocations": [
+     "faire l'objet de contestations",
+     "formuler une contestation",
+     "régler des contestations"
+    ]
+   },
+   {
+    "id": "1f7ij1q",
+    "kind": "vocab",
+    "term": "une prolongation (f.)",
+    "surface": "prolongation",
+    "usage": "actif",
+    "definition_fr": "Action d'augmenter la durée de validité d'un mandat ou d'un accord.",
+    "translation_cn": "延长，延期",
+    "exemple": "",
+    "note": "",
+    "context": "Jeudi, la Cour suprême a jugé illégale la prolongation du mandat du président Hassan Cheikh Mohamoud.",
+    "synonymes": [
+     "prorogation",
+     "extension"
+    ],
+    "famille": [
+     "prolonger",
+     "prolongeable"
+    ],
+    "collocations": [
+     "prolongation de mandat",
+     "demander une prolongation"
+    ]
+   },
+   {
+    "id": "sp67en",
+    "kind": "vocab",
+    "term": "prisé, prisée",
+    "surface": "prisé",
+    "usage": "passif",
+    "definition_fr": "Qui est très estimé, recherché et apprécié par un public connaisseur.",
+    "translation_cn": "受青睐的，受好评的",
+    "exemple": "",
+    "note": "",
+    "context": "Le tsiperifery est un poivre sauvage de Madagascar très prisé des chefs étoilés.",
+    "synonymes": [
+     "recherché",
+     "apprêté",
+     "côté"
+    ],
+    "famille": [
+     "priser"
+    ],
+    "collocations": [
+     "très prisé par",
+     "un produit prisé"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "mi7t1h",
+    "kind": "expression",
+    "term": "un recul (m.) historique",
+    "surface": "recul historique",
+    "usage": "actif",
+    "definition_fr": "Baisse ou perte d'influence d'une ampleur jamais vue dans l'histoire.",
+    "translation_cn": "历史性倒退（或下挫）",
+    "exemple": "Le parti au pouvoir a essuyé un recul historique lors des dernières législatives.",
+    "note": "",
+    "context": "Mais les tendances sont claires : l’ANC est en recul historique, en passant à peine la barre des 30 %.",
+    "collocations": [
+     "subir un recul historique",
+     "enregistrer un recul historique"
+    ]
+   },
+   {
+    "id": "j8di99",
+    "kind": "expression",
+    "term": "passer la barre des (somme/pourcentage)",
+    "surface": "passant à peine la barre des",
+    "usage": "actif",
+    "definition_fr": "Franchir un seuil ou un niveau chiffré significatif.",
+    "translation_cn": "跨过……的大关 / 达到……的门槛",
+    "exemple": "L'inflation a dépassé la barre des 5 % ce trimestre.",
+    "note": "",
+    "context": "Mais les tendances sont claires : l’ANC est en recul historique, en passant à peine la barre des 30 %.",
+    "collocations": [
+     "franchir la barre des",
+     "dépasser la barre des"
+    ]
+   },
+   {
+    "id": "omat1q",
+    "kind": "expression",
+    "term": "prendre un tour (adjectif)",
+    "surface": "prend un tour dangereux",
+    "usage": "actif",
+    "definition_fr": "Evoluer ou se développer d'une certaine manière, prendre une tournure spécifique.",
+    "translation_cn": "呈现出……的局势 / 发展成……的局面",
+    "exemple": "Les négociations diplomatiques ont pris un tour critique à Genève.",
+    "note": "",
+    "context": "En Somalie, la crise politique prend un tour dangereux.",
+    "collocations": [
+     "prendre un tour dramatique",
+     "prendre un tour inattendu"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "n8phlj",
+    "kind": "connecteur",
+    "term": "mais",
+    "surface": "Mais",
+    "usage": "actif",
+    "definition_fr": "Marque l'opposition, la restriction ou une nuance par rapport à ce qui précède.",
+    "translation_cn": "但是，然而",
+    "exemple": "",
+    "note": "Placé en début de phrase dans le style journalistique pour créer un contraste fort.",
+    "context": "Mais les tendances sont claires : l’ANC est en recul historique, en passant à peine la barre des 30 %.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "qomifm",
+    "kind": "connecteur",
+    "term": "alors",
+    "surface": "alors",
+    "usage": "actif",
+    "definition_fr": "Indique la conséquence logique ou temporelle d'une situation donnée.",
+    "translation_cn": "于是，遂",
+    "exemple": "",
+    "note": "Dans ce contexte, 's'est alors accordé' souligne l'enchaînement des faits.",
+    "context": "Le chef de l'État s'est alors accordé une année de transition supplémentaire, ce que ses opposants dénoncent comme une prise de pouvoir.",
+    "fonction": "conséquence"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "ce que ses opposants dénoncent comme une prise de pouvoir.",
+    "structure": "Pronom relatif composé « ce que » + verbe + « comme » + nom",
+    "explication": "Le pronom neutre 'ce que' reprend toute la proposition précédente (l'octroi d'une année supplémentaire). La structure 'dénoncer [quelque chose] comme [qualification]' permet d'exprimer un jugement critique formulé par les opposants.",
+    "modele": "Le gouvernement a voté cette loi par décret, ce que l'opposition qualifie de déni de démocratie."
+   },
+   {
+    "surface": "Le chef de l'État s'est alors accordé une année de transition supplémentaire",
+    "structure": "Verbe pronominal réfléchi avec attribut du COD au bénéfice du sujet (se pronominal)",
+    "explication": "Le verbe s'accorder employé avec un COD ('une année') au bénéfice du sujet lui-même ('Le chef de l'État'). Le participe passé reste invariable car le COD est placé après.",
+    "modele": "Le Premier ministre s'est arrogé des pouvoirs exceptionnels en période de crise."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "l’ANC est en recul historique, en passant à peine la barre des 30 %.",
+    "figure": "Amplification / Qualification forte",
+    "effet": "Souligne la gravité et l'impact politique majeur de la baisse électorale du parti au pouvoir par l'association d'un adjectif fort ('historique') et de données chiffrées."
+   }
+  ],
+  "dropped": 0
+ }
+}
