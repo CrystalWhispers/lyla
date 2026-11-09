@@ -1,0 +1,487 @@
+{
+ "id": "2026-11-09-2i9ji",
+ "date": "2026-11-09",
+ "title": "«La COP31 ne se déroule pas dans une bulle»: les États réunis à Antalya pour le climat",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/environnement/20261109-la-cop31-ne-se-d%C3%A9roule-pas-dans-une-bulle-les-%C3%A9tats-r%C3%A9unis-%C3%A0-antalya-pour-le-climat",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 802,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "COP31 et enjeux de la transition énergétique en contexte de crise",
+  "summary": "La COP31 s'ouvre en Turquie dans un contexte géopolitique et énergétique particulièrement tendu. Les nations tentent de concilier la sortie des énergies fossiles et la sécurité d'approvisionnement malgré l'absence de plusieurs grands dirigeants.",
+  "theme": "Énergie & climat",
+  "vocabulaire": [
+   {
+    "id": "3wbv4d",
+    "kind": "vocab",
+    "term": "décorréler (v.)",
+    "surface": "décorrélée",
+    "usage": "actif",
+    "definition_fr": "Séparer deux éléments qui étaient liés ou dépendants l'un de l'autre.",
+    "translation_cn": "使…脱钩，解耦",
+    "exemple": "Le gouvernement souhaite décorréler la croissance économique de la consommation d'énergie.",
+    "note": "Construit le plus souvent avec la préposition « de ».",
+    "context": "Mais cette ambition ne peut être décorrélée d’une sortie des énergies fossiles, financée et juste.",
+    "synonymes": [
+     "dissocier",
+     "déconnecter",
+     "dégager"
+    ],
+    "famille": [
+     "une corrélation (f.)",
+     "corréler"
+    ],
+    "collocations": [
+     "décorréler la croissance de la pollution",
+     "être décorrélé de la réalité"
+    ]
+   },
+   {
+    "id": "1b4c9ad",
+    "kind": "vocab",
+    "term": "un surcoût (m.)",
+    "surface": "surcoût",
+    "usage": "actif",
+    "definition_fr": "Dépense supplémentaire par rapport au prix ou au budget initialement prévu.",
+    "translation_cn": "额外费用，附加成本",
+    "exemple": "La hausse des prix des matières premières a engendré un surcoût important pour l'industrie.",
+    "note": "S'emploie très fréquemment dans les analyses financières et économiques.",
+    "context": "Depuis la crise du détroit d’Ormuz, les importations d’énergies fossiles ont généré un surcoût de 104 milliards d’euros pour les États européens.",
+    "synonymes": [
+     "une hausse de coût",
+     "un supplément"
+    ],
+    "famille": [
+     "coûter",
+     "un coût (m.)"
+    ],
+    "collocations": [
+     "engendrer un surcoût",
+     "absorber le surcoût"
+    ]
+   },
+   {
+    "id": "15ey3eu",
+    "kind": "vocab",
+    "term": "insoutenable (adj.)",
+    "surface": "insoutenable",
+    "usage": "actif",
+    "definition_fr": "Qu'on ne peut pas maintenir, tolérer ou supporter sur le long terme.",
+    "translation_cn": "不可持续的，无法忍受的",
+    "exemple": "Ce niveau d'endettement public est jugé insoutenable par la Banque centrale.",
+    "note": "En économie, s'utilise souvent pour qualifier une dette ou une trajectoire budgétaire.",
+    "context": "Cette dynamique inflationniste serait insoutenable pour les populations sans des aides publiques massives.",
+    "synonymes": [
+     "inviable",
+     "intolérable"
+    ],
+    "famille": [
+     "soutenir",
+     "soutenable",
+     "un soutien (m.)"
+    ],
+    "collocations": [
+     "une dette insoutenable",
+     "une pression insoutenable"
+    ]
+   },
+   {
+    "id": "s82egp",
+    "kind": "vocab",
+    "term": "un soubresaut (m.)",
+    "surface": "soubresauts",
+    "usage": "actif",
+    "definition_fr": "Sursaut brusque, choc ou perturbation inattendue.",
+    "translation_cn": "突发动荡，动荡起伏",
+    "exemple": "Les entreprises doivent s'adapter aux soubresauts réguliers des marchés financiers.",
+    "note": "Très employé au figuré dans la presse politique et économique.",
+    "context": "Face à l’ennemi commun du changement climatique, les récentes éditions ont toutefois su résister aux soubresauts de la géopolitique en produisant des résultats, même faibles.",
+    "synonymes": [
+     "une secousse",
+     "une perturbation"
+    ],
+    "famille": [
+     "sursauter"
+    ],
+    "collocations": [
+     "les soubresauts du marché",
+     "les soubresauts de la géopolitique"
+    ]
+   },
+   {
+    "id": "ilchqz",
+    "kind": "vocab",
+    "term": "un homologue (m.)",
+    "surface": "homologues",
+    "usage": "actif",
+    "definition_fr": "Personne qui exerce des fonctions équivalentes dans un autre organisme ou pays.",
+    "translation_cn": "同行，对应职位的人（如对等官员）",
+    "exemple": "Le ministre des Affaires étrangères s'est entretenu avec son homologue allemand.",
+    "note": "Nom masculin le plus souvent (ou féminin si la personne l'est).",
+    "context": "À six mois de son départ, Emmanuel Macron brillera par son absence, tout comme ses homologues d’Allemagne, d’Italie, du Canada, du Japon.",
+    "synonymes": [
+     "un pendant (m.)",
+     "un équivalent (m.)"
+    ],
+    "famille": [
+     "homologue (adj.)"
+    ],
+    "collocations": [
+     "rencontrer son homologue",
+     "échanger avec ses homologues"
+    ]
+   },
+   {
+    "id": "1omls22",
+    "kind": "vocab",
+    "term": "résilient (adj.)",
+    "surface": "résiliente",
+    "usage": "actif",
+    "definition_fr": "Capable d'absorber un choc et de continuer à fonctionner ou de se rétablir.",
+    "translation_cn": "有韧性的，具抗逆力的",
+    "exemple": "La banque centrale cherche à rendre le système financier plus résilient face aux crises.",
+    "note": "Terme omniprésent dans la communication institutionnelle contemporaine.",
+    "context": "… l’action sur le terrain – plus rapide, plus juste et plus résiliente », résume Marta Torres Gunfaus, directrice du programme climat à l’Institut des relations …",
+    "synonymes": [
+     "résistant",
+     "solide"
+    ],
+    "famille": [
+     "la résilience (f.)"
+    ],
+    "collocations": [
+     "une économie résiliente",
+     "une chaîne d'approvisionnement résiliente"
+    ]
+   },
+   {
+    "id": "1kzksz0",
+    "kind": "vocab",
+    "term": "court-circuiter (v.)",
+    "surface": "court-circuité",
+    "usage": "actif",
+    "definition_fr": "Contourner un intermédiaire ou paralyser un processus établi.",
+    "translation_cn": "绕过，打乱，跳过",
+    "exemple": "Certains États tentent de court-circuiter le processus multilatéral par des accords bilatéraux.",
+    "note": "Au figuré, signifie entraver ou outrepasser une procédure.",
+    "context": "… fracassantes à attendre, mais les quinze prochains jours diront si le contexte énergétique a court-circuité le multilatéralisme ou si, au contraire, il a servi d’électrochoc.",
+    "synonymes": [
+     "shunter",
+     "contourner",
+     "entraver"
+    ],
+    "famille": [
+     "un court-circuit (m.)"
+    ],
+    "collocations": [
+     "court-circuiter les négociations",
+     "court-circuiter la diplomatie"
+    ]
+   },
+   {
+    "id": "12y5xlz",
+    "kind": "vocab",
+    "term": "une décarbonation (f.)",
+    "surface": "décarbonation",
+    "usage": "actif",
+    "definition_fr": "Ensemble des mesures visant à réduire ou éliminer les émissions de carbone.",
+    "translation_cn": "去碳化，脱碳",
+    "exemple": "La décarbonation des transports nécessite des investissements importants dans le réseau électrique.",
+    "note": "Aussi orthographié « décarbonatation » dans certains contextes techniques.",
+    "context": "… ont énormément incité les pays de beaucoup de régions du monde à aller vers la décarbonation de leurs transports et le développement des énergies renouvelables.",
+    "synonymes": [
+     "la décarbonisation (f.)"
+    ],
+    "famille": [
+     "décarboner",
+     "le carbone (m.)"
+    ],
+    "collocations": [
+     "accélérer la décarbonation",
+     "la décarbonation de l'industrie"
+    ]
+   },
+   {
+    "id": "12p2qg5",
+    "kind": "vocab",
+    "term": "acter (v.)",
+    "surface": "acté",
+    "usage": "passif",
+    "definition_fr": "Prendre acte de quelque chose, enregistrer officiellement une décision ou un constat.",
+    "translation_cn": "正式确认，记录在案",
+    "exemple": "Les dirigeants européens ont acté le principe d'une taxe sur les transactions financières.",
+    "note": "Verbe très utilisé dans le vocabulaire administratif et politique en France.",
+    "context": "Le réchauffement dépassera la cible symbolique du 1,5°C dans quelques années, a récemment acté l'ONU.",
+    "synonymes": [
+     "enregistrer",
+     "consigner",
+     "consigner"
+    ],
+    "famille": [
+     "un acte (m.)"
+    ],
+    "collocations": [
+     "acter une décision",
+     "acter un accord"
+    ]
+   },
+   {
+    "id": "v0qg1",
+    "kind": "vocab",
+    "term": "un électrochoc (m.)",
+    "surface": "électrochoc",
+    "usage": "passif",
+    "definition_fr": "Événement brutal provoquant une prise de conscience ou un changement rapide.",
+    "translation_cn": "休克疗法，激进刺激，深度警醒",
+    "exemple": "La hausse soudaine du pétrole a servi d'électrochoc aux gouvernements dépendants des fossiles.",
+    "note": "Employé de manière figurée dans le débat socio-économique.",
+    "context": "… fracassantes à attendre, mais les quinze prochains jours diront si le contexte énergétique a court-circuité le multilatéralisme ou si, au contraire, il a servi d’électrochoc.",
+    "synonymes": [
+     "un déclic (m.)",
+     "une prise de conscience"
+    ],
+    "famille": [
+     "un choc (m.)"
+    ],
+    "collocations": [
+     "provoquer un électrochoc",
+     "servir d'électrochoc"
+    ]
+   },
+   {
+    "id": "1m8o5qo",
+    "kind": "vocab",
+    "term": "une impétuosité (f.)",
+    "surface": "impasses",
+    "usage": "actif",
+    "definition_fr": "Une impasse (f.) : situation de blocage d'où l'on ne peut pas sortir.",
+    "translation_cn": "死胡同，困境",
+    "exemple": "Les négociations sur la fiscalité internationale se trouvent actuellement dans une impasse.",
+    "note": "Très fréquent pour décrire un blocage politique ou diplomatique.",
+    "context": "Elles exposent les impasses d’un ordre international où la puissance militaire, les intérêts géopolitiques et la dépendance aux énergies fossiles continuent de structurer les relations …",
+    "synonymes": [
+     "un blocage (m.)",
+     "une voie sans issue (f.)"
+    ],
+    "famille": [
+     "passer"
+    ],
+    "collocations": [
+     "mener à une impasse",
+     "sortir de l'impasse"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "lzfy3m",
+    "kind": "expression",
+    "term": "faire d'une pierre deux coups",
+    "surface": "faire d’une pierre deux coups",
+    "usage": "actif",
+    "definition_fr": "Obtenir deux résultats avantageux en une seule action.",
+    "translation_cn": "一石二鸟，一举两得",
+    "exemple": "En investissant dans l'efficacité énergétique, le pays fait d'une pierre deux coups en réduisant ses factures et ses émissions.",
+    "note": "Locution courante dans le registre professionnel et informel.",
+    "context": "Beaucoup voient dans le contexte de crise énergétique l’occasion de faire d’une pierre deux coups : progrès climatique et indépendance énergétique.",
+    "collocations": [
+     "faire d'une pierre deux coups avec cette réforme"
+    ]
+   },
+   {
+    "id": "1nj7kq7",
+    "kind": "expression",
+    "term": "briller par son absence",
+    "surface": "brillera par son absence",
+    "usage": "actif",
+    "definition_fr": "Se faire remarquer en n'étant pas présent là où on était attendu.",
+    "translation_cn": "因缺席而受到关注",
+    "exemple": "Plusieurs chefs d'État ont brillé par leur absence au sommet sur la souveraineté industrielle.",
+    "note": "Souvent teinté d'une légère ironie ou critique politique.",
+    "context": "À six mois de son départ, Emmanuel Macron brillera par son absence, tout comme ses homologues d’Allemagne, d’Italie, du Canada, du Japon.",
+    "collocations": [
+     "briller par son absence lors du débat"
+    ]
+   },
+   {
+    "id": "fojl6u",
+    "kind": "expression",
+    "term": "peser sur",
+    "surface": "pèse sur",
+    "usage": "actif",
+    "definition_fr": "Exercer une contrainte, une menace ou une lourde charge financière/morale.",
+    "translation_cn": "施压于，给…带来负担",
+    "exemple": "L'inflation élevée pèse lourdement sur les ménages les plus modestes.",
+    "note": "S'utilise beaucoup dans l'analyse de conjoncture.",
+    "context": "Chaque fraction supplémentaire pèse sur les sociétés, les ressources (eau, énergie) et les infrastructures.",
+    "collocations": [
+     "peser sur le budget",
+     "peser sur le pouvoir d'achat"
+    ]
+   },
+   {
+    "id": "5y9i3x",
+    "kind": "expression",
+    "term": "à la lumière de",
+    "surface": "à la lumière du",
+    "usage": "actif",
+    "definition_fr": "En tenant compte de, en considérant un élément pour analyser la situation.",
+    "translation_cn": "鉴于，结合…来看",
+    "exemple": "Cette mesure fiscale a été réévaluée à la lumière des nouveaux chiffres du chômage.",
+    "note": "Locution de liaison très élégante à l'écrit comme à l'oral public.",
+    "context": "… se déroule absolument pas dans une bulle isolée mais se construit à la lumière du contexte international », souligne Gaïa Febvre, responsable des politiques internationales …",
+    "collocations": [
+     "analyser à la lumière des faits",
+     "revoir à la lumière des évènements"
+    ]
+   },
+   {
+    "id": "sd33w5",
+    "kind": "expression",
+    "term": "hors-sujet (m.)",
+    "surface": "hors-sujet",
+    "usage": "actif",
+    "definition_fr": "Qui ne concerne pas la question débattue, à côté de la plaque.",
+    "translation_cn": "偏离主题，不相干",
+    "exemple": "Le ministre a estimé que le débat sur les retraites était hors-sujet par rapport au texte de loi.",
+    "note": "S'emploie aussi comme adjectif invariable ou comme nom.",
+    "context": "« Ces guerres ne sont pas un hors-sujet climatique, clame le Réseau action climat (RAC) France, fédération de dizaines d'ONG.",
+    "collocations": [
+     "être hors-sujet",
+     "un argument hors-sujet"
+    ]
+   },
+   {
+    "id": "nt9rj1",
+    "kind": "expression",
+    "term": "sur le terrain",
+    "surface": "sur le terrain",
+    "usage": "actif",
+    "definition_fr": "Dans la pratique, au niveau concret et opérationnel.",
+    "translation_cn": "在实地，在实际工作中",
+    "exemple": "Les annonces ministérielles doivent désormais se traduire par des actions directes sur le terrain.",
+    "note": "S'oppose souvent aux déclarations purement théoriques ou diplomatiques.",
+    "context": "… fin de COP], mais si elle peut contribuer à accélérer l’action sur le terrain – plus rapide, plus juste et plus résiliente », résume Marta …",
+    "collocations": [
+     "agir sur le terrain",
+     "la réalité du terrain"
+    ]
+   },
+   {
+    "id": "2ci1i1",
+    "kind": "expression",
+    "term": "conflit armé (m.)",
+    "surface": "conflits armés",
+    "usage": "actif",
+    "definition_fr": "Lutte armée entre deux ou plusieurs partis, États ou groupes.",
+    "translation_cn": "武装冲突",
+    "exemple": "L'émergence de nouveaux conflits armés menace la stabilité économique régionale.",
+    "note": "Vocabulaire officiel des relations internationales.",
+    "context": "» Et alimenter conflits armés et migrations.",
+    "collocations": [
+     "un conflit armé international",
+     "prévenir les conflits armés"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "jcqsxv",
+    "kind": "connecteur",
+    "term": "toutefois",
+    "surface": "toutefois",
+    "usage": "actif",
+    "definition_fr": "Cependant, néanmoins ; marque une nuance ou une restriction modérée.",
+    "translation_cn": "然而，不过",
+    "exemple": "",
+    "note": "Très élégant dans un discours argumenté ou un rapport officiel.",
+    "context": "Face à l’ennemi commun du changement climatique, les récentes éditions ont toutefois su résister aux soubresauts de la géopolitique en produisant des résultats, même faibles.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "vgd11v",
+    "kind": "connecteur",
+    "term": "ainsi",
+    "surface": "ainsi",
+    "usage": "actif",
+    "definition_fr": "De cette manière, par conséquent ; introduit une illustration ou une conclusion logique.",
+    "translation_cn": "因此，由此",
+    "exemple": "",
+    "note": "Placé en début de phrase, il demande souvent une inversion sujet-verbe.",
+    "context": "Le G7 n’est ainsi réduit qu’à la présence du Premier ministre britannique Andy Burnham.",
+    "fonction": "conséquence"
+   },
+   {
+    "id": "11n25gq",
+    "kind": "connecteur",
+    "term": "au contraire",
+    "surface": "au contraire",
+    "usage": "actif",
+    "definition_fr": "À l'opposé de ce qui vient d'être dit.",
+    "translation_cn": "相反，恰恰相反",
+    "exemple": "",
+    "note": "Sert à renforcer une alternative explicite.",
+    "context": "… fracassantes à attendre, mais les quinze prochains jours diront si le contexte énergétique a court-circuité le multilatéralisme ou si, au contraire, il a servi d’électrochoc.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1h0wolu",
+    "kind": "connecteur",
+    "term": "tout comme",
+    "surface": "tout comme",
+    "usage": "actif",
+    "definition_fr": "Exactement de la même manière que, de même que.",
+    "translation_cn": "正如，同…一样",
+    "exemple": "",
+    "note": "Très fluide pour établir un parallèle dans un discours.",
+    "context": "À six mois de son départ, Emmanuel Macron brillera par son absence, tout comme ses homologues d’Allemagne, d’Italie, du Canada, du Japon.",
+    "fonction": "comparaison"
+   },
+   {
+    "id": "vydy03",
+    "kind": "connecteur",
+    "term": "dans le même temps",
+    "surface": "Dans le même temps",
+    "usage": "actif",
+    "definition_fr": "Simultanément, tout en considérant un autre aspect de la situation.",
+    "translation_cn": "与此同时",
+    "exemple": "",
+    "note": "Marque la coexistence de deux faits souvent opposés ou complexes.",
+    "context": "Dans le même temps, les sécheresses, les inondations, les vagues de chaleur et les autres évènements extrêmes dopés par le phénomène El Niño pourraient atteindre …",
+    "fonction": "addition"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Ce sont 196 États qui participent jusqu'au 20 novembre, dans le sud de la Turquie, à la 31e Conférence",
+    "structure": "Gallicisme d'insistance (C'est... qui)",
+    "explication": "Permet d'insister sur le sujet (les 196 États) en le plaçant au début de la phrase d'ouverture.",
+    "modele": "C'est la Commission européenne qui tranchera ce litige d'ici la fin du mois."
+   },
+   {
+    "surface": "Les États-Unis, qui se sont carrément retirés de l’Accord de Paris, n’enverront aucun officiel comme l’an dernier.",
+    "structure": "Proproposition relative explicative incidente avec adverbe d'intensité",
+    "explication": "La relative apporte un éclairage explicatif sur l'attitude des États-Unis sans couper l'affirmation principale.",
+    "modele": "La Banque centrale, qui a nettement augmenté ses taux d'intérêt, publiera ses prévisions demain."
+   },
+   {
+    "surface": "Plus incertain est le déplacement de Narendra Modi, Premier ministre de l’Inde",
+    "structure": "Inversion de l'attribut du sujet en tête de phrase",
+    "explication": "Structure littéraire ou journalistique soutenue qui met l'accent sur la qualification avant d'introduire le sujet.",
+    "modele": "Plus délicat encore est l'arbitrage entre soutien à l'emploi et rigueur budgétaire."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "bruits de balles, de bombes et de bottes",
+    "figure": "Allitération et gradation",
+    "effet": "Crée un rythme martelé et dramatique grâce à la répétition du son [b], soulignant l'atmosphère de guerre."
+   }
+  ],
+  "dropped": 3
+ }
+}
