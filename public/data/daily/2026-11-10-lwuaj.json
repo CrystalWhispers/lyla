@@ -1,0 +1,444 @@
+{
+ "id": "2026-11-10-lwuaj",
+ "date": "2026-11-10",
+ "title": "L'Australie va imposer des garde-fous aux entreprises de l'IA opérant sur son sol",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/asie-pacifique/20261110-australie-va-imposer-garde-fous-entreprises-ia",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 499,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "L'Australie renforce la régulation des entreprises d'intelligence artificielle",
+  "summary": "Face aux risques sécuritaires et environnementaux posés par l'IA, le gouvernement australien annonce la création d'une nouvelle autorité de régulation. Canberra entend imposer des mesures prudentielles strictes tout en préservant l'attractivité du pays pour les centres de données.",
+  "theme": "Technologie & régulation",
+  "vocabulaire": [
+   {
+    "id": "alpatk",
+    "kind": "vocab",
+    "term": "une mesure prudentielle (f.)",
+    "surface": "mesures prudentielles",
+    "usage": "actif",
+    "definition_fr": "Disposition visant à prévenir les risques et à assurer la stabilité.",
+    "translation_cn": "审慎监管措施",
+    "exemple": "La banque centrale a renforcé les exigences prudentielles pour éviter tout risque systémique.",
+    "note": "Très fréquent en finance et régulation des marchés.",
+    "context": "… a annoncé mardi 10 novembre qu'elle s'apprête à imposer de strictes mesures prudentielles aux entreprises spécialisées dans l'intelligence artificielle (IA) souhaitant opérer dans le pays, …",
+    "synonymes": [
+     "mesure de précaution",
+     "régulation sécuritaire"
+    ],
+    "famille": [
+     "prudence",
+     "prudemment"
+    ],
+    "collocations": [
+     "imposer des mesures prudentielles",
+     "normes prudentielles",
+     "cadre prudentiel"
+    ]
+   },
+   {
+    "id": "pprjez",
+    "kind": "vocab",
+    "term": "opérer",
+    "surface": "opérer",
+    "usage": "actif",
+    "definition_fr": "Exercer une activité économique ou industrielle dans un endroit.",
+    "translation_cn": "运营，开展业务",
+    "exemple": "Cette multinationale souhaite opérer dans l'ensemble des pays membres de l'UE.",
+    "note": "Usage économique très naturel.",
+    "context": "… strictes mesures prudentielles aux entreprises spécialisées dans l'intelligence artificielle (IA) souhaitant opérer dans le pays, après le piratage de plateformes gouvernementales par un modèle d'OpenAI.",
+    "synonymes": [
+     "exercer",
+     "fonctionner"
+    ],
+    "famille": [
+     "une opération (f.)",
+     "un opérateur (m.)"
+    ],
+    "collocations": [
+     "opérer sur un marché",
+     "opérer à l'international"
+    ]
+   },
+   {
+    "id": "t6zoau",
+    "kind": "vocab",
+    "term": "encadrer",
+    "surface": "encadrer",
+    "usage": "actif",
+    "definition_fr": "Soumettre une activité à des règles strictes pour la limiter ou la guider.",
+    "translation_cn": "监管，规范",
+    "exemple": "Le parlement cherche à encadrer l'utilisation des données personnelles par les géants de la tech.",
+    "note": "Indispensable dans les débats de politique publique.",
+    "context": "… régulation de l'IA, chargée de mettre en œuvre des mesures visant à encadrer ce secteur, va être créée, a indiqué le Premier ministre Anthony Albanese.",
+    "synonymes": [
+     "réglementer",
+     "réguler"
+    ],
+    "famille": [
+     "un encadrement (m.)"
+    ],
+    "collocations": [
+     "encadrer un secteur",
+     "encadrer les prix",
+     "encadrer les pratiques"
+    ]
+   },
+   {
+    "id": "1q7cecg",
+    "kind": "vocab",
+    "term": "un pionnier (m.)",
+    "surface": "pionnier",
+    "usage": "actif",
+    "definition_fr": "Personne ou entité qui ouvre la voie dans un domaine innovant.",
+    "translation_cn": "先驱，先锋",
+    "exemple": "Le pays s'affirme comme un pionnier de la transition énergétique en Europe.",
+    "note": "Féminin : pionnière.",
+    "context": "\"L'Australie est un pionnier dans ce domaine et nous voulons nous assurer de tirer pleinement parti des avantages potentiels de l'IA\", a revendiqué le Premier …",
+    "synonymes": [
+     "précurseur",
+     "avant-gardiste"
+    ],
+    "famille": [
+     "pionnier (adj.)"
+    ],
+    "collocations": [
+     "faire figure de pionnier",
+     "être un pionnier"
+    ]
+   },
+   {
+    "id": "16ou6wr",
+    "kind": "vocab",
+    "term": "une adhésion (f.)",
+    "surface": "adhésion",
+    "usage": "actif",
+    "definition_fr": "Approbation et soutien accordés par une population ou un groupe à un projet.",
+    "translation_cn": "认同，支持",
+    "exemple": "Le gouvernement doit recueillir l'adhésion des citoyens avant d'engager cette réforme constitutionnelle.",
+    "note": "À ne pas confondre avec l'adhésion au sens d'affiliation à un parti.",
+    "context": "\"Mais nous devons veiller à bien faire les choses, et l'adhésion de la société est absolument essentielle\", a-t-il ajouté.",
+    "synonymes": [
+     "assentiment",
+     "approbation"
+    ],
+    "famille": [
+     "adhérer",
+     "un adhérent (m.)"
+    ],
+    "collocations": [
+     "susciter l'adhésion",
+     "l'adhésion de la société",
+     "obtenir l'adhésion"
+    ]
+   },
+   {
+    "id": "18z7y6r",
+    "kind": "vocab",
+    "term": "infiltrer",
+    "surface": "infiltré",
+    "usage": "actif",
+    "definition_fr": "S'introduire clandestinement ou frauduleusement dans un système informatique ou une organisation.",
+    "translation_cn": "潜入，入侵（网络）",
+    "exemple": "Un logiciel malveillant s'est infiltré dans les serveurs du ministère des Affaires étrangères.",
+    "note": "S'utilise aussi bien en politique (espionnage) qu'en cybersécurité.",
+    "context": "En juin, un agent autonome d'OpenAI a infiltré un site internet du gouvernement australien et accédé à des fichiers du service de statistiques de la …",
+    "synonymes": [
+     "pirater",
+     "s'introduire"
+    ],
+    "famille": [
+     "une infiltration (f.)"
+    ],
+    "collocations": [
+     "infiltrer un réseau",
+     "infiltrer un système"
+    ]
+   },
+   {
+    "id": "u4nex",
+    "kind": "vocab",
+    "term": "générique",
+    "surface": "générique",
+    "usage": "actif",
+    "definition_fr": "Qui s'applique à l'ensemble d'un groupe, non spécifique ou non personnalisé.",
+    "translation_cn": "通用的，一般的",
+    "exemple": "Le communiqué a été envoyé à une adresse générique du ministère plutôt qu'au responsable du dossier.",
+    "note": "Peut aussi désigner un médicament générique.",
+    "context": "… a accusé l'entreprise américaine de ne l'avoir alerté qu'en septembre, par le moyen d'un courriel adressé à une adresse électronique générique destinée au grand public.",
+    "synonymes": [
+     "général",
+     "impersonnel"
+    ],
+    "famille": [
+     "génériquement"
+    ],
+    "collocations": [
+     "adresse générique",
+     "terme générique"
+    ]
+   },
+   {
+    "id": "1u8uj37",
+    "kind": "vocab",
+    "term": "une périphérie (f.)",
+    "surface": "périphérie",
+    "usage": "actif",
+    "definition_fr": "Zone située autour d'un centre urbain ou économique principal.",
+    "translation_cn": "郊区，周边地区",
+    "exemple": "Le nouveau parc technologique sera implanté en périphérie de la capitale.",
+    "note": "S'oppose au « centre ».",
+    "context": "OpenAI est en particulier impliqué dans la construction d'un immense centre de données en périphérie de Sydney.",
+    "synonymes": [
+     "banlieue",
+     "environs"
+    ],
+    "famille": [
+     "périphérique"
+    ],
+    "collocations": [
+     "en périphérie de",
+     "la périphérie urbaine"
+    ]
+   },
+   {
+    "id": "1o3df86",
+    "kind": "vocab",
+    "term": "assouplir",
+    "surface": "assouplir",
+    "usage": "actif",
+    "definition_fr": "Rendre une loi, une règle ou des exigences moins strictes.",
+    "translation_cn": "放宽，宽减（法规）",
+    "exemple": "Les entreprises demandent aux autorités d'assouplir la réglementation sur le travail du dimanche.",
+    "note": "Antonyme direct de « durcir » ou « renforcer ».",
+    "context": "… Anthropic et d'autres entreprises du secteur de l'IA de chercher à assouplir les lois sur le droit d'auteur afin que les agents conversationnels puissent être …",
+    "synonymes": [
+     "alléger",
+     "assouplir"
+    ],
+    "famille": [
+     "un assouplissement (m.)",
+     "souple"
+    ],
+    "collocations": [
+     "assouplir les lois",
+     "assouplir les règles",
+     "assouplir les critères"
+    ]
+   },
+   {
+    "id": "1rh9d9j",
+    "kind": "vocab",
+    "term": "contourner",
+    "surface": "contournée",
+    "usage": "actif",
+    "definition_fr": "Éviter d'appliquer une règle ou une loi par des moyens ingénieux ou détournés.",
+    "translation_cn": "规避，绕过（法律）",
+    "exemple": "De nombreuses multinationales utilisent des montages financiers optimisés pour contourner l'impôt sur les sociétés.",
+    "note": "Usage fréquent dans les contextes juridiques et fiscaux.",
+    "context": "… fin 2025 de nombreux réseaux sociaux aux moins de 16 ans – même si la mesure est largement contournée, selon une étude publiée en août.",
+    "synonymes": [
+     "éluder",
+     "esquiver"
+    ],
+    "famille": [
+     "un contournement (m.)"
+    ],
+    "collocations": [
+     "contourner la loi",
+     "contourner une interdiction",
+     "contourner la réglementation"
+    ]
+   },
+   {
+    "id": "1mryrgt",
+    "kind": "vocab",
+    "term": "gourmand",
+    "surface": "gourmands",
+    "usage": "passif",
+    "definition_fr": "Qui consomme beaucoup d'une ressource (énergie, eau, capitaux).",
+    "translation_cn": "耗费大量的，高消耗的",
+    "exemple": "L'industrie lourde reste une activité particulièrement gourmande en ressources naturelles.",
+    "note": "Métaphore courante dans le journalisme économique et environnemental.",
+    "context": "Mais des voix se sont élevées quant à l'impact environnemental de ces sites particulièrement gourmands en énergie et en eau.",
+    "synonymes": [
+     "budgétivore",
+     "chronophage"
+    ],
+    "famille": [
+     "la gourmandise (f.)"
+    ],
+    "collocations": [
+     "gourmand en énergie",
+     "gourmand en eau",
+     "gourmand en capital"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "18je3ol",
+    "kind": "expression",
+    "term": "s'apprêter à",
+    "surface": "s'apprête à",
+    "usage": "actif",
+    "definition_fr": "Être sur le point de faire quelque chose.",
+    "translation_cn": "准备好，正打算",
+    "exemple": "Le Parlement s'apprête à voter le projet de loi de finances pour l'année à venir.",
+    "note": "Suivi d'un verbe à l'infinitif.",
+    "context": "L'Australie a annoncé mardi 10 novembre qu'elle s'apprête à imposer de strictes mesures prudentielles aux entreprises spécialisées dans l'intelligence artificielle (IA) souhaitant opérer dans le …",
+    "collocations": [
+     "s'apprêter à voter",
+     "s'apprêter à signer"
+    ]
+   },
+   {
+    "id": "2dbwc2",
+    "kind": "expression",
+    "term": "mettre en œuvre",
+    "surface": "mettre en œuvre",
+    "usage": "actif",
+    "definition_fr": "Appliquer, exécuter ou concrétiser un plan, une politique ou des mesures.",
+    "translation_cn": "实施，落实",
+    "exemple": "Le gouvernement aura besoin de plusieurs mois pour mettre en œuvre ces réformes structurelles.",
+    "note": "Nom correspondant : la mise en œuvre.",
+    "context": "Une nouvelle autorité de régulation de l'IA, chargée de mettre en œuvre des mesures visant à encadrer ce secteur, va être créée, a indiqué le …",
+    "collocations": [
+     "mettre en œuvre une politique",
+     "mettre en œuvre des réformes"
+    ]
+   },
+   {
+    "id": "1sf05w4",
+    "kind": "expression",
+    "term": "se positionner à l'avant-garde de",
+    "surface": "s'est positionné à l'avant-garde d'un",
+    "usage": "actif",
+    "definition_fr": "Prendre la tête d'un mouvement d'innovation ou de réforme.",
+    "translation_cn": "立于……的前沿，成为……的先锋",
+    "exemple": "La France cherche à se positionner à l'avant-garde de la régulation environnementale en Europe.",
+    "note": "Témoigne d'une posture politique volontariste.",
+    "context": "Son gouvernement s'est positionné à l'avant-garde d'un combat pour l'encadrement des nouvelles technologies, en interdisant par exemple depuis fin 2025 de nombreux réseaux sociaux aux …",
+    "collocations": [
+     "se positionner à l'avant-garde du combat",
+     "être à l'avant-garde de l'innovation"
+    ]
+   },
+   {
+    "id": "1ljfgwd",
+    "kind": "expression",
+    "term": "fermer les yeux",
+    "surface": "fermer les yeux",
+    "usage": "actif",
+    "definition_fr": "Faire semblant de ne pas voir un problème ou une infraction.",
+    "translation_cn": "视而不见，姑息",
+    "exemple": "La communauté internationale ne peut pas fermer les yeux sur les violations répétées des droits humains.",
+    "note": "Souvent employé sous la forme négative pour exprimer la fermeté.",
+    "context": "\"On ne peut pas fermer les yeux et faire comme si de rien n'était.",
+    "collocations": [
+     "fermer les yeux sur les abus",
+     "ne pas fermer les yeux"
+    ]
+   },
+   {
+    "id": "oaxr34",
+    "kind": "expression",
+    "term": "faire l'objet de",
+    "surface": "fassent l'objet d'une",
+    "usage": "actif",
+    "definition_fr": "Être le sujet ou la cible d'une action particulière (évaluation, enquête, critique).",
+    "translation_cn": "成为……的对象，接受",
+    "exemple": "Le projet d'infrastructures doit faire l'objet d'une étude d'impact environnemental approfondie.",
+    "note": "Tournure passive très élégante au style administratif/journalistique.",
+    "context": "… la Défense Richard Marles, \"il est important que les modèles d'IA fassent l'objet d'une évaluation indépendante\" et que soit renforcée \"la gestion des risques\" dans …",
+    "collocations": [
+     "faire l'objet d'une enquête",
+     "faire l'objet de critiques"
+    ]
+   },
+   {
+    "id": "1jzi2nt",
+    "kind": "expression",
+    "term": "faire figure de",
+    "surface": "fait figure de",
+    "usage": "actif",
+    "definition_fr": "Apparaître ou être considéré comme ayant un certain statut.",
+    "translation_cn": "堪称，作为",
+    "exemple": "Ce pays scandinave fait figure de modèle en matière d'intégration des énergies renouvelables.",
+    "note": "Équivalent soutenu de « passer pour » ou « être perçu comme ».",
+    "context": "L'Australie, dont de vastes zones sont inhabitées, fait figure de place de choix pour la construction de \"data centers\", ces installations nécessaires au fonctionnement de …",
+    "collocations": [
+     "faire figure de modèle",
+     "faire figure de favori"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "92pj3k",
+    "kind": "connecteur",
+    "term": "notamment",
+    "surface": "notamment",
+    "usage": "actif",
+    "definition_fr": "Particulièrement, entre autres choses.",
+    "translation_cn": "尤其是，特别是",
+    "exemple": "",
+    "note": "Permet d'introduire des exemples précis dans une argumentation.",
+    "context": "Les nouvelles mesures de protection incluront notamment l'obligation de signaler les risques liés à l'IA et l'évaluation indépendante des modèles de pointe.",
+    "fonction": "illustration"
+   },
+   {
+    "id": "1ome2c2",
+    "kind": "connecteur",
+    "term": "en particulier",
+    "surface": "en particulier",
+    "usage": "actif",
+    "definition_fr": "Plus spécialement, plus précisément.",
+    "translation_cn": "特别是，尤其是",
+    "exemple": "",
+    "note": "Sert à insister sur un cas précis au sein d'un ensemble.",
+    "context": "OpenAI est en particulier impliqué dans la construction d'un immense centre de données en périphérie de Sydney.",
+    "fonction": "spécification"
+   },
+   {
+    "id": "sbifg2",
+    "kind": "connecteur",
+    "term": "afin que (+ subjonctif)",
+    "surface": "afin que",
+    "usage": "actif",
+    "definition_fr": "Dans le but que, pour que.",
+    "translation_cn": "为了使，以便",
+    "exemple": "",
+    "note": "Exige impérativement le subjonctif dans la proposition subordonnée.",
+    "context": "… l'IA de chercher à assouplir les lois sur le droit d'auteur afin que les agents conversationnels puissent être entraînés sur des chansons et des livres …",
+    "fonction": "but"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Une nouvelle autorité de régulation de l'IA, chargée de mettre en œuvre des mesures visant à encadrer ce secteur, va être créée",
+    "structure": "Sujet complexe + participes en apposition + futur proche passif",
+    "explication": "Le sujet principal est enrichi par deux participes (« chargée de », « visant à ») créant un style synthétique avant le groupe verbal (« va être créée »).",
+    "modele": "Une nouvelle taxe sur les transactions financières, destinée à financer le climat, va être promulguée dès janvier."
+   },
+   {
+    "surface": "il est important que les modèles d'IA fassent l'objet d'une évaluation indépendante",
+    "structure": "Structure impersonnelle avec subjonctif requis",
+    "explication": "La tournure impersonnelle « il est important que » impose l'utilisation du subjonctif (« fassent ») dans la subordonnée.",
+    "modele": "Il est crucial que les États membres fassent preuve d'unité lors du sommet européen."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "On ne peut pas fermer les yeux et faire comme si de rien n'était.",
+    "figure": "Métaphore et expression idiomatique",
+    "effet": "Renforce le pragmatisme et le sens du devoir du chef du gouvernement en rejetant l'inaction."
+   }
+  ],
+  "dropped": 2
+ }
+}
