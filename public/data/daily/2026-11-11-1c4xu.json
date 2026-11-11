@@ -1,0 +1,421 @@
+{
+ "id": "2026-11-11-1c4xu",
+ "date": "2026-11-11",
+ "title": "L'Espagne en grève générale pour défendre l'accès au logement à l'approche des législatives",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/europe/20261111-espagne-gr%C3%A8ve-g%C3%A9n%C3%A9rale-pour-d%C3%A9fendre-l-acc%C3%A8s-au-logement-%C3%A0-l-approche-des-l%C3%A9gislatives",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 454,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Analyse linguistique : Grève générale et crise du logement en Espagne",
+  "summary": "Le texte analyse la grève générale de 24 heures organisée en Espagne, un événement rare motivé principalement par la crise du logement et l'inflation. Il met en lumière les tensions sociales et les enjeux politiques à l'approche d'élections anticipées.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "k5bvt3",
+    "kind": "vocab",
+    "term": "une revendication (f.)",
+    "surface": "revendications",
+    "usage": "actif",
+    "definition_fr": "Demande visant à obtenir un droit ou une amélioration.",
+    "translation_cn": "诉求，要求",
+    "exemple": "Les syndicats ont présenté une liste de revendications salariales au ministère.",
+    "note": "Toujours au féminin. Très utilisé en contexte social et politique.",
+    "context": "Ce sont les trois grandes revendications qui sont à l’origine de cette grève générale, chose très peu courante en Espagne, la dernière remontant à novembre …",
+    "synonymes": [
+     "exigence",
+     "réclamation"
+    ],
+    "famille": [
+     "revendiquer",
+     "revendicateur"
+    ],
+    "collocations": [
+     "revendications salariales",
+     "présenter des revendications",
+     "satisfaire des revendications"
+    ]
+   },
+   {
+    "id": "mxqo4f",
+    "kind": "vocab",
+    "term": "plafonner",
+    "surface": "plafonner",
+    "usage": "actif",
+    "definition_fr": "Fixer une limite supérieure à un prix, un montant ou une taxe.",
+    "translation_cn": "设定上限",
+    "exemple": "Le gouvernement a décidé de plafonner les tarifs de l'énergie pour protéger les ménages.",
+    "note": "S'utilise aussi de manière intransitive pour dire « atteindre un maximum ».",
+    "context": "… rare et trop cher, demandent de limiter les acquisitions de biens par des fonds d’investissements, de plafonner les loyers, et d'instaurer des contrats locatifs indéfinis.",
+    "synonymes": [
+     "limiter",
+     "bloquer"
+    ],
+    "famille": [
+     "un plafond",
+     "un plafonnement"
+    ],
+    "collocations": [
+     "plafonder les prix",
+     "plafonder les loyers",
+     "plafonder les dépenses"
+    ]
+   },
+   {
+    "id": "uxnvqz",
+    "kind": "vocab",
+    "term": "une expulsion (f.)",
+    "surface": "expulsion",
+    "usage": "actif",
+    "definition_fr": "Action de faire sortir juridiquement quelqu'un d'un logement ou d'un territoire.",
+    "translation_cn": "驱逐，驱逐出境（或住房）",
+    "exemple": "La trêve hivernale interdit toute expulsion de locataires pendant six mois.",
+    "note": "Peut concerner le logement (locataires) ou le droit des étrangers (reconduite à la frontière).",
+    "context": "Enfin et surtout, d’empêcher toute expulsion de locataires, si ce dernier ne dispose pas d’un autre logement où habiter, rapporte notre correspondant à Madrid, François …",
+    "synonymes": [
+     "éviction",
+     "renvoi"
+    ],
+    "famille": [
+     "expulser"
+    ],
+    "collocations": [
+     "avis d'expulsion",
+     "procéder à une expulsion",
+     "suspendre une expulsion"
+    ]
+   },
+   {
+    "id": "1b331la",
+    "kind": "vocab",
+    "term": "enrayer",
+    "surface": "enrayer",
+    "usage": "actif",
+    "definition_fr": "Arrêter ou ralentir la progression d'un phénomène négatif.",
+    "translation_cn": "遏制，阻碍",
+    "exemple": "Des mesures strictes ont été prises pour enrayer la hausse du chômage.",
+    "note": "S'emploie presque exclusivement avec des termes désignant un mal ou une dégradation.",
+    "context": "… faire adopter au Parlement un paquet de mesures pour tenter d'enrayer la crise du logement, le Premier ministre socialiste Pedro Sánchez a décidé début octobre …",
+    "synonymes": [
+     "freiner",
+     "stopper",
+     "juguler"
+    ],
+    "famille": [
+     "un enrayement"
+    ],
+    "collocations": [
+     "enrayer l'inflation",
+     "enrayer la crise",
+     "enrayer la hausse"
+    ]
+   },
+   {
+    "id": "7iy1x2",
+    "kind": "vocab",
+    "term": "scruter",
+    "surface": "scruté",
+    "usage": "actif",
+    "definition_fr": "Examiner de très près avec une grande attention.",
+    "translation_cn": "仔细审视，密切关注",
+    "exemple": "Les marchés financiers vont scruter les annonces de la Banque centrale.",
+    "note": "Attention : « un scrutin » désigne un vote, mais le verbe « scruter » veut dire examiner.",
+    "context": "… quatrième économie de la zone euro, le taux de grévistes sera scruté dans l'industrie et les services, en particulier dans les transports publics, où un …",
+    "synonymes": [
+     "analyser",
+     "observer",
+     "examiner"
+    ],
+    "famille": [
+     "un scrutin",
+     "un scrutateur"
+    ],
+    "collocations": [
+     "scruter les résultats",
+     "scruter la réaction",
+     "scruter l'évolution"
+    ]
+   },
+   {
+    "id": "kkpuzj",
+    "kind": "vocab",
+    "term": "un décret (m.)",
+    "surface": "décret",
+    "usage": "actif",
+    "definition_fr": "Acte exécutif émanant du gouvernement sans passage obligatoire par le vote parlementaire classique.",
+    "translation_cn": "法令，行政命令",
+    "exemple": "Le texte a été adopté par décret pour aller plus vite.",
+    "note": "Ne pas confondre avec une « loi », votée par le Parlement.",
+    "context": "… de la grève, une partie de ces mesures (appelées le « décret Maricarmen ») par l'organe exerçant les fonctions du Parlement dissous en raison de …",
+    "synonymes": [
+     "arrêté",
+     "ordonnance"
+    ],
+    "famille": [
+     "décréter"
+    ],
+    "collocations": [
+     "décret d'application",
+     "publier un décret",
+     "décret-loi"
+    ]
+   },
+   {
+    "id": "9dew86",
+    "kind": "vocab",
+    "term": "dissoudre",
+    "surface": "dissous",
+    "usage": "passif",
+    "definition_fr": "Mettre fin officiellement à l'existence d'une assemblée politique ou d'une organisation.",
+    "translation_cn": "解散",
+    "exemple": "Le président a pris la décision de dissoudre le Parlement suite à la crise institutionnelle.",
+    "note": "Participe passé masculin : « dissous », féminin : « dissoute ».",
+    "context": "… une partie de ces mesures (appelées le « décret Maricarmen ») par l'organe exerçant les fonctions du Parlement dissous en raison de la campagne électorale.",
+    "synonymes": [
+     "séparer",
+     "rompre"
+    ],
+    "famille": [
+     "une dissolution"
+    ],
+    "collocations": [
+     "dissoudre l'Assemblée",
+     "dissoudre un parti",
+     "dissoudre une organisation"
+    ]
+   },
+   {
+    "id": "11h2fpr",
+    "kind": "vocab",
+    "term": "un électorat / un scrutin (m.)",
+    "surface": "scrutin",
+    "usage": "actif",
+    "definition_fr": "Ensemble des opérations de vote ou consultation électorale.",
+    "translation_cn": "投票，选情",
+    "exemple": "Les sondages indiquent un résultat particulièrement serré pour le scrutin de dimanche.",
+    "note": "Nom masculin désignant l'élection elle-même.",
+    "context": "… prévues, notamment celles organisées en soirée à Madrid et Barcelone, un indice du climat social à l'approche du scrutin du 29 novembre, à l'issue incertaine.",
+    "synonymes": [
+     "élection",
+     "vote"
+    ],
+    "famille": [
+     "scruter"
+    ],
+    "collocations": [
+     "à l'approche du scrutin",
+     "mode de scrutin",
+     "issue du scrutin"
+    ]
+   },
+   {
+    "id": "1mm6m4z",
+    "kind": "vocab",
+    "term": "incertain, incertaine",
+    "surface": "incertaine",
+    "usage": "actif",
+    "definition_fr": "Dont l'issue ne peut pas être prédite avec assurance.",
+    "translation_cn": "不确定的，难预料的",
+    "exemple": "L'issue des négociations demeure extrêmement incertaine.",
+    "note": "S'emploie couramment pour qualifier des élections ou la conjoncture économique.",
+    "context": "… prévues, notamment celles organisées en soirée à Madrid et Barcelone, un indice du climat social à l'approche du scrutin du 29 novembre, à l'issue incertaine.",
+    "synonymes": [
+     "douteux",
+     "imprévisible"
+    ],
+    "famille": [
+     "une incertitude"
+    ],
+    "collocations": [
+     "issue incertaine",
+     "avenir incertain",
+     "climat incertain"
+    ]
+   },
+   {
+    "id": "1ibr813",
+    "kind": "vocab",
+    "term": "embarrasser",
+    "surface": "embarrasse",
+    "usage": "actif",
+    "definition_fr": "Mettre quelqu'un ou une institution dans une situation politique ou morale délicate.",
+    "translation_cn": "使为难，使陷入困境",
+    "exemple": "Cette révélation de la presse embarrasse la coalition au pouvoir.",
+    "note": "À l'oral soutenu, s'utilise souvent pour évoquer la gêne politique.",
+    "context": "Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place.",
+    "synonymes": [
+     "gêner",
+     "perturber"
+    ],
+    "famille": [
+     "un embarras",
+     "embarrassant"
+    ],
+    "collocations": [
+     "embarrasser le pouvoir",
+     "embarrasser la majorité",
+     "situation qui embarrasse"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "1e9tuc",
+    "kind": "expression",
+    "term": "à l'appel de",
+    "surface": "à l’appel des",
+    "usage": "actif",
+    "definition_fr": "Suivant l'invitation ou l'ordre de mobilisation lancé par un groupe.",
+    "translation_cn": "应……的号召",
+    "exemple": "Les fonctionnaires sont en grève à l'appel des principales intersyndicales.",
+    "note": "Invariable dans sa structure.",
+    "context": "Elle se fait à l’appel des principaux syndicats espagnols, dont CCOO et la CGT.",
+    "collocations": [
+     "à l'appel des syndicats",
+     "à l'appel de l'opposition"
+    ]
+   },
+   {
+    "id": "67muy3",
+    "kind": "expression",
+    "term": "être à l'origine de",
+    "surface": "est à l’origine de",
+    "usage": "actif",
+    "definition_fr": "Être la cause première ou l'initiateur d'un événement.",
+    "translation_cn": "是……的起因/源头",
+    "exemple": "Cette mesure fiscale est à l'origine de la contestation populaire.",
+    "note": "Formule très courante dans le style journalistique.",
+    "context": "C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne.",
+    "collocations": [
+     "être à l'origine du conflit",
+     "être à l'origine de la réforme"
+    ]
+   },
+   {
+    "id": "1ja81go",
+    "kind": "expression",
+    "term": "un service minimum (m.)",
+    "surface": "service minimum",
+    "usage": "actif",
+    "definition_fr": "Niveau minimal de prestation publique obligatoire maintenu pendant une grève.",
+    "translation_cn": "最低限度的公共服务",
+    "exemple": "Les transports de la capitale garantissent un service minimum aux heures de pointe.",
+    "note": "Expression juridique et politique classique.",
+    "context": "… euro, le taux de grévistes sera scruté dans l'industrie et les services, en particulier dans les transports publics, où un service minimum restera toutefois assuré.",
+    "collocations": [
+     "assurer un service minimum",
+     "instaurer un service minimum"
+    ]
+   },
+   {
+    "id": "a2sywa",
+    "kind": "expression",
+    "term": "faute d'avoir (+ participe passé)",
+    "surface": "Faute d'avoir réussi",
+    "usage": "actif",
+    "definition_fr": "En raison du manque de succès dans l'accomplissement d'une action.",
+    "translation_cn": "由于未能……",
+    "exemple": "Faute d'avoir trouvé un compromis, le dialogue social est rompu.",
+    "note": "Tournure soutenue suivie d'un infinitif passé.",
+    "context": "Faute d'avoir réussi à faire adopter au Parlement un paquet de mesures pour tenter d'enrayer la crise du logement, le Premier ministre socialiste Pedro Sánchez …",
+    "collocations": [
+     "faute d'avoir obtenu",
+     "faute d'avoir anticipé"
+    ]
+   },
+   {
+    "id": "13t4r0v",
+    "kind": "expression",
+    "term": "faire adopter",
+    "surface": "faire adopter",
+    "usage": "actif",
+    "definition_fr": "Obtenir l'approbation officielle d'un texte par une instance.",
+    "translation_cn": "使（法案等）获得通过",
+    "exemple": "Le ministre espère faire adopter son texte avant le mois de juillet.",
+    "note": "Structure factitive classique du vocabulaire parlementaire.",
+    "context": "Faute d'avoir réussi à faire adopter au Parlement un paquet de mesures pour tenter d'enrayer la crise du logement, le Premier ministre socialiste Pedro Sánchez …",
+    "collocations": [
+     "faire adopter un projet de loi",
+     "faire adopter une résolution"
+    ]
+   },
+   {
+    "id": "1nl0ll0",
+    "kind": "expression",
+    "term": "un climat social (m.)",
+    "surface": "climat social",
+    "usage": "actif",
+    "definition_fr": "Atmosphère des relations entre les partenaires sociaux, travailleurs et gouvernants.",
+    "translation_cn": "社会氛围，劳资关系气候",
+    "exemple": "Les négociations sur les retraites ont fortement tendu le climat social.",
+    "note": "Incontournable dans l'analyse de la politique intérieure.",
+    "context": "… prévues, notamment celles organisées en soirée à Madrid et Barcelone, un indice du climat social à l'approche du scrutin du 29 novembre, à l'issue incertaine.",
+    "collocations": [
+     "dégradation du climat social",
+     "apaiser le climat social"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "2ildd4",
+    "kind": "connecteur",
+    "term": "en effet",
+    "surface": "en effet",
+    "usage": "actif",
+    "definition_fr": "Sert à confirmer, expliquer ou justifier ce qui vient d'être énoncé.",
+    "translation_cn": "确实，因为",
+    "exemple": "",
+    "note": "Se place en début ou au milieu de la phrase expliquant la cause précitée.",
+    "context": "C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne.",
+    "fonction": "explication"
+   },
+   {
+    "id": "1kaseb2",
+    "kind": "connecteur",
+    "term": "paradoxalement",
+    "surface": "Paradoxalement",
+    "usage": "actif",
+    "definition_fr": "D'une manière contraire à ce à quoi on s'attendait logiquement.",
+    "translation_cn": "自相矛盾地，意想不到地",
+    "exemple": "",
+    "note": "Adverbe de cadrage très utile pour marquer l'étonnement analytique.",
+    "context": "Paradoxalement, cette grève générale n’embarrasse pas le gouvernement en place.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1t9eofp",
+    "kind": "connecteur",
+    "term": "néanmoins",
+    "surface": "néanmoins",
+    "usage": "actif",
+    "definition_fr": "Malgré ce qui vient d'être dit ; indique une restriction.",
+    "translation_cn": "然而，尽管如此",
+    "exemple": "",
+    "note": "Registre soutenu, équivalent de « cependant » ou « toutefois ».",
+    "context": "Le gouvernement de gauche prévoit néanmoins de faire adopter dès jeudi, au lendemain de la grève, une partie de ces mesures (appelées le « décret …",
+    "fonction": "concession"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "C’est en effet surtout le problème du logement qui est à l’origine de la colère citoyenne.",
+    "structure": "Mise en relief (C'est... qui)",
+    "explication": "Sert à focaliser l'attention du lecteur sur l'élément clé de la phrase (ici « le problème du logement ») en l'isolant au centre d'une tournure gallicique.",
+    "modele": "C'est la détérioration du pouvoir d'achat qui alimente le mécontentement des électeurs."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Les salaires, le logement, les prix. Ce sont les trois grandes revendications",
+    "figure": "Énumération et reprise anaphorique",
+    "effet": "Met en valeur de façon percutante les priorités du mouvement social en détachant chaque mot-clé en début d'article."
+   }
+  ],
+  "dropped": 1
+ }
+}
