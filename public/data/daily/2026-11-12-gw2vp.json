@@ -1,0 +1,441 @@
+{
+ "id": "2026-11-12-gw2vp",
+ "date": "2026-11-12",
+ "title": "\"Agir pour la France\" : les propos glaçants de l'auteur de l'attentat raciste de Trappes",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/france/20261112-agir-pour-la-france-garde-%C3%A0-vue-propos-gla%C3%A7ants-auteur-attentat-trappes",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 730,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Analyse du récit de l'auteur de l'attentat des Yvelines",
+  "summary": "Ce texte relate les déclarations glaçantes de l'auteur d'un attentat raciste lors de sa garde à vue. Il analyse son parcours idéologique, son mode opératoire et la réaction des autorités judiciaires et politiques.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "t7x4ri",
+    "kind": "vocab",
+    "term": "une garde à vue (f.)",
+    "surface": "garde à vue",
+    "usage": "actif",
+    "definition_fr": "Rétention temporaire d'une personne suspectée par la police.",
+    "translation_cn": "拘留，押顿察看",
+    "exemple": "",
+    "note": "",
+    "context": "En garde à vue, il a prétendu \"agir pour la France\".",
+    "synonymes": [
+     "rétention (f.)",
+     "détention temporaire (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "11w6p88",
+    "kind": "vocab",
+    "term": "étayer",
+    "surface": "étaie",
+    "usage": "actif",
+    "definition_fr": "Appuyer une affirmation sur des preuves ou des faits.",
+    "translation_cn": "支持，证实",
+    "exemple": "",
+    "note": "",
+    "context": "Et selon le Parquet antiterroriste, \"aucun élément\" n'étaie \"l'existence d'un projet d'action violente\".",
+    "synonymes": [
+     "consolider",
+     "appuyer",
+     "corroborer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "xxa249",
+    "kind": "vocab",
+    "term": "alléguer",
+    "surface": "allègue-t-il",
+    "usage": "passif",
+    "definition_fr": "Citer un fait ou un prétexte pour se justifier.",
+    "translation_cn": "声称，借口",
+    "exemple": "",
+    "note": "",
+    "context": "… actualité récente, Kévin Tessier évoque les violences et pillages de ces dernières semaines qui sont, allègue-t-il, \"clairement (menées) par des étrangers qui détruisent la France\".",
+    "synonymes": [
+     "prétendre",
+     "invoquer",
+     "avancer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1ede2fn",
+    "kind": "vocab",
+    "term": "un fiasco (m.)",
+    "surface": "fiasco",
+    "usage": "actif",
+    "definition_fr": "Échec total et embarrassant.",
+    "translation_cn": "惨败，彻底失败",
+    "exemple": "",
+    "note": "",
+    "context": "Pour lui, la politique sécuritaire en France est \"un fiasco total\".",
+    "synonymes": [
+     "échec (m.)",
+     "déroute (f.)",
+     "four (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "dj2xql",
+    "kind": "vocab",
+    "term": "relater",
+    "surface": "relate-t-il",
+    "usage": "actif",
+    "definition_fr": "Raconter en détail ce qui s'est passé.",
+    "translation_cn": "叙述，详述",
+    "exemple": "",
+    "note": "",
+    "context": "… avec un voile\", \"je me suis arrêté au milieu de la route, j'ai couru vers elle, je lui ai dit 'Vas-y, prie, ma belle'\", relate-t-il.",
+    "synonymes": [
+     "raconter",
+     "exposer",
+     "rapporter"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1p82q4o",
+    "kind": "vocab",
+    "term": "s'enrayer",
+    "surface": "s'est enrayée",
+    "usage": "actif",
+    "definition_fr": "Subir un blocage dans son fonctionnement (ex: arme).",
+    "translation_cn": "卡壳，故障",
+    "exemple": "",
+    "note": "",
+    "context": ") voilée mais l'arme s'est enrayée\".",
+    "synonymes": [
+     "bloquer",
+     "coincer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "q01w1w",
+    "kind": "vocab",
+    "term": "un remords (m.)",
+    "surface": "remords",
+    "usage": "actif",
+    "definition_fr": "Sentiment douloureux d'avoir mal agi.",
+    "translation_cn": "内疚，悔恨",
+    "exemple": "",
+    "note": "",
+    "context": "A-t-il des remords pour les autres victimes ?",
+    "synonymes": [
+     "repentir (m.)",
+     "regret (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1uzfipo",
+    "kind": "vocab",
+    "term": "s'alarmer",
+    "surface": "se sont alarmés",
+    "usage": "actif",
+    "definition_fr": "S'inquiéter ou manifester de la crainte face à une menace.",
+    "translation_cn": "感到担忧，报警",
+    "exemple": "",
+    "note": "",
+    "context": "Le leader de La France insoumise Jean-Luc Mélenchon et la dirigeante des Écologistes Marine Tondelier se sont alarmés sur X de l'existence de cette liste.",
+    "synonymes": [
+     "s'inquiéter",
+     "s'effrayer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1gafda8",
+    "kind": "vocab",
+    "term": "un repaire (m.)",
+    "surface": "repaire",
+    "usage": "passif",
+    "definition_fr": "Lieu servant de refuge à des personnes malintentionnées.",
+    "translation_cn": "巢穴，窝点",
+    "exemple": "",
+    "note": "",
+    "context": "\"Déçu\", il roule alors jusqu'à Trappes, ville qu'il considère comme \"un repaire d'islamistes\".",
+    "synonymes": [
+     "refuge (m.)",
+     "antre (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "18z7y6r",
+    "kind": "vocab",
+    "term": "infiltrer",
+    "surface": "infiltré",
+    "usage": "actif",
+    "definition_fr": "S'introduire secrètement dans un groupe.",
+    "translation_cn": "渗透，潜入",
+    "exemple": "",
+    "note": "",
+    "context": "Il assure avoir \"toujours été de droite\", mais avoir \"infiltré les gauchistes à un certain moment\" : \"Ils me faisaient bien marrer\", dit-il.",
+    "synonymes": [
+     "s'introduire",
+     "pénétrer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "mddhxt",
+    "kind": "vocab",
+    "term": "un mis en cause (m.)",
+    "surface": "mis en cause",
+    "usage": "passif",
+    "definition_fr": "Personne soupçonnée dans une affaire judiciaire.",
+    "translation_cn": "涉案人员，被告",
+    "exemple": "",
+    "note": "",
+    "context": "Sollicités par l'AFP, les avocats du mis en cause, Mes Baptiste Bellet et Eliott Amzallag, se sont refusés à tout commentaire.",
+    "synonymes": [
+     "suspect (m.)",
+     "inculpé (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1172sq0",
+    "kind": "vocab",
+    "term": "solliciter",
+    "surface": "Sollicités",
+    "usage": "actif",
+    "definition_fr": "Demander une intervention, un avis ou de l'aide.",
+    "translation_cn": "请求，咨询",
+    "exemple": "",
+    "note": "",
+    "context": "Sollicités par l'AFP, les avocats du mis en cause, Mes Baptiste Bellet et Eliott Amzallag, se sont refusés à tout commentaire.",
+    "synonymes": [
+     "consulter",
+     "demander",
+     "interroger"
+    ],
+    "famille": [],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "geel7c",
+    "kind": "expression",
+    "term": "faire la politique de l'autruche",
+    "surface": "faire les autruches",
+    "usage": "actif",
+    "definition_fr": "Refuser de voir un danger ou une réalité déplaisante.",
+    "translation_cn": "采取逃避态度，掩耳盗铃",
+    "exemple": "",
+    "note": "",
+    "context": "\"Faut peut-être que les gens se réveillent, qu'ils ouvrent leurs yeux au lieu de faire les autruches.",
+    "collocations": []
+   },
+   {
+    "id": "ivuze5",
+    "kind": "expression",
+    "term": "piéger un lieu",
+    "surface": "piégé son appartement",
+    "usage": "actif",
+    "definition_fr": "Disposer des explosifs ou pièges dans un endroit.",
+    "translation_cn": "在（某处）设置炸弹/陷阱",
+    "exemple": "",
+    "note": "",
+    "context": "Il se poste à distance de son immeuble à Plaisir pour le voir \"exploser\", car il a piégé son appartement.",
+    "collocations": []
+   },
+   {
+    "id": "19k9ucj",
+    "kind": "expression",
+    "term": "un périple meurtrier (m.)",
+    "surface": "périple meurtrier",
+    "usage": "actif",
+    "definition_fr": "Parcours au cours duquel une personne commet plusieurs crimes.",
+    "translation_cn": "连环杀戮之旅",
+    "exemple": "",
+    "note": "",
+    "context": "… l'attentat raciste des Yvelines, a livré un récit glaçant de son périple meurtrier aux enquêteurs, qui ont aussi retrouvé à son domicile une liste sur …",
+    "collocations": []
+   },
+   {
+    "id": "1otb8q3",
+    "kind": "expression",
+    "term": "déposer un recours / se refuser à tout commentaire",
+    "surface": "se sont refusés à tout commentaire",
+    "usage": "actif",
+    "definition_fr": "Déclarer officiellement qu'on ne souhaite pas s'exprimer.",
+    "translation_cn": "拒绝发表任何评论",
+    "exemple": "",
+    "note": "",
+    "context": "Sollicités par l'AFP, les avocats du mis en cause, Mes Baptiste Bellet et Eliott Amzallag, se sont refusés à tout commentaire.",
+    "collocations": []
+   },
+   {
+    "id": "i9sjcs",
+    "kind": "expression",
+    "term": "un projet d'action violente (m.)",
+    "surface": "projet d'action violente",
+    "usage": "actif",
+    "definition_fr": "Plan visant à commettre une attaque physique.",
+    "translation_cn": "暴力行动计划",
+    "exemple": "",
+    "note": "",
+    "context": "Et selon le Parquet antiterroriste, \"aucun élément\" n'étaie \"l'existence d'un projet d'action violente\".",
+    "collocations": []
+   },
+   {
+    "id": "57k1g9",
+    "kind": "expression",
+    "term": "ouvrir les yeux",
+    "surface": "ouvrent leurs yeux",
+    "usage": "actif",
+    "definition_fr": "Prendre conscience d'une réalité jusque-là ignorée.",
+    "translation_cn": "认清现实，睁开眼睛",
+    "exemple": "",
+    "note": "",
+    "context": "\"Faut peut-être que les gens se réveillent, qu'ils ouvrent leurs yeux au lieu de faire les autruches.",
+    "collocations": []
+   },
+   {
+    "id": "16ptez7",
+    "kind": "expression",
+    "term": "tirer à distance",
+    "surface": "se poste à distance",
+    "usage": "actif",
+    "definition_fr": "S'installer éloigné pour observer ou agir.",
+    "translation_cn": "潜伏在一定距离之外",
+    "exemple": "",
+    "note": "",
+    "context": "Il se poste à distance de son immeuble à Plaisir pour le voir \"exploser\", car il a piégé son appartement.",
+    "collocations": []
+   },
+   {
+    "id": "1xlne0p",
+    "kind": "expression",
+    "term": "discours de haine (m.)",
+    "surface": "discours de haine",
+    "usage": "actif",
+    "definition_fr": "Propos incitant à la violence ou à la discrimination.",
+    "translation_cn": "仇恨言论",
+    "exemple": "",
+    "note": "",
+    "context": "À lire aussiAttentat de Trappes : \"Il y a une continuité entre les discours de haine et les actes\"",
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1m54pjy",
+    "kind": "connecteur",
+    "term": "selon",
+    "surface": "selon",
+    "usage": "actif",
+    "definition_fr": "D'après les dires de ou une source spécifique.",
+    "translation_cn": "根据，依据",
+    "exemple": "",
+    "note": "",
+    "context": "Et selon le Parquet antiterroriste, \"aucun élément\" n'étaie \"l'existence d'un projet d'action violente\".",
+    "fonction": "source"
+   },
+   {
+    "id": "n8phlj",
+    "kind": "connecteur",
+    "term": "mais",
+    "surface": "Mais",
+    "usage": "actif",
+    "definition_fr": "Marque l'opposition ou la nuance.",
+    "translation_cn": "但是，然而",
+    "exemple": "",
+    "note": "",
+    "context": "Mais Kévin Tessier, en garde à vue, a assuré qu'il n'avait \"pas de projet en cours\" les visant.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1d1iwpy",
+    "kind": "connecteur",
+    "term": "en revanche",
+    "surface": "en revanche",
+    "usage": "actif",
+    "definition_fr": "Introduit une opposition en soulignant un contraste.",
+    "translation_cn": "相反地，相对地",
+    "exemple": "",
+    "note": "",
+    "context": "Lui, en revanche, refuse de se voir considéré comme \"un terroriste\".",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1uxka89",
+    "kind": "connecteur",
+    "term": "car",
+    "surface": "car",
+    "usage": "actif",
+    "definition_fr": "Explicite la cause d'un fait énoncé.",
+    "translation_cn": "因为",
+    "exemple": "",
+    "note": "",
+    "context": "Il se poste à distance de son immeuble à Plaisir pour le voir \"exploser\", car il a piégé son appartement.",
+    "fonction": "cause"
+   },
+   {
+    "id": "1ndstaz",
+    "kind": "connecteur",
+    "term": "au lieu de",
+    "surface": "au lieu de",
+    "usage": "actif",
+    "definition_fr": "À la place de, pour indiquer une substitution.",
+    "translation_cn": "而不是，代替",
+    "exemple": "",
+    "note": "",
+    "context": "\"Faut peut-être que les gens se réveillent, qu'ils ouvrent leurs yeux au lieu de faire les autruches.",
+    "fonction": "substitution"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Sur cette liste figurent les deux députés écologistes Aymeric Caron et Sandrine Rousseau",
+    "structure": "Inversion du sujet après un complément circonstanciel de lieu",
+    "explication": "Le verbe s'accorde avec le sujet pluriel placé après lui pour fluidifier l'énumération.",
+    "modele": "Sur ce document apparaissent les noms des principaux négociateurs du traité."
+   },
+   {
+    "surface": "Lorsqu'un enquêteur lui demande si ses actes ont été motivés par une actualité récente, Kévin Tessier évoque les violences",
+    "structure": "Subordonnée temporelle suivie d'une complétive interrogative indirecte",
+    "explication": "Combine l'introduction du temps (lorsque) et une question rapportée (si + indicatif).",
+    "modele": "Lorsque le journaliste lui demande si les réformes seront votées, le ministre évoque des compromis."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "faire les autruches",
+    "figure": "Métaphore imagée",
+    "effet": "Dévalorise l'attitude de l'adversaire en suggérant la cowardice et le déni."
+   },
+   {
+    "surface": "Il y a une continuité entre les discours de haine et les actes",
+    "figure": "Formulation axiomatique",
+    "effet": "Établit une relation de cause à effet directe pour renforcer l'argument politique."
+   }
+  ],
+  "dropped": 0
+ }
+}
