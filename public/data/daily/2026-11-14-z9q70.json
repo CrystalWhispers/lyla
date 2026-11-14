@@ -1,0 +1,472 @@
+{
+ "id": "2026-11-14-z9q70",
+ "date": "2026-11-14",
+ "title": "États-Unis: l'espace aérien rouvert après une suspension des vols de plusieurs heures",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-le-r%C3%A9gulateur-am%C3%A9ricain-de-l-aviation-ordonne-l-arr%C3%AAt-de-tous-les-vols-%C3%A0-cause-d-un-probl%C3%A8me-de-communication",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 634,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Panne géante du contrôle aérien aux États-Unis",
+  "summary": "Une panne majeure des systèmes de communication a paralysé le trafic aérien américain pendant plusieurs heures, entraînant des milliers d'annulations de vols. Le gouvernement attribue cet incident à la vétusté des infrastructures et appelle à leur modernisation urgente.",
+  "theme": "Entreprise & marchés",
+  "vocabulaire": [
+   {
+    "id": "1um1g1f",
+    "kind": "vocab",
+    "term": "concomitant, concomitante",
+    "surface": "concomitante",
+    "usage": "passif",
+    "definition_fr": "Qui se produit en même temps qu'un autre événement.",
+    "translation_cn": "伴随的，相随的",
+    "exemple": "La hausse des taux et la baisse des investissements ont été concomitantes.",
+    "note": "S'emploie souvent avec la préposition « à » (concomitant à).",
+    "context": "Une demande de financement de modernisation des infrastructure concomitante",
+    "synonymes": [
+     "simultané",
+     "coïncidant"
+    ],
+    "famille": [
+     "concomitance (f.)"
+    ],
+    "collocations": [
+     "hausse concomitante",
+     "mesures concomitantes"
+    ]
+   },
+   {
+    "id": "tqmt7y",
+    "kind": "vocab",
+    "term": "dérouter",
+    "surface": "déroutés",
+    "usage": "actif",
+    "definition_fr": "Changer l'itinéraire prévu d'un véhicule ou d'un avion.",
+    "translation_cn": "使改道；使变向",
+    "exemple": "En raison de la tempête, plusieurs vols internationaux ont été déroutés.",
+    "note": "Au sens figuré, signifie aussi déstabiliser ou troubler quelqu'un.",
+    "context": "… Duffy, alors que les compagnies doivent maintenant acheminer des centaines de milliers de passagers affectés, certains avions ayant été déroutés vers des aéroports non prévus.",
+    "synonymes": [
+     "détourner",
+     "réorienter"
+    ],
+    "famille": [
+     "déroutement (m.)"
+    ],
+    "collocations": [
+     "dérouter un vol",
+     "être dérouté vers"
+    ]
+   },
+   {
+    "id": "1893ssy",
+    "kind": "vocab",
+    "term": "un régulateur (m.)",
+    "surface": "régulateur",
+    "usage": "actif",
+    "definition_fr": "Organisme public chargé de surveiller et de faire respecter les règles d'un secteur.",
+    "translation_cn": "监管机构，监管者",
+    "exemple": "Le régulateur des télécoms a infligé une amende record à l'opérateur.",
+    "note": "S'utilise aussi comme adjectif (ex: marché régulateur).",
+    "context": "Plus tôt dans la journée, le régulateur américain de l'aviation (FAA) a ordonné à l'ensemble des aéroports américains d'arrêter la totalité des vols, à la …",
+    "synonymes": [
+     "autorité de tutelle",
+     "instance de contrôle"
+    ],
+    "famille": [
+     "régulation (f.)",
+     "réguler",
+     "régulateur (adj.)"
+    ],
+    "collocations": [
+     "régulateur financier",
+     "autorité de régulation"
+    ]
+   },
+   {
+    "id": "12ndl4w",
+    "kind": "vocab",
+    "term": "vétuste",
+    "surface": "vieux",
+    "usage": "actif",
+    "definition_fr": "Qui est détérioré par le temps et le manque d'entretien.",
+    "translation_cn": "破旧的，陈旧的",
+    "exemple": "La modernisation du réseau ferroviaire est urgente car certaines lignes sont très vétustes.",
+    "note": "Vocabulaire plus soutenu que « vieux » pour parler d'équipements ou de bâtiments.",
+    "context": "… cette annulation de milliers de vols, Sean Duffy pointe du « vieux matériel » des « années 1980 » d'être responsable de l'annulation de milliers …",
+    "synonymes": [
+     "obsolète",
+     "usé",
+     "défraîchi"
+    ],
+    "famille": [
+     "vétusté (f.)"
+    ],
+    "collocations": [
+     "équipement vétuste",
+     "infrastructure vétuste"
+    ]
+   },
+   {
+    "id": "1eydzxu",
+    "kind": "vocab",
+    "term": "une enveloppe (f.)",
+    "surface": "enveloppe",
+    "usage": "actif",
+    "definition_fr": "Somme d'argent globale allouée à un projet ou à un ministère.",
+    "translation_cn": "专项资金，预算总额",
+    "exemple": "Le ministère a débloqué une enveloppe de dix millions d'euros pour la recherche.",
+    "note": "Très courant dans le langage des finances publiques et du journalisme politique.",
+    "context": "… de la demande adressée par la Maison Blanche au Congrès d'une enveloppe supplémentaire de 30,1 milliards de dollars de financements pour moderniser le système de …",
+    "synonymes": [
+     "budget",
+     "dotation",
+     "allocation"
+    ],
+    "famille": [
+     "envelopper"
+    ],
+    "collocations": [
+     "enveloppe budgétaire",
+     "débloquer une enveloppe"
+    ]
+   },
+   {
+    "id": "1v1gytz",
+    "kind": "vocab",
+    "term": "une infrastructure (f.)",
+    "surface": "infrastructures",
+    "usage": "actif",
+    "definition_fr": "Ensemble des équipements et installations de base d'un pays ou d'une organisation.",
+    "translation_cn": "基础设施",
+    "exemple": "Les investissements dans les infrastructures numériques sont essentiels pour la croissance.",
+    "note": "S'emploie souvent au pluriel dans les discours économiques.",
+    "context": "Chronique transportsÉtats-Unis: la rénovation des infrastructures de transports, une priorité pour Donald Trump?",
+    "synonymes": [
+     "équipements",
+     "installations"
+    ],
+    "famille": [
+     "infrastructurel"
+    ],
+    "collocations": [
+     "infrastructures de transport",
+     "rénover les infrastructures"
+    ]
+   },
+   {
+    "id": "1vfr3yn",
+    "kind": "vocab",
+    "term": "malveillant, malveillante",
+    "surface": "malveillante",
+    "usage": "actif",
+    "definition_fr": "Qui cherche à nuire ou à faire du mal de manière intentionnelle.",
+    "translation_cn": "恶意的，有敌意的",
+    "exemple": "Les experts analysent l'origine de l'intrusion malveillante dans les serveurs.",
+    "note": "Très employé dans le contexte de la cybersécurité (logiciel malveillant).",
+    "context": "« Il n'y a aucune indication pour le moment que ce soit une attaque malveillante contre nous.",
+    "synonymes": [
+     "hostile",
+     "nocif",
+     "pervers"
+    ],
+    "famille": [
+     "malveillance (f.)"
+    ],
+    "collocations": [
+     "attaque malveillante",
+     "logiciel malveillant"
+    ]
+   },
+   {
+    "id": "11xc4oq",
+    "kind": "vocab",
+    "term": "acheminer",
+    "surface": "acheminer",
+    "usage": "actif",
+    "definition_fr": "Transporter des marchandises ou conduire des personnes vers une destination.",
+    "translation_cn": "运输，运送",
+    "exemple": "Les compagnies se mobilisent pour acheminer les passagers bloqués.",
+    "note": "S'utilise particulièrement dans le secteur de la logistique et des transports.",
+    "context": "… ministre des Transports, Sean Duffy, alors que les compagnies doivent maintenant acheminer des centaines de milliers de passagers affectés, certains avions ayant été déroutés vers …",
+    "synonymes": [
+     "transporter",
+     "expédier",
+     "conduire"
+    ],
+    "famille": [
+     "acheminement (m.)"
+    ],
+    "collocations": [
+     "acheminer du fret",
+     "acheminer des secours"
+    ]
+   },
+   {
+    "id": "bd5neo",
+    "kind": "vocab",
+    "term": "surcharger",
+    "surface": "surchargé",
+    "usage": "actif",
+    "definition_fr": "Soumettre un système ou une personne à une charge excessive.",
+    "translation_cn": "使超载，使过载",
+    "exemple": "Le serveur informatique a planté après avoir été surchargé de requêtes simultanées.",
+    "note": "S'emploie aussi bien pour du matériel que pour du personnel.",
+    "context": "Le matériel informatique « a été surchargé de données et il est tombé en panne », a-t-il expliqué.",
+    "synonymes": [
+     "saturer",
+     "overloader"
+    ],
+    "famille": [
+     "surcharge (f.)"
+    ],
+    "collocations": [
+     "être surchargé de travail",
+     "surcharger un réseau"
+    ]
+   },
+   {
+    "id": "16sz5sf",
+    "kind": "vocab",
+    "term": "amplifier",
+    "surface": "amplifié",
+    "usage": "actif",
+    "definition_fr": "Rendre plus grand, plus intense ou plus important.",
+    "translation_cn": "放大，加剧",
+    "exemple": "La pénurie de main-d'œuvre a été amplifiée par les récentes restrictions sanitaires.",
+    "note": "Souvent utilisé en économie pour parler de tendances ou d'impacts.",
+    "context": "… trafic aérien aux États-Unis ne sont pas nouveaux tant au niveau de l'infrastructure que du manque de main d'œuvre, amplifié par la pandémie de Covid-19.",
+    "synonymes": [
+     "aggraver",
+     "intensifier",
+     "accroître"
+    ],
+    "famille": [
+     "amplification (f.)",
+     "amplificateur (m.)"
+    ],
+    "collocations": [
+     "amplifier une crise",
+     "effet amplificateur"
+    ]
+   },
+   {
+    "id": "1k3rtyq",
+    "kind": "vocab",
+    "term": "écarter",
+    "surface": "écarter",
+    "usage": "actif",
+    "definition_fr": "Rejeter ou ne pas retenir une hypothèse, une option ou une menace.",
+    "translation_cn": "排除，不予考虑",
+    "exemple": "À ce stade des investigations, la police n'écarte aucune piste.",
+    "note": "Très fréquent dans le discours judiciaire, politique et sécuritaire.",
+    "context": "… le ministre de la Sécurité intérieure Markwayne Mullin à la presse à la Maison Blanche, refusant cependant alors d'écarter toute possibilité, dont celle d'une cyberattaque.",
+    "synonymes": [
+     "exclure",
+     "réfuter",
+     "éliminer"
+    ],
+    "famille": [
+     "écartement (m.)",
+     "écart (m.)"
+    ],
+    "collocations": [
+     "écarter une piste",
+     "écarter toute responsabilité"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "125dez0",
+    "kind": "expression",
+    "term": "ordre d'immobilisation (m.)",
+    "surface": "ordre d'immobilisation",
+    "usage": "passif",
+    "definition_fr": "Directive administrative exigeant le maintien au sol de véhicules ou d'aéronefs.",
+    "translation_cn": "停飞令，禁止通行令",
+    "exemple": "L'autorité de l'aviation civile a émis un ordre d'immobilisation pour tous les appareils de ce modèle.",
+    "note": "Expression technique du droit aérien et maritime.",
+    "context": "L'administration américaine de l'aviation civile (FAA) a levé vendredi son ​ordre d'immobilisation ‌des vols aux ⁠États-Unis, plus de quatre heures après ‌qu'une panne de communication …",
+    "collocations": [
+     "lever l'ordre d'immobilisation",
+     "émettre un ordre d'immobilisation"
+    ]
+   },
+   {
+    "id": "76rfue",
+    "kind": "expression",
+    "term": "espace aérien (m.)",
+    "surface": "espace aérien",
+    "usage": "actif",
+    "definition_fr": "Portion de l'atmosphère survolant le territoire d'un État ou une zone définie.",
+    "translation_cn": "领空，空域",
+    "exemple": "Plusieurs pays ont décidé de fermer leur espace aérien aux vols commerciaux.",
+    "note": "Terme juridique et géopolitique majeur.",
+    "context": "L'espace aérien a été rouvert à 1h15 TU, mais « il nous faudra un certain temps pour retrouver notre pleine capacité », a annoncé le …",
+    "collocations": [
+     "fermer l'espace aérien",
+     "rouvrir l'espace aérien"
+    ]
+   },
+   {
+    "id": "1a2083p",
+    "kind": "expression",
+    "term": "tomber en panne",
+    "surface": "tombé en panne",
+    "usage": "actif",
+    "definition_fr": "Cesser soudainement de fonctionner en parlant d'une machine ou d'un système.",
+    "translation_cn": "故障， 瘫痪",
+    "exemple": "Le réseau électrique est tombé en panne au cours de la nuit.",
+    "note": "Extrêmement usité à l'oral comme à l'écrit soutenu.",
+    "context": "Le matériel informatique « a été surchargé de données et il est tombé en panne », a-t-il expliqué.",
+    "collocations": [
+     "tomber soudainement en panne",
+     "risquer de tomber en panne"
+    ]
+   },
+   {
+    "id": "1b1hmfa",
+    "kind": "expression",
+    "term": "pointer du doigt",
+    "surface": "pointe du",
+    "usage": "actif",
+    "definition_fr": "Désigner quelqu'un ou quelque chose comme responsable d'un problème.",
+    "translation_cn": "指责，指出……是原因",
+    "exemple": "Le rapport pointe du doigt le manque d'investissements stratégiques dans le secteur.",
+    "note": "Dans le texte, la formule exacte est modifiée en « pointe du matériel d'être... » (variante de construction).",
+    "context": "… raison ayant causé cette annulation de milliers de vols, Sean Duffy pointe du « vieux matériel » des « années 1980 » d'être responsable de …",
+    "collocations": [
+     "pointer du doigt les lacunes",
+     "être pointé du doigt"
+    ]
+   },
+   {
+    "id": "yf35rg",
+    "kind": "expression",
+    "term": "conférence de presse (f.)",
+    "surface": "conférence de presse",
+    "usage": "actif",
+    "definition_fr": "Réunion au cours de laquelle une personnalité s'adresse aux journalistes.",
+    "translation_cn": "新闻发布会",
+    "exemple": "Le ministre a tenu une conférence de presse pour clarifier les nouvelles mesures.",
+    "note": "Locution nominale incontournable de la politique.",
+    "context": "… l'Est, nous avons rouvert l'espace aérien », a déclaré le secrétaire d'État aux Transports, Sean Duffy, lors d'une conférence de presse à la Maison Blanche.",
+    "collocations": [
+     "tenir une conférence de presse",
+     "lors d'une conférence de presse"
+    ]
+   },
+   {
+    "id": "1yreb3h",
+    "kind": "expression",
+    "term": "cyberattaque (f.)",
+    "surface": "cyberattaque",
+    "usage": "actif",
+    "definition_fr": "Acte malveillant ciblant des systèmes informatiques pour les perturber ou voler des données.",
+    "translation_cn": "网络攻击",
+    "exemple": "L'hôpital a dû basculer en mode dégradé suite à une cyberattaque d'envergure.",
+    "note": "Terme désormais indispensable du vocabulaire institutionnel.",
+    "context": "Le ​département de la Sécurité intérieure a ​déclaré que rien n'indiquait que la panne fût due à une cyberattaque ou à la panne de Microsoft.",
+    "collocations": [
+     "subir une cyberattaque",
+     "déjouer une cyberattaque"
+    ]
+   },
+   {
+    "id": "1judbjx",
+    "kind": "expression",
+    "term": "main-d'œuvre (f.)",
+    "surface": "main d'œuvre",
+    "usage": "actif",
+    "definition_fr": "Ensemble des travailleurs disponibles dans une entreprise ou un pays.",
+    "translation_cn": "劳动力，人力",
+    "exemple": "Le secteur aéronautique fait face à un manque criant de main-d'œuvre qualifiée.",
+    "note": "Invariable au pluriel dans l'orthographe moderne (des mains-d'œuvre).",
+    "context": "… trafic aérien aux États-Unis ne sont pas nouveaux tant au niveau de l'infrastructure que du manque de main d'œuvre, amplifié par la pandémie de Covid-19.",
+    "collocations": [
+     "penurie de main-d'œuvre",
+     "main-d'œuvre qualifiée"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "yj8u7j",
+    "kind": "connecteur",
+    "term": "alors que",
+    "surface": "alors que",
+    "usage": "actif",
+    "definition_fr": "Marque la simultanéité ou introduit une opposition/concession.",
+    "translation_cn": "而，在……的同时",
+    "exemple": "",
+    "note": "Suivi de l'indicatif. Très utile pour opposer deux faits concomitants dans un récit politique ou économique.",
+    "context": "… pleine capacité », a annoncé le ministre des Transports, Sean Duffy, alors que les compagnies doivent maintenant acheminer des centaines de milliers de passagers affectés, …",
+    "fonction": "opposition"
+   },
+   {
+    "id": "jcqsxv",
+    "kind": "connecteur",
+    "term": "toutefois",
+    "surface": "toutefois",
+    "usage": "actif",
+    "definition_fr": "Introduit une restriction ou une nuance par rapport à ce qui vient d'être dit.",
+    "translation_cn": "然而，不过",
+    "exemple": "",
+    "note": "Synonyme soutenu de « cependant » ou « néanmoins ».",
+    "context": "Il a toutefois prévenu que la reprise du trafic aérien serait « lente ».",
+    "fonction": "restriction"
+   },
+   {
+    "id": "nknism",
+    "kind": "connecteur",
+    "term": "à la suite de",
+    "surface": "à la suite de",
+    "usage": "actif",
+    "definition_fr": "Introduit une cause ou un événement déclencheur.",
+    "translation_cn": "由于，在……之后",
+    "exemple": "",
+    "note": "Suivi d'un nom. Plus précis que simplement « après ».",
+    "context": "… ordonné à l'ensemble des aéroports américains d'arrêter la totalité des vols, à la suite de « problèmes de communication » affectant plusieurs centres de contrôle …",
+    "fonction": "cause"
+   },
+   {
+    "id": "18aztuf",
+    "kind": "connecteur",
+    "term": "quant à",
+    "surface": "Quant à",
+    "usage": "actif",
+    "definition_fr": "Permet de transitionner vers un nouveau sujet ou d'isoler un élément.",
+    "translation_cn": "至于，关于",
+    "exemple": "",
+    "note": "S'accorde avec le pronom/nom qui suit (quant au, quant aux).",
+    "context": "Quant à la raison ayant causé cette annulation de milliers de vols, Sean Duffy pointe du « vieux matériel » des « années 1980 » …",
+    "fonction": "reformulation"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Chronique transportsÉtats-Unis: la rénovation des infrastructures de transports, une priorité pour Donald Trump?",
+    "structure": "Style télégraphique journalistique avec nominalisation et interrogation directe",
+    "explication": "Utilisation d'une tournure nominale juxtaposée (« la rénovation... une priorité ») sans verbe conjugué pour synthétiser l'enjeu sous forme de question ouverte en titre de rubrique.",
+    "modele": "Économie mondiale: la transition énergétique, une urgence financière pour le FMI?"
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Voulez-vous que votre Congrès finance cela ? Le président Trump a demandé l'argent",
+    "figure": "Question rhétorique (ou hypophore)",
+    "effet": "Le locuteur interpelle directement le public pour susciter une adhésion immédiate et légitimer une demande budgétaire contestée au Parlement."
+   },
+   {
+    "surface": "Ce n'est pas un nouveau 11-Septembre",
+    "figure": "Antithèse dramatique / Référence historique traumatique",
+    "effet": "Désamorce le sentiment d'angoisse collective en faisant référence au pire précédent de l'aviation américaine pour mieux rassurer l'opinion."
+   }
+  ],
+  "dropped": 3
+ }
+}
