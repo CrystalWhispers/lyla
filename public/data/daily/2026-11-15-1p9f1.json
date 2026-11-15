@@ -1,0 +1,217 @@
+{
+ "id": "2026-11-15-1p9f1",
+ "date": "2026-11-15",
+ "title": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 207,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Francophonie, élections en Gambie et formation supérieure au Maroc",
+  "summary": "Ce bulletin aborde la contestation autour de la présidence de l'OIF, l'enjeu politique de la présidentielle en Gambie et les défis de l'enseignement supérieur au Maroc. Ces thématiques illustrent les tensions géopolitiques et les défis d'attractivité sur le continent africain.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "1fictgm",
+    "kind": "vocab",
+    "term": "briguer (v.)",
+    "surface": "brigue",
+    "usage": "actif",
+    "definition_fr": "Candidater formellement à une fonction ou un mandat politique.",
+    "translation_cn": "竞选，争取（职位）",
+    "exemple": "Le député sortant a décidé de briguer un second mandat régional.",
+    "note": "Très fréquent dans le vocabulaire politique pour qualifier une candidature.",
+    "context": "En Gambie, le président Adama Barrow brigue un troisième mandat, alors que le mécontentement grandit face aux coupures d'électricité à répétition et au manque de …",
+    "synonymes": [
+     "solliciter",
+     "viser",
+     "postuler"
+    ],
+    "famille": [
+     "une brigue (f.)"
+    ],
+    "collocations": [
+     "briguer un mandat",
+     "briguer la présidence"
+    ]
+   },
+   {
+    "id": "6g5wce",
+    "kind": "vocab",
+    "term": "un scrutin (m.)",
+    "surface": "scrutin",
+    "usage": "actif",
+    "definition_fr": "Ensemble des opérations de vote lors d'une élection.",
+    "translation_cn": "投票，选举",
+    "exemple": "Le déroulement du scrutin a été supervisé par des observateurs internationaux.",
+    "note": "S'utilise souvent pour désigner l'élection elle-même.",
+    "context": "Un scrutin qui s'annonce comme un test majeur pour le pouvoir en place.",
+    "synonymes": [
+     "un vote",
+     "une élection"
+    ],
+    "famille": [
+     "un scrutateur (m.)",
+     "scruter"
+    ],
+    "collocations": [
+     "un scrutin uninominal",
+     "un scrutin contesté"
+    ]
+   },
+   {
+    "id": "16uhnrx",
+    "kind": "vocab",
+    "term": "un enjeu (m.)",
+    "surface": "enjeu",
+    "usage": "actif",
+    "definition_fr": "Ce que l'on risque de gagner ou de perdre dans une entreprise ou une négociation.",
+    "translation_cn": "关键，问题所在，利害关系",
+    "exemple": "La transition énergétique constitue un enjeu économique majeur pour la région.",
+    "note": "Très courant dans le discours de synthèse et d'analyse.",
+    "context": "Former les ingénieurs, les chercheurs, les décideurs de demain, mais aussi retenir les talents africains : est un enjeu majeur pour le continent africain.",
+    "synonymes": [
+     "un défi",
+     "une question"
+    ],
+    "famille": [
+     "enjeu"
+    ],
+    "collocations": [
+     "un enjeu majeur",
+     "un enjeu stratégique"
+    ]
+   },
+   {
+    "id": "1jrs3m7",
+    "kind": "vocab",
+    "term": "de pointe (loc. adj.)",
+    "surface": "de pointe",
+    "usage": "actif",
+    "definition_fr": "Qui se situe au niveau le plus avancé de la technologie ou de la recherche.",
+    "translation_cn": "尖端的，最先进的",
+    "exemple": "Ce laboratoire bénéficie d'équipements de pointe uniques en Europe.",
+    "note": "Adjectivation invariable.",
+    "context": "Au Maroc, l'Université Mohammed VI Polytechnique mise sur la recherche, l'innovation et des formations de pointe, notamment dans l'intelligence artificielle, la robotique ou encore l'agriculture.",
+    "synonymes": [
+     "avancé",
+     "de premier ordre"
+    ],
+    "famille": [],
+    "collocations": [
+     "une technologie de pointe",
+     "une formation de pointe"
+    ]
+   },
+   {
+    "id": "10b6s0t",
+    "kind": "vocab",
+    "term": "reproduire (v. t.)",
+    "surface": "reproduit",
+    "usage": "actif",
+    "definition_fr": "Refaire à l'identique ou appliquer un même modèle dans un autre contexte.",
+    "translation_cn": "复制，取法",
+    "exemple": "L'entreprise cherche à reproduire son succès commercial sur les marchés asiatiques.",
+    "note": "Souvent utilisé au passif pour parler de modèles économiques ou éducatifs.",
+    "context": "Et ce modèle peut-il être reproduit ailleurs en Afrique ?",
+    "synonymes": [
+     "dupliquer",
+     "répéter"
+    ],
+    "famille": [
+     "une reproduction (f.)",
+     "reproductible"
+    ],
+    "collocations": [
+     "reproduire un modèle",
+     "reproduire une stratégie"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "74rfkh",
+    "kind": "expression",
+    "term": "le pouvoir en place (m.)",
+    "surface": "pouvoir en place",
+    "usage": "actif",
+    "definition_fr": "Le gouvernement ou le régime actuellement à la tête de l'État.",
+    "translation_cn": "执政当局，当权派",
+    "exemple": "Le pouvoir en place doit faire face à une contestation sociale croissante.",
+    "note": "S'utilise très souvent à l'écrit comme à l'oral politique.",
+    "context": "Un scrutin qui s'annonce comme un test majeur pour le pouvoir en place.",
+    "collocations": [
+     "défier le pouvoir en place",
+     "le pouvoir en place conteste"
+    ]
+   },
+   {
+    "id": "vcnorv",
+    "kind": "expression",
+    "term": "retenir les talents (loc. v.)",
+    "surface": "retenir les talents",
+    "usage": "actif",
+    "definition_fr": "Empêcher la fuite des cerveaux en offrant de bonnes conditions de travail ou d'études.",
+    "translation_cn": "留住人才",
+    "exemple": "Pour stimuler l'innovation, le pays multiplie les incitations fiscales afin de retenir les talents.",
+    "note": "Formule clé de la politique RH et d'attractivité économique.",
+    "context": "Former les ingénieurs, les chercheurs, les décideurs de demain, mais aussi retenir les talents africains : est un enjeu majeur pour le continent africain.",
+    "collocations": [
+     "retenir les talents locaux",
+     "une stratégie pour retenir les talents"
+    ]
+   },
+   {
+    "id": "1qj2g8v",
+    "kind": "expression",
+    "term": "au plus grand nombre (loc. adv.)",
+    "surface": "au plus grand nombre",
+    "usage": "actif",
+    "definition_fr": "À la majorité des citoyens, à l'ensemble de la population.",
+    "translation_cn": "面向大众，尽可能多的人",
+    "exemple": "L'objectif de cette politique publique est d'ouvrir la culture au plus grand nombre.",
+    "note": "Très utilisé pour souligner le caractère démocratique ou inclusif d'une mesure.",
+    "context": "Mais peut-on construire des universités de niveau international tout en les rendant accessibles au plus grand nombre ?",
+    "collocations": [
+     "accessible au plus grand nombre",
+     "diffuser au plus grand nombre"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "vo0mpz",
+    "kind": "connecteur",
+    "term": "alors que (conn.)",
+    "surface": "alors que",
+    "usage": "actif",
+    "definition_fr": "Marque une opposition entre deux faits contemporains ou une concession.",
+    "translation_cn": "而，正当……之时",
+    "exemple": "",
+    "note": "Suivi de l'indicatif. Très fréquent à l'oral comme à l'écrit. Bourré de sens en politique. Economique et fluide. Exemple d'usage : « Alors que la croissance ralentit, le chômage baisse. »",
+    "context": "En Gambie, le président Adama Barrow brigue un troisième mandat, alors que le mécontentement grandit face aux coupures d'électricité à répétition et au manque de …",
+    "fonction": "opposition"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Mais peut-on construire des universités de niveau international tout en les rendant accessibles au plus grand nombre ?",
+    "structure": "Interrogation directe avec gérondif circonstanciel (tout en + participe présent)",
+    "explication": "Utilise la tournure « tout en + participe présent » pour souligner une contradiction ou une double exigence simultanée.",
+    "modele": "Peut-on réduire le déficit public tout en soutenant l'investissement vert ?"
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Former les ingénieurs, les chercheurs, les décideurs de demain",
+    "figure": "Énumération ternaire (gradative)",
+    "effet": "Donne du rythme à la phrase et embrasse l'ensemble des strates d'élites stratégiques à former pour marquer l'ampleur de la mission."
+   }
+  ],
+  "dropped": 0
+ }
+}
