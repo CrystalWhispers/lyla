@@ -1,0 +1,413 @@
+{
+ "id": "2026-11-16-1c5p7",
+ "date": "2026-11-16",
+ "title": "Mission «Volia»: comment l'armée française opère en Ukraine",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/europe/20261116-mission-volia-comment-l-arm%C3%A9e-fran%C3%A7aise-op%C3%A8re-en-ukraine",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 897,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Soutien militaire français confidentiel en Ukraine",
+  "summary": "Selon RFI, la France déploie depuis l'été 2026 une mission militaire confidentielle en Ukraine pour l'instruction et la maintenance des matériels. Ce dispositif soulevait des questions constitutionnelles quant à l'information obligatoire du Parlement.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "1irt9od",
+    "kind": "vocab",
+    "term": "corroborer",
+    "surface": "corroborées",
+    "usage": "actif",
+    "definition_fr": "Confirmer ou appuyer une information par de nouvelles preuves.",
+    "translation_cn": "证实，确证",
+    "exemple": "",
+    "note": "",
+    "context": "Des soldats français opèrent depuis plusieurs mois en Ukraine, selon les informations recueillies et corroborées par RFI.",
+    "synonymes": [
+     "confirmer",
+     "étayer",
+     "valider"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "3hmpe2",
+    "kind": "vocab",
+    "term": "proroger",
+    "surface": "prorogée",
+    "usage": "passif",
+    "definition_fr": "Prolonger la durée de validité d'une mesure ou d'une mission.",
+    "translation_cn": "延长（期限），推迟",
+    "exemple": "",
+    "note": "",
+    "context": "… au nord-ouest de la Pologne) dans le cadre de la mission européenne EUMAM-Ukraine, prorogée pour une nouvelle période de deux ans, jusqu'au 15 novembre 2028.",
+    "synonymes": [
+     "prolonger",
+     "reconduire",
+     "renouveler"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "14a17ud",
+    "kind": "vocab",
+    "term": "un paravent (m.)",
+    "surface": "paravent",
+    "usage": "actif",
+    "definition_fr": "Ce qui sert à dissimuler ou protéger une action secrète.",
+    "translation_cn": "屏风，掩护物，借口",
+    "exemple": "",
+    "note": "",
+    "context": "Ils nous affirment que pour masquer la présence de soldats français en Ukraine, la mission Gerfaut sert de paravent.",
+    "synonymes": [
+     "couverture",
+     "façade",
+     "prétexte"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "5ozx7n",
+    "kind": "vocab",
+    "term": "aguéri",
+    "surface": "aguerris",
+    "usage": "actif",
+    "definition_fr": "Habitué aux conditions difficiles ou au combat.",
+    "translation_cn": "经验丰富的，久经考验的",
+    "exemple": "",
+    "note": "",
+    "context": "On y trouve des soldats aguerris et au savoir-faire rare.",
+    "synonymes": [
+     "expérimenté",
+     "rompu",
+     "chevronné"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "90ragn",
+    "kind": "vocab",
+    "term": "l'exécutif (m.)",
+    "surface": "l'exécutif",
+    "usage": "actif",
+    "definition_fr": "Le pouvoir politique qui applique les lois (Président, Gouvernement).",
+    "translation_cn": "行政部门，政府执政当局",
+    "exemple": "",
+    "note": "",
+    "context": "Or, l'exécutif n'a pas informé les députés et sénateurs de l'existence de Volia.",
+    "synonymes": [
+     "gouvernement",
+     "pouvoir exécutif"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1clcry3",
+    "kind": "vocab",
+    "term": "un consensus (m.)",
+    "surface": "consensus",
+    "usage": "actif",
+    "definition_fr": "Accord général entre les membres d'un groupe.",
+    "translation_cn": "共识，一致同意",
+    "exemple": "",
+    "note": "",
+    "context": "… Canada et à la Grande-Bretagne, où le soutien à l’Ukraine fait consensus au sein de la classe politique, la situation en France est bien différente.",
+    "synonymes": [
+     "accord",
+     "compromis",
+     "unanimité"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1rh78me",
+    "kind": "vocab",
+    "term": "un détachement (m.)",
+    "surface": "détachement",
+    "usage": "passif",
+    "definition_fr": "Groupe de soldats envoyé temporairement pour une mission précise.",
+    "translation_cn": "小分队，特遣队",
+    "exemple": "",
+    "note": "",
+    "context": "Cette dernière, officiellement assumée, est un détachement militaire français présent en Pologne depuis février 2023 (notamment sur le camp de Wedrzyn, au nord-ouest de la …",
+    "synonymes": [
+     "contingent",
+     "unité"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1f3ljn1",
+    "kind": "vocab",
+    "term": "modulable",
+    "surface": "modulable",
+    "usage": "actif",
+    "definition_fr": "Qui peut être adapté ou modifié facilement selon les besoins.",
+    "translation_cn": "可调节的，可变通的",
+    "exemple": "",
+    "note": "",
+    "context": "Selon les interlocuteurs de RFI, il s'agit d'une structure « légère et modulable », composée de « petits effectifs pour des missions courtes ».",
+    "synonymes": [
+     "adaptable",
+     "flexible",
+     "scalable"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "auryco",
+    "kind": "vocab",
+    "term": "un retour d'expérience (m.)",
+    "surface": "retours d'expérience",
+    "usage": "actif",
+    "definition_fr": "Analyse pratique des enseignements tirés d'une opération.",
+    "translation_cn": "经验反馈，总结教训",
+    "exemple": "",
+    "note": "",
+    "context": "Une présence en Ukraine qui est aussi riche en retours d'expérience.",
+    "synonymes": [
+     "RETEX",
+     "bilan"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1joql8w",
+    "kind": "vocab",
+    "term": "l'instruction (f.)",
+    "surface": "l’instruction",
+    "usage": "actif",
+    "definition_fr": "Formation technique et pratique dispensée aux militaires.",
+    "translation_cn": "军事训练，指导",
+    "exemple": "",
+    "note": "",
+    "context": "Son objectif : confier à des militaires français de l’armée de Terre l’instruction des sous-officiers, futurs chefs de groupe de combats ukrainiens.",
+    "synonymes": [
+     "formation",
+     "entraînement"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "kghslu",
+    "kind": "vocab",
+    "term": "la confidentialité (f.)",
+    "surface": "confidentialité",
+    "usage": "actif",
+    "definition_fr": "Caractère secret d'une information qui ne doit pas être divulguée.",
+    "translation_cn": "保密性，机密",
+    "exemple": "",
+    "note": "",
+    "context": "Afin de garantir la confidentialité de cette présence militaire française dans un pays en guerre, il a été décidé, selon plusieurs sources proches du dossier …",
+    "synonymes": [
+     "secret",
+     "discrétion"
+    ],
+    "famille": [],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "1ko6unw",
+    "kind": "expression",
+    "term": "passer sous les radars",
+    "surface": "passé sous les radars",
+    "usage": "actif",
+    "definition_fr": "Rester inaperçu, échapper à l'attention du public ou des autorités.",
+    "translation_cn": "避开公众视线，保持低调",
+    "exemple": "Ce programme de financement d'urgence est resté sous les radars des observateurs.",
+    "note": "",
+    "context": "Volia est un dispositif hautement confidentiel, jusque-là passé sous les radars.",
+    "collocations": []
+   },
+   {
+    "id": "wl4b1w",
+    "kind": "expression",
+    "term": "au plus près du combat",
+    "surface": "au plus près du combat",
+    "usage": "actif",
+    "definition_fr": "Au plus près des zones d'affrontement ou du terrain d'action.",
+    "translation_cn": "紧贴前线，最贴近战地",
+    "exemple": "Les équipes médicales doivent intervenir au plus près du combat.",
+    "note": "",
+    "context": "Mais pour opérer au plus près du combat, il faut se positionner en Ukraine.",
+    "collocations": []
+   },
+   {
+    "id": "1ermkgc",
+    "kind": "expression",
+    "term": "marcher sur des œufs",
+    "surface": "marche sur des œufs",
+    "usage": "actif",
+    "definition_fr": "Agir avec une extrême précaution dans une situation délicate.",
+    "translation_cn": "小心翼翼，如履薄冰",
+    "exemple": "La diplomatie internationale marche sur des œufs dans ce dossier sensible.",
+    "note": "",
+    "context": "« Avec l’Ukraine, on marche sur des œufs, reconnait le sénateur Cédric Perrin.",
+    "collocations": []
+   },
+   {
+    "id": "1xurlqr",
+    "kind": "expression",
+    "term": "gagner du crédit",
+    "surface": "gagner du crédit",
+    "usage": "actif",
+    "definition_fr": "Renforcer sa crédibilité ou sa réputation auprès de partenaires.",
+    "translation_cn": "赢得信任，增加声望",
+    "exemple": "Ce projet d'infrastructure a permis à la région de gagner du crédit auprès des investisseurs.",
+    "note": "",
+    "context": "… la tentation de faire ce que les anglo-saxons ont déjà fait, note un observateur, ce pourrait être l’occasion de gagner du crédit auprès de Kiev.",
+    "collocations": []
+   },
+   {
+    "id": "1p4xzm1",
+    "kind": "expression",
+    "term": "s'inviter dans le débat",
+    "surface": "s’inviter dans le débat",
+    "usage": "actif",
+    "definition_fr": "Devenir de manière inattendue un sujet central de discussion politique.",
+    "translation_cn": "强行打入辩论议题，成为焦点",
+    "exemple": "La crise énergétique s'est invitée dans le débat budgétaire à l'Assemblée.",
+    "note": "",
+    "context": "L’ambition militaire française, souvent absente des campagnes présidentielles, pourrait cette fois s’inviter dans le débat électoral.",
+    "collocations": []
+   },
+   {
+    "id": "yzjmx",
+    "kind": "expression",
+    "term": "relever du secret défense",
+    "surface": "relever du secret défense",
+    "usage": "passif",
+    "definition_fr": "Être classé confidentiel pour des motifs de sécurité nationale.",
+    "translation_cn": "属于国防机密",
+    "exemple": "Certains détails opérationnels relèvent impérativement du secret défense.",
+    "note": "",
+    "context": "… et des Forces armées du Sénat, joint par RFI, une mission conventionnelle ne pourrait pas relever du secret défense : « C’est une obligation constitutionnelle.",
+    "collocations": []
+   },
+   {
+    "id": "1x81po4",
+    "kind": "expression",
+    "term": "être riche en enseignements",
+    "surface": "riche en retours d'expérience",
+    "usage": "actif",
+    "definition_fr": "Apporter beaucoup d'informations et de leçons pratiques utiles.",
+    "translation_cn": "富有实际参考价值，能积累丰富经验",
+    "exemple": "Le dernier exercice bilatéral a été particulièrement riche en retours d'expérience.",
+    "note": "",
+    "context": "Une présence en Ukraine qui est aussi riche en retours d'expérience.",
+    "collocations": []
+   },
+   {
+    "id": "rno7nr",
+    "kind": "expression",
+    "term": "faire le choix de",
+    "surface": "fait le choix de",
+    "usage": "actif",
+    "definition_fr": "Décider délibérément de prendre une option précise.",
+    "translation_cn": "选择做某事，决定",
+    "exemple": "Le gouvernement a fait le choix de privilégier l'investissement industriel.",
+    "note": "",
+    "context": "Pour garantir la sécurité de ces soldats et de leurs entourages, RFI a fait le choix de ne pas révéler les régiments impliqués.",
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "lybar0",
+    "kind": "connecteur",
+    "term": "Or",
+    "surface": "Or",
+    "usage": "actif",
+    "definition_fr": "Introduit un fait nouveau qui s'oppose à ce qui vient d'être dit ou nuance l'argumentation.",
+    "translation_cn": "然而，但是",
+    "exemple": "",
+    "note": "Placé en tête de phrase pour ménager un effet d'annonce ou de transition critique.",
+    "context": "Or, selon plusieurs interlocuteurs joints par RFI, un soutien militaire français joue un rôle actif dans le pays depuis au moins l'été 2026.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "9k2qbc",
+    "kind": "connecteur",
+    "term": "afin de",
+    "surface": "Afin de",
+    "usage": "actif",
+    "definition_fr": "Marque le but ou la finalité d'une action (suivi d'un infinitif).",
+    "translation_cn": "为了，以便",
+    "exemple": "",
+    "note": "Plus soutenu que 'pour'.",
+    "context": "Afin de garantir la confidentialité de cette présence militaire française dans un pays en guerre, il a été décidé, selon plusieurs sources proches du dossier …",
+    "fonction": "but"
+   },
+   {
+    "id": "afw6jt",
+    "kind": "connecteur",
+    "term": "contrairement à",
+    "surface": "contrairement au",
+    "usage": "actif",
+    "definition_fr": "Souligne une opposition directe entre deux situations.",
+    "translation_cn": "与……相反",
+    "exemple": "",
+    "note": "",
+    "context": "Mais contrairement au Canada et à la Grande-Bretagne, où le soutien à l’Ukraine fait consensus au sein de la classe politique, la situation en France …",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1qiszdm",
+    "kind": "connecteur",
+    "term": "dès lors que",
+    "surface": "dès lors que",
+    "usage": "passif",
+    "definition_fr": "À partir du moment où / Si la condition est remplie (suivi de l'indicatif).",
+    "translation_cn": "只要，一旦",
+    "exemple": "",
+    "note": "",
+    "context": "Le président de la République, dès lors que les troupes sont engagées, doit informer le Parlement dans un délai déterminé.",
+    "fonction": "condition"
+   },
+   {
+    "id": "yj8u7j",
+    "kind": "connecteur",
+    "term": "alors que",
+    "surface": "alors que",
+    "usage": "actif",
+    "definition_fr": "Marque le contraste temporel ou la simultanéité de deux situations opposées.",
+    "translation_cn": "而，然而，在……的同时",
+    "exemple": "",
+    "note": "",
+    "context": "La France accélère donc son soutien à l'Ukraine alors que les États-Unis se sont désengagés.",
+    "fonction": "opposition"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Aider l’Ukraine à se défendre, c’est protéger la France et les Français.",
+    "structure": "Infinitif sujet avec reprise démonstrative « c'est »",
+    "explication": "Donne un relief fort à l'affirmation en posant une équivalence directe et percutante entre deux actions.",
+    "modele": "Investir dans la transition écologique, c'est garantir notre souveraineté future."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Aider l’Ukraine à se défendre, c’est protéger la France et les Français.",
+    "figure": "Parallélisme et équivalence stylistique",
+    "effet": "Crée une identification directe de l'intérêt national avec la cause défendue pour convaincre l'opinion."
+   }
+  ],
+  "dropped": 2
+ }
+}
