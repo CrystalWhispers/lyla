@@ -1,0 +1,478 @@
+{
+ "id": "2026-11-20-zx23k",
+ "date": "2026-11-20",
+ "title": "Dominique de Villepin, un homme de droite populaire à gauche mais en quête d'électeurs",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/france/20261120-france-presidentielle-2027-dominique-de-villepin-homme-droite-populaire-gauche-sans-electeurs",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 877,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Retour politique de Dominique de Villepin et équation électorale",
+  "summary": "Vingt ans après son passage à Matignon, Dominique de Villepin officialise sa candidature à l'élection présidentielle de 2027. Bien qu'il jouisse d'une forte popularité auprès de l'électorat de gauche grâce à ses prises de position internationales, son ancrage idéologique de droite rend son potentiel électoral incertain.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "102a9a5",
+    "kind": "vocab",
+    "term": "une dynamique (f.)",
+    "surface": "dynamique",
+    "usage": "actif",
+    "definition_fr": "Élan ou mouvement qui entraîne une évolution positive.",
+    "translation_cn": "势头； 活力",
+    "exemple": "La candidate espère créer une dynamique favorable avant le premier tour.",
+    "note": "Très fréquent en communication politique.",
+    "context": "… ans, Dominique de Villepin est en campagne depuis plusieurs mois et espérait créer une dynamique avant de se lancer pour de bon dans la course.",
+    "synonymes": [
+     "élan",
+     "mouvement"
+    ],
+    "famille": [
+     "dynamique",
+     "dynamiser"
+    ],
+    "collocations": [
+     "créer une dynamique",
+     "cassure de la dynamique"
+    ]
+   },
+   {
+    "id": "q2lqes",
+    "kind": "vocab",
+    "term": "un paradoxe (m.)",
+    "surface": "paradoxe",
+    "usage": "actif",
+    "definition_fr": "Proposition ou situation contraire à la logique commune.",
+    "translation_cn": "悖论； 矛盾现象",
+    "exemple": "Son succès auprès de l'opposition illustre un paradoxe politique.",
+    "note": "S'emploie fréquemment pour souligner une contradiction.",
+    "context": "Mais celle-ci n'est jamais venue, illustrant un paradoxe : l’homme du discours à l'ONU pour dire non à la guerre de George W.",
+    "synonymes": [
+     "contradiction",
+     "incohérence"
+    ],
+    "famille": [
+     "paradoxal",
+     "paradoxalement"
+    ],
+    "collocations": [
+     "illustrer un paradoxe",
+     "apparent paradoxe"
+    ]
+   },
+   {
+    "id": "irmd3b",
+    "kind": "vocab",
+    "term": "un électorat (m.)",
+    "surface": "électorat",
+    "usage": "actif",
+    "definition_fr": "Ensemble des citoyens disposant du droit de vote ou soutiens d'un parti.",
+    "translation_cn": "选民； 选民群体",
+    "exemple": "Le parti cherche à reconquérir son électorat populaire.",
+    "note": "Toujours au masculin singulier.",
+    "context": "Bush en Irak en 2003 est surtout populaire auprès d'un électorat de gauche, qui a peu de chance de voter pour lui.",
+    "synonymes": [
+     "votants",
+     "base électorale"
+    ],
+    "famille": [
+     "électeur",
+     "électoral"
+    ],
+    "collocations": [
+     "électorat de gauche",
+     "mobiliser l'électorat"
+    ]
+   },
+   {
+    "id": "ge7k77",
+    "kind": "vocab",
+    "term": "une idylle (f.)",
+    "surface": "idylle",
+    "usage": "passif",
+    "definition_fr": "Relation amoureuse ou entente cordiale et idéale mais souvent temporaire.",
+    "translation_cn": "罗曼史； 短暂的良好关系（比喻）",
+    "exemple": "Leur idylle avec les partenaires sociaux a été de courte durée.",
+    "note": "Sens figuré très prisé dans la presse politique.",
+    "context": "Son idylle avec le peuple de gauche s'est poursuivie à l'été 2024, au point d'être invité à la Fête de l’Huma et de se voir …",
+    "synonymes": [
+     "entente",
+     "harmonie"
+    ],
+    "famille": [
+     "idyllique"
+    ],
+    "collocations": [
+     "idylle politique",
+     "fin de l'idylle"
+    ]
+   },
+   {
+    "id": "1t1mt16",
+    "kind": "vocab",
+    "term": "une prouesse (f.)",
+    "surface": "prouesse",
+    "usage": "actif",
+    "definition_fr": "Acte de bravoure ou réalisation remarquable.",
+    "translation_cn": "壮举； 创举",
+    "exemple": "Maintenir l'équilibre budgétaire relève de la prouesse diplomatique.",
+    "note": "Souvent ironique ou admiratif.",
+    "context": "… Une prouesse pour un homme qui a mis dans la rue lorsqu'il était Premier ministre entre un et trois millions de personnes, dont une …",
+    "synonymes": [
+     "exploit",
+     "tour de force"
+    ],
+    "famille": [],
+    "collocations": [
+     "réaliser une prouesse",
+     "véritable prouesse"
+    ]
+   },
+   {
+    "id": "1bbefbf",
+    "kind": "vocab",
+    "term": "la rigueur (f.)",
+    "surface": "rigueur",
+    "usage": "actif",
+    "definition_fr": "Politique d'austérité budgétaire et de strict contrôle des dépenses.",
+    "translation_cn": "严谨； （财政）紧缩",
+    "exemple": "Le gouvernement prône la rigueur budgétaire face au déficit.",
+    "note": "En économie, s'oppose à la relance.",
+    "context": "… et qui porte toujours un discours de droite en matière de rigueur budgétaire, de maîtrise de la dépense publique et d'ordre républicain. Peu importe, ceux …",
+    "synonymes": [
+     "austérité",
+     "discipline"
+    ],
+    "famille": [
+     "rigoureux",
+     "rigoureusement"
+    ],
+    "collocations": [
+     "rigueur budgétaire",
+     "politique de rigueur"
+    ]
+   },
+   {
+    "id": "1qbtbg8",
+    "kind": "vocab",
+    "term": "un socle (m.)",
+    "surface": "socle",
+    "usage": "actif",
+    "definition_fr": "Base solide sur laquelle s'appuie une structure ou un soutien politique.",
+    "translation_cn": "基石； 基础",
+    "exemple": "Le candidat dispose d'un socle électoral fidèle de 15 %.",
+    "note": "Très fréquent pour désigner les voix acquises d'avance.",
+    "context": "Tout l'enjeu devant lui sera donc de se définir un socle électoral\", ajoutait-il.",
+    "synonymes": [
+     "base",
+     "fondement"
+    ],
+    "famille": [],
+    "collocations": [
+     "socle électoral",
+     "socle commun"
+    ]
+   },
+   {
+    "id": "1buhbvb",
+    "kind": "vocab",
+    "term": "nébuleux (adj.)",
+    "surface": "nébuleux",
+    "usage": "passif",
+    "definition_fr": "Qui manque de clarté, confus ou flou.",
+    "translation_cn": "模糊的； 迷茫的",
+    "exemple": "Son programme économique reste particulièrement nébuleux.",
+    "note": "Souvent critique envers une ligne politique.",
+    "context": "Sa conférence de presse, vendredi, permettra sans doute de clarifier son positionnement, encore nébuleux, et ses alliances.",
+    "synonymes": [
+     "flou",
+     "confus"
+    ],
+    "famille": [
+     "nébuleuse"
+    ],
+    "collocations": [
+     "positionnement nébuleux",
+     "projet nébuleux"
+    ]
+   },
+   {
+    "id": "1lao9qq",
+    "kind": "vocab",
+    "term": "esquisser (v.)",
+    "surface": "esquissé",
+    "usage": "actif",
+    "definition_fr": "Commencer à tracer, présenter les premiers traits d'un projet.",
+    "translation_cn": "勾勒； 初步展现",
+    "exemple": "Le ministre a esquissé les grandes lignes du projet de loi.",
+    "note": "S'emploie pour des intentions encore informelles.",
+    "context": "Et a esquissé à l'automne un rapprochement avec l'ancien insoumis François Ruffin, même si rien ne s'est concrétisé.",
+    "synonymes": [
+     "ébaucher",
+     "amorcer"
+    ],
+    "famille": [
+     "esquisse"
+    ],
+    "collocations": [
+     "esquisser un rapprochement",
+     "esquisser une réforme"
+    ]
+   },
+   {
+    "id": "1kzgwup",
+    "kind": "vocab",
+    "term": "capitaliser (v.)",
+    "surface": "capitaliser",
+    "usage": "actif",
+    "definition_fr": "Tirer profit d'un avantage ou d'une expérience acquise.",
+    "translation_cn": "利用； 积累（优势）",
+    "exemple": "Le diplomate cherche à capitaliser sur sa notoriété internationale.",
+    "note": "S'utilise avec la préposition « sur ».",
+    "context": "Un sujet sur lequel il est à l'aise, et où il compte capitaliser sur son expérience et sa stature d’homme d'État et d'ancien diplomate.",
+    "synonymes": [
+     "miser sur",
+     "exploiter"
+    ],
+    "famille": [
+     "capital",
+     "capitalisation"
+    ],
+    "collocations": [
+     "capitaliser sur son expérience",
+     "capitaliser sur le succès"
+    ]
+   },
+   {
+    "id": "y2o2io",
+    "kind": "vocab",
+    "term": "la stature (f.)",
+    "surface": "stature",
+    "usage": "actif",
+    "definition_fr": "Importance morale ou politique imposante d'une personnalité.",
+    "translation_cn": "声望； 鼎鼎格局",
+    "exemple": "Sa prestation au sommet lui a donné une vraie stature internationale.",
+    "note": "S'applique souvent aux hauts dirigeants.",
+    "context": "Un sujet sur lequel il est à l'aise, et où il compte capitaliser sur son expérience et sa stature d’homme d'État et d'ancien diplomate.",
+    "synonymes": [
+     "envergure",
+     "prestige"
+    ],
+    "famille": [],
+    "collocations": [
+     "stature d'homme d'État",
+     "acquérir une stature"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "18yozwb",
+    "kind": "expression",
+    "term": "revenir sur le devant de la scène",
+    "surface": "revenu sur le devant de la scène",
+    "usage": "actif",
+    "definition_fr": "Occuper de nouveau une position centrale dans l'attention publique.",
+    "translation_cn": "重回公众视野； 重返舞台中央",
+    "exemple": "Après plusieurs années d'absence, l'ancien ministre est revenu sur le devant de la scène.",
+    "note": "Très fréquent dans le journalisme politique.",
+    "context": "Déjà revenu sur le devant de la scène médiatique depuis la fin 2023, celui qui a été ministre des Affaires étrangères, ministre de l’Intérieur et …",
+    "collocations": [
+     "retour sur le devant de la scène",
+     "revenir sur le devant de la scène politique"
+    ]
+   },
+   {
+    "id": "dr23e0",
+    "kind": "expression",
+    "term": "se lancer dans la course",
+    "surface": "se lancer pour de bon dans la course",
+    "usage": "actif",
+    "definition_fr": "S'engager officiellement dans une compétition électorale.",
+    "translation_cn": "正式参选； 投入角逐",
+    "exemple": "Le chef de parti hésite encore à se lancer dans la course à l'Élysée.",
+    "note": "Métaphore sportive courante.",
+    "context": "… ans, Dominique de Villepin est en campagne depuis plusieurs mois et espérait créer une dynamique avant de se lancer pour de bon dans la course.",
+    "collocations": [
+     "se lancer dans la course présidentielle",
+     "être dans la course"
+    ]
+   },
+   {
+    "id": "s1mb3k",
+    "kind": "expression",
+    "term": "avoir à cœur",
+    "surface": "ayant à cœur",
+    "usage": "actif",
+    "definition_fr": "Attacher une grande importance à une cause ou une mission.",
+    "translation_cn": "深切关怀； 切实重视",
+    "exemple": "Le gouvernement affirme avoir à cœur la défense du pouvoir d'achat.",
+    "note": "Suivi de « de » + infinitif ou d'un nom direct.",
+    "context": "… réponse israélienne à Gaza ces trois dernières années sont appréciés des médias, mais aussi au sein de la gauche ayant à cœur la cause palestinienne.",
+    "collocations": [
+     "avoir à cœur de réussir",
+     "avoir à cœur une cause"
+    ]
+   },
+   {
+    "id": "1r9hfr8",
+    "kind": "expression",
+    "term": "faire un potentiel électoral",
+    "surface": "ne fait pas un potentiel électoral",
+    "usage": "passif",
+    "definition_fr": "Se traduire concrètement en réservoir de voix lors d'un scrutin.",
+    "translation_cn": "构成选票潜力",
+    "exemple": "Une forte popularité dans les sondages ne garantit pas un solide potentiel électoral.",
+    "note": "Jargon d'analyse politique et d'institut de sondage.",
+    "context": "… Bernard Sananès, qui soulignait dans La Tribune Dimanche en août 2025 que \"la bonne image de Dominique de Villepin ne fait pas un potentiel électoral\".",
+    "collocations": [
+     "avoir un potentiel électoral",
+     "transformer en potentiel électoral"
+    ]
+   },
+   {
+    "id": "rm3wdh",
+    "kind": "expression",
+    "term": "incarner une autre voie",
+    "surface": "incarner une autre voie",
+    "usage": "actif",
+    "definition_fr": "Représenter une alternative politique inédite hors des clivages habituels.",
+    "translation_cn": "体现另一条道路",
+    "exemple": "Ce nouveau mouvement prétend incarner une autre voie centrale.",
+    "note": "Très usité pour dépasser l'opposition gauche/droite.",
+    "context": "… de Gabriel Attal ou de Teddy Riner –, Dominique de Villepin veut incarner une autre voie que celle de la gauche ou de la droite.",
+    "collocations": [
+     "chercher à incarner une voie",
+     "une troisième voie"
+    ]
+   },
+   {
+    "id": "1xy8te1",
+    "kind": "expression",
+    "term": "l'ordre républicain (m.)",
+    "surface": "ordre républicain",
+    "usage": "actif",
+    "definition_fr": "Respect des lois et des institutions de la République.",
+    "translation_cn": "共和国秩序",
+    "exemple": "La garantie de l'ordre républicain figure au cœur de son discours.",
+    "note": "Concept clé de la politique française.",
+    "context": "… de rigueur budgétaire, de maîtrise de la dépense publique et d'ordre républicain. Peu importe, ceux qui l'apprécient à gauche retiennent surtout ses positions actuelles sur …",
+    "collocations": [
+     "maintien de l'ordre républicain",
+     "défendre l'ordre républicain"
+    ]
+   },
+   {
+    "id": "1sqtbg8",
+    "kind": "expression",
+    "term": "par souci de",
+    "surface": "par souci de",
+    "usage": "actif",
+    "definition_fr": "Dans l'intention d'éviter un problème ou de respecter un principe.",
+    "translation_cn": "出于……的 zonser/考虑",
+    "exemple": "Il s'est retiré des débats par souci de neutralité.",
+    "note": "Suivi d'un nom sans article.",
+    "context": "Il a refusé de participer à la primaire de la droite et du centre, par souci de ne pas s'associer à l'héritage macroniste.",
+    "collocations": [
+     "par souci de clarté",
+     "par souci de cohérence"
+    ]
+   },
+   {
+    "id": "psjrhn",
+    "kind": "expression",
+    "term": "sur la scène internationale",
+    "surface": "sur la scène internationale",
+    "usage": "actif",
+    "definition_fr": "Dans le domaine des relations diplomatiques mondiales.",
+    "translation_cn": "在国际舞台上",
+    "exemple": "La diplomatie française cherche à renforcer son influence sur la scène internationale.",
+    "note": "Locution très courante en géopolitique.",
+    "context": "Seule certitude : il entend porter le projet d'une France et d'une Europe puissantes sur la scène internationale.",
+    "collocations": [
+     "peser sur la scène internationale",
+     "acteurs de la scène internationale"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "vgd11v",
+    "kind": "connecteur",
+    "term": "ainsi",
+    "surface": "ainsi",
+    "usage": "actif",
+    "definition_fr": "De cette manière ; introduit une illustration ou une conséquence logique.",
+    "translation_cn": "以此方式； 因此",
+    "exemple": "",
+    "note": "En début de phrase, entraîne souvent l'inversion du sujet à l'écrit soutenue, mais pas toujours en cas de citation direct.",
+    "context": "Dominique de Villepin qualifie ainsi l'action menée par Israël à Gaza de \"génocide\" et, dans une tribune publiée par Le Monde, a appelé la communauté …",
+    "fonction": "illustration"
+   },
+   {
+    "id": "1v8l1uj",
+    "kind": "connecteur",
+    "term": "également",
+    "surface": "également",
+    "usage": "actif",
+    "definition_fr": "Aussi ; ajoute un élément du même ordre.",
+    "translation_cn": "同样地； 也",
+    "exemple": "",
+    "note": "Se place en général après le verbe conjugué.",
+    "context": "Il a également profité de cette exposition médiatique pour donner régulièrement son avis sur la situation politique française.",
+    "fonction": "addition"
+   },
+   {
+    "id": "1t9eofp",
+    "kind": "connecteur",
+    "term": "néanmoins",
+    "surface": "désormais",
+    "usage": "actif",
+    "definition_fr": "À partir de ce moment précis.",
+    "translation_cn": "从今以后； 如今",
+    "exemple": "",
+    "note": "Marque une rupture temporelle ou stratégique.",
+    "context": "Comme beaucoup désormais – à l’image d’Emmanuel Macron, de Gabriel Attal ou de Teddy Riner –, Dominique de Villepin veut incarner une autre voie que …",
+    "fonction": "temporel"
+   },
+   {
+    "id": "1urh8ir",
+    "kind": "connecteur",
+    "term": "même si",
+    "surface": "même si",
+    "usage": "actif",
+    "definition_fr": "Indique une concession ou une hypothèse qui n'empêche pas le fait principal.",
+    "translation_cn": "即使； 哪怕",
+    "exemple": "",
+    "note": "Toujours suivi de l'indicatif (jamais du subjonctif).",
+    "context": "Et a esquissé à l'automne un rapprochement avec l'ancien insoumis François Ruffin, même si rien ne s'est concrétisé.",
+    "fonction": "concession"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "celui qui a été ministre des Affaires étrangères, ministre de l’Intérieur et Premier ministre sous Jacques Chirac entre 2002 et 2007 devrait, vendredi 20 novembre, …",
+    "structure": "Pronom démonstratif relatif + incises descriptives + conditionnel d'information sous réserve",
+    "explication": "Le pronom 'celui qui' permet d'insérer une longue relative explicative résumant le CV du personnage avant d'employer le conditionnel pour annoncer une information prévisionnelle non encore confirmée.",
+    "modele": "Celle qui a dirigé la Banque centrale européenne durant la crise financière devrait prononcer un discours décisif devant le Parlement européen."
+   },
+   {
+    "surface": "Je suis pour la justice sociale, ce qui me met à gauche. Je suis pour l'ordre républicain, ce qui me met à droite",
+    "structure": "Parallélisme de propositions indépendantes avec pronom relatif de reprise 'ce qui'",
+    "explication": "Structure binaire qui oppose et équilibre deux affirmations grâce au pronom neutre 'ce qui', lequel résume l'idée précédente pour la rattacher à une étiquette politique.",
+    "modele": "Il plaide pour la baisse des impôts, ce qui séduit les entreprises ; il défend les régulations écologiques, ce qui attire les écologistes."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Il faut pouvoir parler à Trump ou Poutine sans se ridiculiser",
+    "figure": "Formule percutante (mise en opposition de figures tutélaires)",
+    "effet": "Assied l'autorité et la stature du candidat en soulignant l'exigence d'un niveau international de haut rang."
+   }
+  ],
+  "dropped": 3
+ }
+}
