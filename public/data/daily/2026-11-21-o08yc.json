@@ -1,0 +1,497 @@
+{
+ "id": "2026-11-21-o08yc",
+ "date": "2026-11-21",
+ "title": "Climat: enlisée dans les tractations, la COP31 dépasse la date butoir pour trouver un accord",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/environnement/20261120-climat-enlis%C3%A9e-dans-les-tractations-la-cop31-d%C3%A9passe-la-date-butoir-pour-trouver-un-accord",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 851,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Négociations tendues à la COP31 d'Antalya sur le climat",
+  "summary": "Les négociations de la COP31 en Turquie jouent les prolongations en raison de profonds désaccords sur les énergies fossiles et l'aide financière aux pays du Sud. Face à des positions figées, les délégations tentent d'arracher un compromis de dernière minute.",
+  "theme": "Énergie & climat",
+  "vocabulaire": [
+   {
+    "id": "1rum70e",
+    "kind": "vocab",
+    "term": "une délégation (f.)",
+    "surface": "délégations",
+    "usage": "actif",
+    "definition_fr": "Groupe de personnes représentantes envoyées pour négocier.",
+    "translation_cn": "代表团",
+    "exemple": "La délégation française s'est exprimée en début de séance.",
+    "note": "Substantif féminin très courant en politique internationale.",
+    "context": "… se terminer ce vendredi 20 novembre 2026 dans la soirée, les délégations de près de 200 pays tentent toujours d’arracher des compromis sur plusieurs points …",
+    "synonymes": [
+     "représentation",
+     "mission"
+    ],
+    "famille": [
+     "délégué",
+     "déléguer"
+    ],
+    "collocations": [
+     "délégation officielle",
+     "mener une délégation"
+    ]
+   },
+   {
+    "id": "kunzvl",
+    "kind": "vocab",
+    "term": "un différend (m.)",
+    "surface": "différends",
+    "usage": "actif",
+    "definition_fr": "Désaccord découlant d'une opposition d'intérêts ou d'opinions.",
+    "translation_cn": "分歧，争端",
+    "exemple": "Les deux nations cherchent à résoudre leur différend diplomatique.",
+    "note": "Ne pas confondre avec l'adjectif 'différent' (avec un t).",
+    "context": "… 200 pays se donnant rendez-vous le lendemain pour tenter d'arracher un accord malgré leurs différends sur plusieurs sujets comme les énergies fossiles et la finance.",
+    "synonymes": [
+     "litige",
+     "contentieux",
+     "désaccord"
+    ],
+    "famille": [
+     "différer"
+    ],
+    "collocations": [
+     "régler un différend",
+     "différend commercial"
+    ]
+   },
+   {
+    "id": "r5swbr",
+    "kind": "vocab",
+    "term": "une tractation (f.)",
+    "surface": "tractations",
+    "usage": "actif",
+    "definition_fr": "Négociation secrète ou laborieuse entraînant des marchandages.",
+    "translation_cn": "谈判，勾心斗角的磋商",
+    "exemple": "Les tractations budgétaires se poursuivent tard dans la nuit.",
+    "note": "Souvent employé au pluriel.",
+    "context": "Signe d'intenses tractations, une douzaine de pays, dont la France, le Panama et la Côte d'Ivoire, ont exigé en début d'après-midi que la décision finale …",
+    "synonymes": [
+     "pourparlers",
+     "négociations",
+     "marchandages"
+    ],
+    "famille": [
+     "traiter",
+     "traité"
+    ],
+    "collocations": [
+     "intenses tractations",
+     "tractations coulisses"
+    ]
+   },
+   {
+    "id": "1p1e8he",
+    "kind": "vocab",
+    "term": "un hôte (m.)",
+    "surface": "hôte",
+    "usage": "actif",
+    "definition_fr": "Pays ou personne qui accueille une réunion ou des invités.",
+    "translation_cn": "东道主，主人",
+    "exemple": "La Turquie agit en tant que pays hôte du sommet.",
+    "note": "Peut désigner celui qui reçoit ou celui qui est reçu ; ici, celui qui accueille.",
+    "context": "… attentes étaient limitées avant ce grand rendez-vous onusien, mais la Turquie, hôte de cette COP31, espère la conclure avec des avancées face à l'urgence climatique.",
+    "synonymes": [
+     "organisateur"
+    ],
+    "famille": [
+     "hospitalité"
+    ],
+    "collocations": [
+     "pays hôte",
+     "ville hôte"
+    ]
+   },
+   {
+    "id": "ieuzt8",
+    "kind": "vocab",
+    "term": "puter sur",
+    "surface": "buté sur",
+    "usage": "actif",
+    "definition_fr": "Avoir été arrêté par un obstacle difficile à surmonter.",
+    "translation_cn": "受阻于，卡在……上",
+    "exemple": "Les pourparlers ont buté sur le volet financier.",
+    "note": "S'emploie fréquemment avec la préposition 'sur'.",
+    "context": "Après celle de Dubaï en 2023, les COP ont régulièrement buté sur l'opposition entre les pays favorables à la sortie des énergies fossiles et les …",
+    "synonymes": [
+     "achopper sur",
+     "bloquer sur"
+    ],
+    "famille": [
+     "butte",
+     "but"
+    ],
+    "collocations": [
+     "buter sur un écueil",
+     "buter sur un désaccord"
+    ]
+   },
+   {
+    "id": "1kkaugs",
+    "kind": "vocab",
+    "term": "un hydrocarbure (m.)",
+    "surface": "hydrocarbures",
+    "usage": "passif",
+    "definition_fr": "Composé organique contenant du carbone et de l'hydrogène (pétrole, gaz).",
+    "translation_cn": "碳氢化合物，化石能源（油气）",
+    "exemple": "Les exportations d'hydrocarbures soutiennent l'économie nationale.",
+    "note": "Terme technique privilégié dans les débats énergétiques.",
+    "context": "… de Dubaï en 2023, les COP ont régulièrement buté sur l'opposition entre les pays favorables à la sortie des énergies fossiles et les producteurs d'hydrocarbures.",
+    "synonymes": [
+     "énergies fossiles"
+    ],
+    "famille": [
+     "carbone",
+     "hydraté"
+    ],
+    "collocations": [
+     "producteurs d'hydrocarbures",
+     "extraction d'hydrocarbures"
+    ]
+   },
+   {
+    "id": "127lis6",
+    "kind": "vocab",
+    "term": "accréditer",
+    "surface": "accréditées",
+    "usage": "passif",
+    "definition_fr": "Donner à quelqu'un le pouvoir officiel de représenter une organisation.",
+    "translation_cn": "官方认可，获得资格认证的",
+    "exemple": "Les observateurs accrédités assistent aux débats en salle plénière.",
+    "note": "S'emploie au participe passé comme adjectif.",
+    "context": "De nombreuses ONG environnementales, accréditées à la COP en tant qu’observateurs, accusent ce soir l’Union européenne, le Japon, le Canada, la Norvège et le Royaume-Uni …",
+    "synonymes": [
+     "habiliter",
+     "agréer"
+    ],
+    "famille": [
+     "crédit",
+     "accréditation"
+    ],
+    "collocations": [
+     "journaliste accrédité",
+     "ONG accréditée"
+    ]
+   },
+   {
+    "id": "1clcry3",
+    "kind": "vocab",
+    "term": "un consensus (m.)",
+    "surface": "consensus",
+    "usage": "actif",
+    "definition_fr": "Accord général parmi les membres d'un groupe.",
+    "translation_cn": "共识",
+    "exemple": "Il est difficile de trouver un consensus à deux cents pays.",
+    "note": "Le 's' final se prononce.",
+    "context": "Notre déception est immense parce que nous avons investi beaucoup de notre temps, nous avons essayé de négocier, de trouver un consensus.",
+    "synonymes": [
+     "accord",
+     "compromis"
+    ],
+    "famille": [
+     "consensuel"
+    ],
+    "collocations": [
+     "trouver un consensus",
+     "consensus général"
+    ]
+   },
+   {
+    "id": "8k0vwu",
+    "kind": "vocab",
+    "term": "une mise en œuvre (f.)",
+    "surface": "mise en œuvre",
+    "usage": "actif",
+    "definition_fr": "Application pratique d'une décision, d'une loi ou d'un accord.",
+    "translation_cn": "实施，落实",
+    "exemple": "La mise en œuvre des réformes nécessite un budget précis.",
+    "note": "Locution nominale très courante en politique publique.",
+    "context": "Cette COP était censée être celle de la mise en œuvre.",
+    "synonymes": [
+     "application",
+     "exécution"
+    ],
+    "famille": [
+     "œuvrer"
+    ],
+    "collocations": [
+     "mise en œuvre pratique",
+     "plan de mise en œuvre"
+    ]
+   },
+   {
+    "id": "1cv4a9x",
+    "kind": "vocab",
+    "term": "une mouture (f.)",
+    "surface": "mouture",
+    "usage": "passif",
+    "definition_fr": "Version retravaillée d'un texte ou d'un projet.",
+    "translation_cn": "（文本、方案的）版本，修改稿",
+    "exemple": "La dernière mouture de l'accord a été rejetée par le Sénat.",
+    "note": "Métaphore issue de la meunerie très prisée par la presse.",
+    "context": "À lire aussiÀ la COP31, le dépit de représentants africains face à la nouvelle mouture de l’accord final en discussions",
+    "synonymes": [
+     "version",
+     "redaction",
+     "brouillon"
+    ],
+    "famille": [
+     "moudre",
+     "meule"
+    ],
+    "collocations": [
+     "nouvelle mouture",
+     "première mouture"
+    ]
+   },
+   {
+    "id": "12qaysv",
+    "kind": "vocab",
+    "term": "un produit intérieur brut (m.)",
+    "surface": "produit intérieur brut",
+    "usage": "actif",
+    "definition_fr": "Indicateur économique mesurant la richesse produite par un pays.",
+    "translation_cn": "国内生产总值 (GDP)",
+    "exemple": "Le coût des catastrophes naturelles pèse lourdement sur le produit intérieur brut.",
+    "note": "Aussi désigné par l'sigle PIB.",
+    "context": "L'Afrique perd 5 à 15% de son produit intérieur brut à cause du changement climatique.",
+    "synonymes": [
+     "PIB"
+    ],
+    "famille": [
+     "production",
+     "brut"
+    ],
+    "collocations": [
+     "croissance du PIB",
+     "pourcentage du PIB"
+    ]
+   },
+   {
+    "id": "11pn66o",
+    "kind": "vocab",
+    "term": "âprement",
+    "surface": "âprement",
+    "usage": "actif",
+    "definition_fr": "Avec dureté, ténacité ou acharnement.",
+    "translation_cn": "激烈地，顽强地",
+    "exemple": "Chaque article de loi est âprement négocié au Parlement.",
+    "note": "Adverbe souvent associé aux verbes de négociation.",
+    "context": "… des émissions, se sont engagés à verser aux pays en développement pour les aider à lutter contre les effets du changement climatique, reste âprement débattue.",
+    "synonymes": [
+     "ardemment",
+     "durément"
+    ],
+    "famille": [
+     "âpreté",
+     "âpre"
+    ],
+    "collocations": [
+     "âprement débattu",
+     "âprement disputé"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "icieil",
+    "kind": "expression",
+    "term": "jouer les prolongations",
+    "surface": "joue les prolongations",
+    "usage": "actif",
+    "definition_fr": "Se prolonger au-delà du temps imparti.",
+    "translation_cn": "加时，拖延",
+    "exemple": "Le sommet diplomatique joue les prolongations pour éviter l'échec.",
+    "note": "Expression issue du domaine sportif.",
+    "context": "En Turquie, la COP31 joue les prolongations.",
+    "collocations": [
+     "jouer les prolongations dans les négociations"
+    ]
+   },
+   {
+    "id": "vbl87e",
+    "kind": "expression",
+    "term": "arracher un accord",
+    "surface": "arracher des compromis",
+    "usage": "actif",
+    "definition_fr": "Obtenir un accord avec beaucoup de difficulté.",
+    "translation_cn": "艰难地达成协议/妥协",
+    "exemple": "Le gouvernement espère arracher un accord social avant minuit.",
+    "note": "Le verbe 'arracher' souligne l'effort physique ou moral intense.",
+    "context": "… terminer ce vendredi 20 novembre 2026 dans la soirée, les délégations de près de 200 pays tentent toujours d’arracher des compromis sur plusieurs points critiques.",
+    "collocations": [
+     "arracher un compromis",
+     "arracher un accord in extremis"
+    ]
+   },
+   {
+    "id": "152o4no",
+    "kind": "expression",
+    "term": "faire bondir",
+    "surface": "fait bondir",
+    "usage": "actif",
+    "definition_fr": "Susciter une vive indignation ou une forte réaction.",
+    "translation_cn": "令人发指，引发强烈激愤",
+    "exemple": "L'annonce de cette nouvelle taxe a fait bondir les syndicats.",
+    "note": "Registre familier soutenu très répandu dans le journalisme.",
+    "context": "… décision finale qui ne contient plus de mention explicite des énergies fossiles – pétrole, gaz et charbon, ce qui a fait bondir les organisations environnementales.",
+    "collocations": [
+     "faire bondir l'opposition",
+     "faire bondir les associations"
+    ]
+   },
+   {
+    "id": "16mbkwi",
+    "kind": "expression",
+    "term": "opposer une fin de non-recevoir",
+    "surface": "opposer une fin de non-recevoir",
+    "usage": "passif",
+    "definition_fr": "Refuser catégoriquement d'examiner une demande.",
+    "translation_cn": "拒绝考虑，绝不接受",
+    "exemple": "La direction a opposé une fin de non-recevoir aux revendications salariales.",
+    "note": "Origine juridique, très employée en politique et diplomatie.",
+    "context": "… l’Union européenne, le Japon, le Canada, la Norvège et le Royaume-Uni d’opposer une fin de non-recevoir aux demandes des pays du Sud sur cette question.",
+    "collocations": [
+     "opposer une fin de non-recevoir systématique"
+    ]
+   },
+   {
+    "id": "7h9k6c",
+    "kind": "expression",
+    "term": "faire face à",
+    "surface": "faire face à",
+    "usage": "actif",
+    "definition_fr": "Afronter une situation difficile ou un problème.",
+    "translation_cn": "应对，面对",
+    "exemple": "Les communes manquent de ressources pour faire face à la crise.",
+    "note": "Locution verbale incontournable de la vie publique.",
+    "context": "Au moment où nous parlons, les pays africains utilisent leurs budgets nationaux très limités pour faire face à ces impacts.",
+    "collocations": [
+     "faire face à la crise",
+     "faire face aux impacts"
+    ]
+   },
+   {
+    "id": "1jmvawk",
+    "kind": "expression",
+    "term": "se jouer",
+    "surface": "se jouait",
+    "usage": "actif",
+    "definition_fr": "Être le véritable enjeu d'une situation.",
+    "translation_cn": "关乎，生死攸关在于",
+    "exemple": "C'est l'avenir de l'industrie qui se joue dans cette décision.",
+    "note": "Emploi pronominal à valeur impersonnelle ou passive.",
+    "context": "Et que ce qui se jouait à Antalya n’était rien de moins qu’une remise en question de l’accord de Paris.",
+    "collocations": [
+     "ce qui se joue",
+     "se jouer lors du sommet"
+    ]
+   },
+   {
+    "id": "1j6549f",
+    "kind": "expression",
+    "term": "remise en question",
+    "surface": "remise en question",
+    "usage": "actif",
+    "definition_fr": "Fait de reconsidérer ou de contester quelque chose d'établi.",
+    "translation_cn": "质疑，重新审视",
+    "exemple": "Ce vote constitue une remise en question des traités existants.",
+    "note": "Nom féminin dérivé du verbe 'remettre en question'.",
+    "context": "Et que ce qui se jouait à Antalya n’était rien de moins qu’une remise en question de l’accord de Paris.",
+    "collocations": [
+     "remise en question fondamentale",
+     "entraîner une remise en question"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "yj8u7j",
+    "kind": "connecteur",
+    "term": "alors que",
+    "surface": "Alors que",
+    "usage": "actif",
+    "definition_fr": "Marque l'opposition ou la simultanéité entre deux faits.",
+    "translation_cn": "尽管，虽然",
+    "exemple": "Alors que le texte devait être voté, la séance a été suspendue.",
+    "note": "Suivi de l'indicatif.",
+    "context": "Alors que la grande conférence annuelle sur le changement climatique aurait dû se terminer ce vendredi 20 novembre 2026 dans la soirée, les délégations de …",
+    "fonction": "opposition"
+   },
+   {
+    "id": "tjs0ft",
+    "kind": "connecteur",
+    "term": "tandis que",
+    "surface": "tandis que",
+    "usage": "actif",
+    "definition_fr": "Exprime une opposition ou deux actions simultanées.",
+    "translation_cn": "而，与此同时",
+    "exemple": "Le Nord exige des réformes tandis que le Sud demande des aides financières.",
+    "note": "Suivi de l'indicatif.",
+    "context": "… démonter les pavillons nationaux au centre des expositions en périphérie d'Antalya, tandis que des négociateurs désorientés se demandaient s'il était temps de modifier leurs billets …",
+    "fonction": "opposition"
+   },
+   {
+    "id": "jcqsxv",
+    "kind": "connecteur",
+    "term": "toutefois",
+    "surface": "toutefois",
+    "usage": "actif",
+    "definition_fr": "Nuance une affirmation précédente ; équivalent de 'cependant'.",
+    "translation_cn": "然而，不过",
+    "exemple": "L'accord est en bonne voie ; toutefois, des blocages persistent.",
+    "note": "Placé au début ou après le verbe de la seconde proposition.",
+    "context": "… d'axer cette COP sur « l'électrification » des usages, sans dire toutefois si cette électricité devait provenir des renouvelables et du nucléaire ou du charbon …",
+    "fonction": "concession"
+   },
+   {
+    "id": "sr0i8j",
+    "kind": "connecteur",
+    "term": "au moment où",
+    "surface": "Au moment où",
+    "usage": "actif",
+    "definition_fr": "Indique la simultanéité temporelle précise.",
+    "translation_cn": "正当……之际",
+    "exemple": "Au moment où la séance commence, les observateurs publient leur rapport.",
+    "note": "Souligne l'instant exact où se produit l'action.",
+    "context": "Au moment où nous parlons, les pays africains utilisent leurs budgets nationaux très limités pour faire face à ces impacts.",
+    "fonction": "temps"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Alors que la grande conférence annuelle sur le changement climatique aurait dû se terminer ce vendredi 20 novembre 2026 dans la soirée, les délégations de …",
+    "structure": "Proposition subordonnée de concession au conditionnel passé + proposition principale au présent",
+    "explication": "La structure exprime un fait irréel ou non réalisé dans le passé ('aurait dû') mis en opposition avec une action en cours ('tentent toujours').",
+    "modele": "Alors que le projet de loi aurait dû être adopté en début de semaine, les députés continuent d'en débattre lourdement."
+   },
+   {
+    "surface": "Signe d'intenses tractations, une douzaine de pays, dont la France, le Panama et la Côte d'Ivoire, ont exigé en début d'après-midi que la décision finale …",
+    "structure": "Apposition nominale synthétique en tête de phrase",
+    "explication": "L'expression 'Signe de...' qualifie d'emblée toute l'action décrite ensuite sans utiliser de verbe, ce qui condense le style journalistique.",
+    "modele": "Preuve de vives tensions diplomatiques, plusieurs ambassadeurs ont été rappelés d'urgence par leur gouvernement."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Nous sommes proches de la ligne d'arrivée, mais nous n'y sommes pas encore tout à fait",
+    "figure": "Métaphore sportive",
+    "effet": "Rendre compte de l'état des négociations de manière visuelle et accessible pour souligner l'urgence et la proximité d'un résultat."
+   },
+   {
+    "surface": "Pour éviter de rejouer la même pièce",
+    "figure": "Métaphore théâtrale",
+    "effet": "Déprécier la répétition des mêmes blocages politiques en les assimilant à une comédie jouée d'avance."
+   }
+  ],
+  "dropped": 2
+ }
+}
