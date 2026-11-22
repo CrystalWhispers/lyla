@@ -1,0 +1,523 @@
+{
+ "id": "2026-11-22-1w5kq",
+ "date": "2026-11-22",
+ "title": "Climat : accord incertain à la COP31, des pays dénoncent l'absence de sortie des énergies fossiles",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 729,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Négociations tendues à la COP31 sur les énergies fossiles",
+  "summary": "Les négociations de la COP31 s'éternisent en Turquie en raison de désaccords majeurs sur la mention de la sortie des énergies fossiles et le financement climatique. L'absence de consensus entre pays vulnérables et producteurs d'hydrocarbures fait peser un risque d'échec sur la conférence.",
+  "theme": "Énergie & climat",
+  "vocabulaire": [
+   {
+    "id": "107vzl7",
+    "kind": "vocab",
+    "term": "un compromis (m.)",
+    "surface": "compromis",
+    "usage": "actif",
+    "definition_fr": "Accord obtenu par des concessions mutuelles.",
+    "translation_cn": "妥协，折中 proposals",
+    "exemple": "Les États membres ont enfin trouvé un compromis sur la régulation fiscale.",
+    "note": "Souvent utilisé en contexte diplomatique et parlementaire.",
+    "context": "Des pays dénoncent l'absence de mention de la sortie des énergies fossiles dans la nouvelle proposition de compromis diffusée durant la nuit.",
+    "synonymes": [
+     "une concession (f.)",
+     "un arrangement (m.)"
+    ],
+    "famille": [
+     "compromettre",
+     "compromettant"
+    ],
+    "collocations": [
+     "trouver un compromis",
+     "texte de compromis",
+     "faire des compromis"
+    ]
+   },
+   {
+    "id": "1p1bwaf",
+    "kind": "vocab",
+    "term": "une allusion (f.)",
+    "surface": "allusion",
+    "usage": "actif",
+    "definition_fr": "Mention indirecte ou implicite de quelque chose.",
+    "translation_cn": "暗示，影射",
+    "exemple": "Le communiqué officiel fait une discrète allusion aux tensions transfrontalières.",
+    "note": "S'emploie très souvent avec la préposition 'à'.",
+    "context": "Il se contente d'une discrète allusion au résultat de la COP28 de Dubaï, qui avait en 2023 pour la première fois appelé les pays du …",
+    "synonymes": [
+     "une insinuation (f.)",
+     "une référence (f.)"
+    ],
+    "famille": [
+     "allusif",
+     "faire allusion"
+    ],
+    "collocations": [
+     "faire allusion à",
+     "une discrète allusion",
+     "une allusion directe"
+    ]
+   },
+   {
+    "id": "1lgstah",
+    "kind": "vocab",
+    "term": "un recours (m.)",
+    "surface": "recours",
+    "usage": "actif",
+    "definition_fr": "Action d'utiliser un moyen ou une méthode pour résoudre un problème.",
+    "translation_cn": "借助，求助，诉求",
+    "exemple": "Le recours aux énergies renouvelables s'est accéléré cette année.",
+    "note": "Attention au double sens : moyen utilisé ou action en justice.",
+    "context": "Ce texte demande aussi d'accélérer le recours aux technologies de captation, utilisation et stockage du carbone (CCUS), promues par les entreprises pétro-gazières, une autre pomme …",
+    "synonymes": [
+     "un emploi (m.)",
+     "une utilisation (f.)"
+    ],
+    "famille": [
+     "recourir"
+    ],
+    "collocations": [
+     "avoir recours à",
+     "accélérer le recours",
+     "un recours juridique"
+    ]
+   },
+   {
+    "id": "1y54ubh",
+    "kind": "vocab",
+    "term": "une supercherie (f.)",
+    "surface": "supercherie",
+    "usage": "passif",
+    "definition_fr": "Tromperie ruse et calculée pour faire passer le faux pour le vrai.",
+    "translation_cn": "骗局，欺诈",
+    "exemple": "Les associations ont dénoncé une vaste supercherie de la part des grands polluants.",
+    "note": "Terme fort, très usité dans le discours militant ou critique.",
+    "context": "… de tomber dans le piège\" du captage du carbone, une \"supercherie\" poussée par l'industrie des énergies fossiles, a déploré Sara Shaw, une responsable de cette …",
+    "synonymes": [
+     "une tromperie (f.)",
+     "une imposture (f.)"
+    ],
+    "famille": [],
+    "collocations": [
+     "une vaste supercherie",
+     "dénoncer une supercherie"
+    ]
+   },
+   {
+    "id": "19s9myp",
+    "kind": "vocab",
+    "term": "substantiel (adj.)",
+    "surface": "substantiel",
+    "usage": "actif",
+    "definition_fr": "Qui est important, solide ou essentiel.",
+    "translation_cn": "实质性的，重大的",
+    "exemple": "Les deux nations cherchent à conclure un accord substantiel sur le commerce.",
+    "note": "Qualifie très souvent des résultats, des gains ou des accords.",
+    "context": "Un accord substantiel est encore loin d'être acquis, dans un contexte géopolitique difficile, marqué par la flambée des prix de l'énergie liée à la guerre …",
+    "synonymes": [
+     "considérable",
+     "significatif",
+     "majeur"
+    ],
+    "famille": [
+     "la substance",
+     "substantiellement"
+    ],
+    "collocations": [
+     "un accord substantiel",
+     "des progrès substantiels",
+     "une hausse substantielle"
+    ]
+   },
+   {
+    "id": "110r2kh",
+    "kind": "vocab",
+    "term": "plafonner (v.)",
+    "surface": "plafonner",
+    "usage": "actif",
+    "definition_fr": "Fixer une limite maximale à ne pas dépasser.",
+    "translation_cn": "封顶，把…限制在一定水平",
+    "exemple": "Le gouvernement envisage de plafonner les tarifs de l'électricité.",
+    "note": "S'emploie aussi en sens intransitif : 'la croissance plafonne à 1%'.",
+    "context": "Le projet d'accord insiste aussi sur l'importance de plafonner le réchauffement climatique à 1,5°C par rapport à la période 1850-1900, une demande majeure des petites …",
+    "synonymes": [
+     "limiter",
+     "bloquer",
+     "restreindre"
+    ],
+    "famille": [
+     "un plafond (m.)",
+     "le plafonnement (m.)"
+    ],
+    "collocations": [
+     "plafonner le réchauffement",
+     "plafonner les dépenses",
+     "plafonner les prix"
+    ]
+   },
+   {
+    "id": "1n83q8",
+    "kind": "vocab",
+    "term": "une égide (f.)",
+    "surface": "égide",
+    "usage": "passif",
+    "definition_fr": "Protection ou patronage d'une autorité ou d'une institution.",
+    "translation_cn": "庇护，主持，在…的主持/保护下",
+    "exemple": "Les discussions se tiennent sous l'égide des Nations unies.",
+    "note": "Presque exclusivement employé dans la locution 'sous l'égide de'.",
+    "context": "… dimanche évoque enfin la question, également disputée, du calendrier de publication des prochains rapports du Giec, le groupe de scientifiques travaillant sous l'égide de l'ONU.",
+    "synonymes": [
+     "un patronage (m.)",
+     "une sous la conduite de"
+    ],
+    "famille": [],
+    "collocations": [
+     "sous l'égide de",
+     "placer sous l'égide"
+    ]
+   },
+   {
+    "id": "tkz4ie",
+    "kind": "vocab",
+    "term": "un préavis (m.) / prévenir (v.)",
+    "surface": "prévenu",
+    "usage": "actif",
+    "definition_fr": "Informer à l'avance d'une intention ou d'un risque.",
+    "translation_cn": "预先警告，提前通知",
+    "exemple": "Les ministres avaient prévenu qu'aucun budget supplémentaire ne serait alloué.",
+    "note": "Participe passé du verbe prévenir.",
+    "context": "Les Européens avaient prévenu avant la COP qu'ils n'avaient aucunement l'intention d'apporter des financements supplémentaires, mais simplement d'assurer des engagements passés.",
+    "synonymes": [
+     "avertir",
+     "informer"
+    ],
+    "famille": [
+     "prévenant",
+     "la prévention"
+    ],
+    "collocations": [
+     "prévenir à l'avance",
+     "être prévenu"
+    ]
+   },
+   {
+    "id": "1c7s3c0",
+    "kind": "vocab",
+    "term": "une flambée (f.)",
+    "surface": "flambée",
+    "usage": "actif",
+    "definition_fr": "Augmentation subite et très rapide d'une valeur ou d'un prix.",
+    "translation_cn": "（价格等）暴涨，激增",
+    "exemple": "La flambée des cours du pétrole inquiète les marchés financiers.",
+    "note": "Registres économique et social fréquents.",
+    "context": "… substantiel est encore loin d'être acquis, dans un contexte géopolitique difficile, marqué par la flambée des prix de l'énergie liée à la guerre au Moyen-Orient.",
+    "synonymes": [
+     "une envolée (f.)",
+     "une explosion (f.)"
+    ],
+    "famille": [
+     "flamber"
+    ],
+    "collocations": [
+     "la flambée des prix",
+     "une flambée de violence",
+     "la flambée du brut"
+    ]
+   },
+   {
+    "id": "s3mqmn",
+    "kind": "vocab",
+    "term": "une urgence (f.)",
+    "surface": "urgence",
+    "usage": "actif",
+    "definition_fr": "Caractère de ce qui demande une action immédiate.",
+    "translation_cn": "紧急，紧急情况",
+    "exemple": "Face à l'urgence environnementale, des mesures drastiques sont exigées.",
+    "note": "Très fréquent dans le débat environnemental politique.",
+    "context": "… onusien, mais la Turquie espère le conclure avec des avancées face à l'urgence climatique, la planète subissant toujours davantage les effets du réchauffement d'origine humaine.",
+    "synonymes": [
+     "une nécessité (f.)",
+     "une priorité (f.)"
+    ],
+    "famille": [
+     "urgent",
+     "urgemment"
+    ],
+    "collocations": [
+     "l'urgence climatique",
+     "état d'urgence",
+     "agir dans l'urgence"
+    ]
+   },
+   {
+    "id": "2ztkyr",
+    "kind": "vocab",
+    "term": "un engagement (m.)",
+    "surface": "engagements",
+    "usage": "actif",
+    "definition_fr": "Promesse ferme prise par une partie ou un État.",
+    "translation_cn": "承诺，保证",
+    "exemple": "Les États doivent respecter leurs engagements financiers envers les pays du Sud.",
+    "note": "Terme central de la diplomatie multilatérale.",
+    "context": "Les Européens avaient prévenu avant la COP qu'ils n'avaient aucunement l'intention d'apporter des financements supplémentaires, mais simplement d'assurer des engagements passés.",
+    "synonymes": [
+     "une promesse (f.)",
+     "une obligation (f.)"
+    ],
+    "famille": [
+     "s'engager",
+     "engageant"
+    ],
+    "collocations": [
+     "tenir ses engagements",
+     "assurer des engagements",
+     "prendre un engagement"
+    ]
+   },
+   {
+    "id": "8j1mhj",
+    "kind": "vocab",
+    "term": "une avancée (f.)",
+    "surface": "avancées",
+    "usage": "actif",
+    "definition_fr": "Progrès réalisé dans une négociation ou un projet.",
+    "translation_cn": "进展，突破",
+    "exemple": "La conférence a permis de concrétiser quelques avancées majeures.",
+    "note": "S'utilise au figuré pour désigner un progrès diplomatique.",
+    "context": "… grand rendez-vous onusien, mais la Turquie espère le conclure avec des avancées face à l'urgence climatique, la planète subissant toujours davantage les effets du réchauffement …",
+    "synonymes": [
+     "un progrès (m.)",
+     "une percée (f.)"
+    ],
+    "famille": [
+     "avancer"
+    ],
+    "collocations": [
+     "une avancée majeure",
+     "marquer des avancées",
+     "obtenir une avancée"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "vbl87e",
+    "kind": "expression",
+    "term": "arracher un accord",
+    "surface": "arracher un accord",
+    "usage": "actif",
+    "definition_fr": "Obtenir un consensus après de très difficiles négociations.",
+    "translation_cn": "艰难地达成协议",
+    "exemple": "Les diplomates espèrent arracher un accord avant le terme des négociations.",
+    "note": "Suggère un effort extrême et une vive résistance.",
+    "context": "Les discussions se poursuivent pour tenter d'arracher un accord sur le climat dimanche 22 novembre en Turquie, lors de la COP31.",
+    "collocations": [
+     "tentative d'arracher un accord",
+     "arracher un compromis"
+    ]
+   },
+   {
+    "id": "j22jas",
+    "kind": "expression",
+    "term": "faire marche arrière",
+    "surface": "faisons marche arrière",
+    "usage": "actif",
+    "definition_fr": "Reculer, revenir sur des concessions ou des progrès antérieurs.",
+    "translation_cn": "倒退，让步，改变立场",
+    "exemple": "Sur la question des régulations environnementales, le gouvernement refuse de faire marche arrière.",
+    "note": "Usage métaphorique très courant dans le discours public.",
+    "context": "\"Je pense que nous faisons marche arrière.",
+    "collocations": [
+     "faire marche arrière toute",
+     "refuser de faire marche arrière"
+    ]
+   },
+   {
+    "id": "ktjat9",
+    "kind": "expression",
+    "term": "abonder dans le sens de / abonder (v.)",
+    "surface": "a abondé",
+    "usage": "actif",
+    "definition_fr": "Confirmer les propos d'une autre personne ou aller dans la même direction.",
+    "translation_cn": "赞同，补充说明（支持某观点）",
+    "exemple": "La délégation française a abondé dans le sens des recommandations du rapport.",
+    "note": "Dans la presse, 'a abondé' s'emploie souvent pour 'a ajouté en confirmant'.",
+    "context": "\"La situation est difficile et le résultat incertain\", a abondé une source allemande.",
+    "collocations": [
+     "abonder dans le sens de",
+     "abonder les propos"
+    ]
+   },
+   {
+    "id": "1m0m09b",
+    "kind": "expression",
+    "term": "une pomme de discorde",
+    "surface": "pomme de discorde",
+    "usage": "actif",
+    "definition_fr": "Sujet principal de dispute ou de désaccord.",
+    "translation_cn": "争端之源，分歧焦点",
+    "exemple": "Le financement des aides publiques constitue la principale pomme de discorde entre les partenaires.",
+    "note": "Expression imagée d'origine mythologique très vivante à l'écrit.",
+    "context": "… demande aussi d'accélérer le recours aux technologies de captation, utilisation et stockage du carbone (CCUS), promues par les entreprises pétro-gazières, une autre pomme de discorde.",
+    "collocations": [
+     "être une pomme de discorde",
+     "devenir la pomme de discorde"
+    ]
+   },
+   {
+    "id": "jujfvb",
+    "kind": "expression",
+    "term": "faire peser le risque",
+    "surface": "faisant peser le risque",
+    "usage": "actif",
+    "definition_fr": "Faire craindre l'apparition d'un danger ou d'un problème.",
+    "translation_cn": "带来…的风险，使…面临风险",
+    "exemple": "L'absence de quorum fait peser le risque d'une annulation du scrutin.",
+    "note": "Verbe 'peser' suivi de la préposition 'sur' ou suivi directement du nom.",
+    "context": "Beaucoup de négociateurs sont déjà partis, faisant peser le risque d'un nombre de participants insuffisant pour approuver un accord sur le plan juridique.",
+    "collocations": [
+     "faire peser une menace",
+     "faire peser un risque juridique"
+    ]
+   },
+   {
+    "id": "16wmkjx",
+    "kind": "expression",
+    "term": "tomber dans le piège",
+    "surface": "tomber dans le piège",
+    "usage": "actif",
+    "definition_fr": "Se laisser duper par une stratégie trompeuse.",
+    "translation_cn": "落入圈套，上当",
+    "exemple": "Les négotiateurs doivent faire attention à ne pas tomber dans le piège des fausses promesses.",
+    "note": "S'utilise dans un cadre rhétorique et militant.",
+    "context": "\"Nos dirigeants sont sur le point de tomber dans le piège\" du captage du carbone, une \"supercherie\" poussée par l'industrie des énergies fossiles, a déploré …",
+    "collocations": [
+     "éviter de tomber dans le piège",
+     "tomber dans le piège de"
+    ]
+   },
+   {
+    "id": "zem8s",
+    "kind": "expression",
+    "term": "être loin d'être acquis",
+    "surface": "loin d'être acquis",
+    "usage": "actif",
+    "definition_fr": "Être encore incertain, ne pas être du tout garanti.",
+    "translation_cn": "远未达成，八字还没一撇",
+    "exemple": "Le vote positif du Parlement est encore loin d'être acquis.",
+    "note": "Formule très élégante pour exprimer le doute sur une issue.",
+    "context": "Un accord substantiel est encore loin d'être acquis, dans un contexte géopolitique difficile, marqué par la flambée des prix de l'énergie liée à la guerre …",
+    "collocations": [
+     "succès loin d'être acquis",
+     "résultat loin d'être acquis"
+    ]
+   },
+   {
+    "id": "1jsxzer",
+    "kind": "expression",
+    "term": "âprement débattue",
+    "surface": "âprement débattue",
+    "usage": "actif",
+    "definition_fr": "Discutée de façon très intense, dure et vive.",
+    "translation_cn": "激烈争论的",
+    "exemple": "La répartition des subventions reste une question âprement débattue par le conseil.",
+    "note": "L'adverbe 'âprement' apporte une forte nuance d'intensité.",
+    "context": "Autre question âprement débattue : les financements que les pays développés, historiquement responsables de la plupart des émissions, se sont engagés à verser aux pays …",
+    "collocations": [
+     "question âprement débattue",
+     "sujet âprement discuté"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "yj8u7j",
+    "kind": "connecteur",
+    "term": "alors que",
+    "surface": "Alors que",
+    "usage": "actif",
+    "definition_fr": "Marque le contraste, l'opposition ou la simultanéité.",
+    "translation_cn": "尽管，在…的同时",
+    "exemple": "Alors que la crise s'aggrave, les réformes tardent à être mises en œuvre.",
+    "note": "Suivi de l'indicatif.",
+    "context": "Alors que la conférence de l'ONU a déjà explosé le calendrier officiel, il existe une \"possibilité très réelle\" qu'elle se termine sans accord, a lancé …",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1d1iwpy",
+    "kind": "connecteur",
+    "term": "en revanche",
+    "surface": "en revanche",
+    "usage": "actif",
+    "definition_fr": "Sert à introduire une opposition valorisante ou un élément compensatoire.",
+    "translation_cn": "然而，相比之下",
+    "exemple": "Le premier projet a échoué ; en revanche, la nouvelle proposition fait l'unanimité.",
+    "note": "Préférable à 'par contre' dans un registre soutenu.",
+    "context": "Le projet de décision contient en revanche l'objectif, porté par la Turquie, d'augmenter \"la part de l'électricité dans la consommation finale totale d'énergie à 35 …",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1ome2c2",
+    "kind": "connecteur",
+    "term": "en particulier",
+    "surface": "en particulier",
+    "usage": "actif",
+    "definition_fr": "Permet de préciser ou de mettre l'accent sur un point précis.",
+    "translation_cn": "特别是，尤其是",
+    "exemple": "Les pays membres, en particulier les plus vulnérables, demandent une aide d'urgence.",
+    "note": "S'insère souvent entre virgules.",
+    "context": "org a dénoncé ce projet de décision finale, en particulier l'appel à développer les technologies de captation, utilisation et stockage du carbone (CCUS).",
+    "fonction": "reformulation"
+   },
+   {
+    "id": "1sqnl2p",
+    "kind": "connecteur",
+    "term": "en l'absence de",
+    "surface": "en l'absence une nouvelle fois des",
+    "usage": "actif",
+    "definition_fr": "En raison du fait que quelqu'un ou quelque chose n'est pas présent.",
+    "translation_cn": "在缺乏/缺少…的情况下",
+    "exemple": "En l'absence de consensus, le président a suspendu la séance.",
+    "note": "Suivi d'un nom sans article ou avec article défini.",
+    "context": "Et en l'absence une nouvelle fois des États-Unis.",
+    "fonction": "cause"
+   },
+   {
+    "id": "1l8lqj7",
+    "kind": "connecteur",
+    "term": "enfin",
+    "surface": "enfin",
+    "usage": "actif",
+    "definition_fr": "Marque le dernier point d'une série ou d'une argumentation.",
+    "translation_cn": "最后，终于",
+    "exemple": "Le rapport aborde enfin la question cruciale des investissements verts.",
+    "note": "Sert à ordonner le discours.",
+    "context": "Le projet de compromis de dimanche évoque enfin la question, également disputée, du calendrier de publication des prochains rapports du Giec, le groupe de scientifiques …",
+    "fonction": "addition"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "il existe une \"possibilité très réelle\" qu'elle se termine sans accord, a lancé un responsable",
+    "structure": "Inversion du sujet dans le discours rapporté",
+    "explication": "Inversion systématique du sujet et du verbe de parole placés en incise après une citation directe.",
+    "modele": "\"Le compromis reste possible\", a affirmé le premier ministre devant la presse."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "une \"supercherie\" poussée par l'industrie des énergies fossiles",
+    "figure": "Métaphore polémique",
+    "effet": "Discrédite catégoriquement l'argument adverse en lui attribuant une intention malveillante et trompeuse."
+   }
+  ],
+  "dropped": 2
+ }
+}
