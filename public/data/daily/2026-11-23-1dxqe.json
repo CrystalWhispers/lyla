@@ -1,0 +1,520 @@
+{
+ "id": "2026-11-23-1dxqe",
+ "date": "2026-11-23",
+ "title": "Ukraine: au moins 15 morts après des frappes russes dans la région de Kiev, des habitants privés d'eau",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/europe/20261123-ukraine-au-moins-15-morts-apr%C3%A8s-des-frappes-russes-dans-la-r%C3%A9gion-de-kiev-des-habitants-priv%C3%A9s-d-eau",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 826,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Frappes russes en Ukraine et escalade diplomatique régionale",
+  "summary": "Face à l'intensification des frappes russes visant les infrastructures civiles et énergétiques à Kiev, l'Ukraine multiplie les ripostes ciblées en profondeur. Dans ce contexte de tension accrue, l'Otan se réunit en urgence alors que des négociations internationales quadripartites sont évoquées.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "c5onqg",
+    "kind": "vocab",
+    "term": "un bilan (m.)",
+    "surface": "bilan",
+    "usage": "actif",
+    "definition_fr": "Résultat chiffré d'une situation ou d'un événement",
+    "translation_cn": "伤亡统计；结果",
+    "exemple": "",
+    "note": "",
+    "context": "… frappes russes dans la région de Kiev, dont 11 dans l'effondrement partiel d'un immeuble résidentiel, selon le dernier bilan des autorités ce lundi 23 novembre.",
+    "synonymes": [
+     "résultat",
+     "compte rendu",
+     "état des lieux"
+    ],
+    "famille": [
+     "bilanciel"
+    ],
+    "collocations": [
+     "bilan humain",
+     "alourdir le bilan",
+     "dresser un bilan"
+    ]
+   },
+   {
+    "id": "4cpdck",
+    "kind": "vocab",
+    "term": "une répercussion (f.)",
+    "surface": "répercussions",
+    "usage": "actif",
+    "definition_fr": "Conséquence indirecte et prolongée d'un événement",
+    "translation_cn": "反响；影响",
+    "exemple": "",
+    "note": "",
+    "context": "Une réunion de l'Otan est prévue au sujet du conflit et de ses répercussions en Europe.",
+    "synonymes": [
+     "conséquence",
+     "impact",
+     "retombée"
+    ],
+    "famille": [
+     "répercuter"
+    ],
+    "collocations": [
+     "répercussions économiques",
+     "avoir des répercussions",
+     "mesurer les répercussions"
+    ]
+   },
+   {
+    "id": "idp20x",
+    "kind": "vocab",
+    "term": "des gravats (m.pl.)",
+    "surface": "gravats",
+    "usage": "passif",
+    "definition_fr": "Débris de démolition ou de destruction de bâtiments",
+    "translation_cn": "瓦砾；废墟碎片",
+    "exemple": "",
+    "note": "",
+    "context": "Des images de l'AFP montraient les secours fouillant le tas de gravats fumants après l'effondrement partiel du bâtiment.",
+    "synonymes": [
+     "décombres",
+     "débris"
+    ],
+    "famille": [
+     "gravois"
+    ],
+    "collocations": [
+     "tas de gravats",
+     "dégager les gravats"
+    ]
+   },
+   {
+    "id": "1wa113t",
+    "kind": "vocab",
+    "term": "des décombres (m.pl.)",
+    "surface": "décombres",
+    "usage": "passif",
+    "definition_fr": "Ensemble des ruines d'un édifice écroulé",
+    "translation_cn": "废墟；瓦砾堆",
+    "exemple": "",
+    "note": "",
+    "context": "Les secours ont réussi à sortir vivants des décombres un enfant et une femme de 79 ans, selon Tymour Tkatchenko.",
+    "synonymes": [
+     "ruines",
+     "gravats"
+    ],
+    "famille": [],
+    "collocations": [
+     "sortir des décombres",
+     "fouiller les décombres"
+    ]
+   },
+   {
+    "id": "spmj21",
+    "kind": "vocab",
+    "term": "des représailles (f.pl.)",
+    "surface": "représailles",
+    "usage": "actif",
+    "definition_fr": "Mesures de violence exercées en réponse à une attaque",
+    "translation_cn": "报复行动",
+    "exemple": "",
+    "note": "",
+    "context": "… que le président russe Vladimir Poutine eut promis d'infliger à l'Ukraine de « douloureuses » représailles à ses récentes frappes contre le pont de Crimée.",
+    "synonymes": [
+     "riposte",
+     "vengeance",
+     "sanction"
+    ],
+    "famille": [
+     "représailler"
+    ],
+    "collocations": [
+     "exercer des représailles",
+     "en représailles à",
+     "craindre des représailles"
+    ]
+   },
+   {
+    "id": "1g5d3no",
+    "kind": "vocab",
+    "term": "un médiateur (m.)",
+    "surface": "médiateur",
+    "usage": "actif",
+    "definition_fr": "Personne ou institution chargée de faciliter un accord ou de défendre des droits",
+    "translation_cn": "调解人；人权专员",
+    "exemple": "",
+    "note": "",
+    "context": "… responsable et agissez maintenant pour mettre fin au massacre d'Ukrainiens innocents », a dénoncé le médiateur ukrainien pour les droits humains, Dmytro Lubinets, sur X.",
+    "synonymes": [
+     "intermédiaire",
+     "conciliateur"
+    ],
+    "famille": [
+     "médiation",
+     "médiatiser",
+     "médiatique"
+    ],
+    "collocations": [
+     "médiateur de la République",
+     "rôle de médiateur"
+    ]
+   },
+   {
+    "id": "1kw7kni",
+    "kind": "vocab",
+    "term": "le délestage (m.)",
+    "surface": "délestage",
+    "usage": "actif",
+    "definition_fr": "Interruption volontaire et programmée de la fourniture d'électricité ou d'eau pour éviter la pénurie globale",
+    "translation_cn": "轮流停电/限水；拉闸限电",
+    "exemple": "",
+    "note": "",
+    "context": "Des habitants des banlieues dénoncent la disparité du délestage de l’eau et de l'électricité par rapport au centre-ville de la capitale.",
+    "synonymes": [
+     "coupure ciblée",
+     "rationnement"
+    ],
+    "famille": [
+     "délester",
+     "lest"
+    ],
+    "collocations": [
+     "délestage électrique",
+     "programme de délestage"
+    ]
+   },
+   {
+    "id": "1dazmw5",
+    "kind": "vocab",
+    "term": "une disparité (f.)",
+    "surface": "disparité",
+    "usage": "actif",
+    "definition_fr": "Manque d'égalité ou d'harmonie entre des éléments",
+    "translation_cn": "不平等；差距",
+    "exemple": "",
+    "note": "",
+    "context": "Des habitants des banlieues dénoncent la disparité du délestage de l’eau et de l'électricité par rapport au centre-ville de la capitale.",
+    "synonymes": [
+     "Inégalité",
+     "écart",
+     "déséquilibre"
+    ],
+    "famille": [
+     "disparate"
+    ],
+    "collocations": [
+     "disparité salariale",
+     "disparité régionale"
+    ]
+   },
+   {
+    "id": "3jgz8c",
+    "kind": "vocab",
+    "term": "un cargo (m.)",
+    "surface": "cargo",
+    "usage": "actif",
+    "definition_fr": "Gros navire destiné au transport des marchandises",
+    "translation_cn": "货轮",
+    "exemple": "",
+    "note": "",
+    "context": "… samedi matin une attaque de drone ayant incendié Sparta II, un cargo russe qui se trouvait dans les eaux internationales, dans l'est du golfe de …",
+    "synonymes": [
+     "pétrolier",
+     "porte-conteneurs"
+    ],
+    "famille": [],
+    "collocations": [
+     "cargo de marchandises",
+     "navire cargo"
+    ]
+   },
+   {
+    "id": "kxnfca",
+    "kind": "vocab",
+    "term": "la souveraineté (f.)",
+    "surface": "souveraineté",
+    "usage": "actif",
+    "definition_fr": "Pouvoir suprême reconnu à un État sur son territoire et sa population",
+    "translation_cn": "主权",
+    "exemple": "",
+    "note": "",
+    "context": "… - dans le port libyen de Benghazi, condamnée par l'ONU qui a réclamé une enquête indépendante et réclamé le respect de la souveraineté du pays.",
+    "synonymes": [
+     "indépendance",
+     "autorité"
+    ],
+    "famille": [
+     "souverain"
+    ],
+    "collocations": [
+     "respect de la souveraineté",
+     "souveraineté nationale",
+     "atteinte à la souveraineté"
+    ]
+   },
+   {
+    "id": "1isxo0k",
+    "kind": "vocab",
+    "term": "un organe (m.)",
+    "surface": "organe",
+    "usage": "actif",
+    "definition_fr": "Institution ou assemblee chargée d'une fonction spécifique au sein d'une organisation",
+    "translation_cn": "机构；机关",
+    "exemple": "",
+    "note": "",
+    "context": "… sera discuté lors d'une réunion du Conseil de l'Atlantique Nord, principal organe de décision politique de l'Otan, ce lundi à Bruxelles, a indiqué samedi à …",
+    "synonymes": [
+     "instance",
+     "comité",
+     "institution"
+    ],
+    "famille": [
+     "organisation",
+     "organique"
+    ],
+    "collocations": [
+     "organe de décision",
+     "organe exécutif"
+    ]
+   },
+   {
+    "id": "xkq7oi",
+    "kind": "vocab",
+    "term": "une configuration (f.)",
+    "surface": "configuration",
+    "usage": "actif",
+    "definition_fr": "Disposition particulière d'éléments à un moment donné",
+    "translation_cn": "格局；形式",
+    "exemple": "",
+    "note": "",
+    "context": "Cette configuration serait une première.",
+    "synonymes": [
+     "forme",
+     "format",
+     "structure"
+    ],
+    "famille": [
+     "configurer"
+    ],
+    "collocations": [
+     "nouvelle configuration",
+     "configuration politique"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "ag5bb8",
+    "kind": "expression",
+    "term": "s'alourdir au fil des heures",
+    "surface": "s'alourdir au fil des heures",
+    "usage": "actif",
+    "definition_fr": "Augmenter progressivement en nombre au fur et à mesure que le temps passe",
+    "translation_cn": "（伤亡人数）随时间的推移不断上升",
+    "exemple": "Le bilan humain du séisme continue de s'alourdir au fil des heures.",
+    "note": "Très fréquent dans le vocabulaire journalistique des catastrophes et conflits.",
+    "context": "Le bilan n'a cessé de s'alourdir au fil des heures, atteignant onze morts lundi matin, selon le gouverneur militaire de la région de Kiev, Tymour …",
+    "collocations": [
+     "le bilan s'alourdit"
+    ]
+   },
+   {
+    "id": "1vt0m73",
+    "kind": "expression",
+    "term": "détourner le regard",
+    "surface": "détourner le regard",
+    "usage": "actif",
+    "definition_fr": "Refuser de voir une réalité dérangeante ou d'intervenir",
+    "translation_cn": "回避；袖手旁观",
+    "exemple": "La communauté internationale ne peut pas détourner le regard face à cette crise humanitaire.",
+    "note": "Registre soutenu souvent employé dans les réquisitoires politiques.",
+    "context": "« Le monde doit cesser de détourner le regard.",
+    "collocations": [
+     "détourner le regard face à la crise"
+    ]
+   },
+   {
+    "id": "frr7hf",
+    "kind": "expression",
+    "term": "tenir responsable",
+    "surface": "tenez la Russie pour responsable",
+    "usage": "actif",
+    "definition_fr": "Attribuer la faute ou la charge des conséquences d'un acte à quelqu'un",
+    "translation_cn": "追究……的责任",
+    "exemple": "Le Conseil de sécurité doit tenir ce régime pour responsable des violations commises.",
+    "note": "S'emploie fréquemment avec la préposition « pour ».",
+    "context": "Condamnez ce terrorisme, tenez la Russie pour responsable et agissez maintenant pour mettre fin au massacre d'Ukrainiens innocents », a dénoncé le médiateur ukrainien pour …",
+    "collocations": [
+     "tenir pour responsable",
+     "être tenu responsable"
+    ]
+   },
+   {
+    "id": "1l9yywk",
+    "kind": "expression",
+    "term": "frapper en profondeur",
+    "surface": "frappes en profondeur",
+    "usage": "actif",
+    "definition_fr": "Attaquer des cibles situées loin derrière la ligne de front adverse",
+    "translation_cn": "纵深打击",
+    "exemple": "L'armée de l'air a reçu l'autorisation d'effectuer des frappes en profondeur sur les centres logistiques.",
+    "note": "Terme militaire devenu courant dans le débat géopolitique.",
+    "context": "L'Ukraine intensifie également ses frappes en profondeur",
+    "collocations": [
+     "capacités de frappe en profondeur",
+     "effectuer des frappes en profondeur"
+    ]
+   },
+   {
+    "id": "whn9a1",
+    "kind": "expression",
+    "term": "un passage maritime clé",
+    "surface": "passage maritime clé",
+    "usage": "actif",
+    "definition_fr": "Voie de navigation d'une importance stratégique majeure",
+    "translation_cn": "关键海上通道",
+    "exemple": "Le détroit constitue un passage maritime clé pour l'approvisionnement en pétrole.",
+    "note": "Aussi orthographié « clef ».",
+    "context": "… Sparta II, un cargo russe qui se trouvait dans les eaux internationales, dans l'est du golfe de Finlande, un passage maritime clé pour la Russie.",
+    "collocations": [
+     "contrôler un passage maritime clé"
+    ]
+   },
+   {
+    "id": "ouae6w",
+    "kind": "expression",
+    "term": "réclamer une enquête indépendante",
+    "surface": "réclamé une enquête indépendante",
+    "usage": "actif",
+    "definition_fr": "Exiger officiellement une investigation neutre et impariale",
+    "translation_cn": "要求进行独立调查",
+    "exemple": "L'ONG a réclamé une enquête indépendante pour faire la lumière sur les événements.",
+    "note": "Formule consacrée du droit international humanitaire.",
+    "context": "… - dans le port libyen de Benghazi, condamnée par l'ONU qui a réclamé une enquête indépendante et réclamé le respect de la souveraineté du pays.",
+    "collocations": [
+     "dilenter une enquête indépendante"
+    ]
+   },
+   {
+    "id": "ql8475",
+    "kind": "expression",
+    "term": "défendre chaque pouce de territoire",
+    "surface": "défendrait chaque pouce de territoire",
+    "usage": "actif",
+    "definition_fr": "Protéger la totalité intégrale d'un pays sans en céder la moindre parcelle",
+    "translation_cn": "捍卫每一寸领土",
+    "exemple": "L'alliance militaire a réaffirmé son engagement à défendre chaque pouce de territoire de ses membres.",
+    "note": "Expression métaphorique à valeur d'engagement absolu.",
+    "context": "L'Otan a promis qu'elle « défendrait chaque pouce de territoire polonais ».",
+    "collocations": [
+     "défendre chaque pouce de terre"
+    ]
+   },
+   {
+    "id": "l8ropf",
+    "kind": "expression",
+    "term": "à l'issue de",
+    "surface": "À l'issue d'un",
+    "usage": "actif",
+    "definition_fr": "À la fin de, au terme de",
+    "translation_cn": "在……结束时",
+    "exemple": "Une déclaration conjointe sera publiée à l'issue de la conférence de presse.",
+    "note": "Très fréquent dans les comptes rendus de réunions officielles.",
+    "context": "À l'issue d'un sommet des alliés de Kiev jeudi 19 novembre, Berlin a assuré que des négociations réunissant Européens, Ukrainiens, Russes et Américains pour mettre …",
+    "collocations": [
+     "à l'issue des négociations",
+     "à l'issue du sommet"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1m54pjy",
+    "kind": "connecteur",
+    "term": "selon",
+    "surface": "selon",
+    "usage": "actif",
+    "definition_fr": "D'après les déclarations ou constatations de",
+    "translation_cn": "根据",
+    "exemple": "",
+    "note": "Indispensable pour attribuer des faits à une source sans prendre parti dans la presse.",
+    "context": "… frappes russes dans la région de Kiev, dont 11 dans l'effondrement partiel d'un immeuble résidentiel, selon le dernier bilan des autorités ce lundi 23 novembre.",
+    "fonction": "attribution d'une source"
+   },
+   {
+    "id": "19pbfty",
+    "kind": "connecteur",
+    "term": "lors de",
+    "surface": "lors de",
+    "usage": "actif",
+    "definition_fr": "Au moment de, au cours de",
+    "translation_cn": "在……期间；在……时",
+    "exemple": "",
+    "note": "Suivi d'un nom (jamais d'un verbe directement).",
+    "context": "Au moins 15 personnes sont mortes lors de frappes russes dans la région de Kiev, dont 11 dans l'effondrement partiel d'un immeuble résidentiel, selon le …",
+    "fonction": "temporelle"
+   },
+   {
+    "id": "1pkeajb",
+    "kind": "connecteur",
+    "term": "après que",
+    "surface": "après que",
+    "usage": "actif",
+    "definition_fr": "À la suite du moment où",
+    "translation_cn": "在……之后",
+    "exemple": "",
+    "note": "Attention : grammaticalement suivi de l'indicatif (ici le subjonctif plus-que-parfait « eut promis » ou passé antérieur), pas du subjonctif moderne.",
+    "context": "… des missiles et fait onze morts, dont sept dans la capitale, après que le président russe Vladimir Poutine eut promis d'infliger à l'Ukraine de « …",
+    "fonction": "temporelle"
+   },
+   {
+    "id": "gxnoen",
+    "kind": "connecteur",
+    "term": "donc",
+    "surface": "donc",
+    "usage": "actif",
+    "definition_fr": "C'est pourquoi, en conséquence",
+    "translation_cn": "因此",
+    "exemple": "",
+    "note": "Marque la conclusion logique d'un constat préalable.",
+    "context": "Des centaines d'habitants sont donc privés d'eau depuis plusieurs jours.",
+    "fonction": "conséquence"
+   },
+   {
+    "id": "18knv5b",
+    "kind": "connecteur",
+    "term": "en riposte à",
+    "surface": "En riposte aux",
+    "usage": "actif",
+    "definition_fr": "En réaction offensive ou défensive à une attaque",
+    "translation_cn": "为了作为对……的反击",
+    "exemple": "",
+    "note": "Très usité dans le jargon géopolitique et militaire.",
+    "context": "En riposte aux bombardements quotidiens la visant depuis près de cinq ans, l'Ukraine intensifie ses frappes en profondeur en Russie, visant en particulier les infrastructures …",
+    "fonction": "causalité / réactivité"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "beaucoup redoutent que l'hiver approchant soit le plus difficile depuis le début de la guerre il y a près de cinq ans.",
+    "structure": "Verbe d'appréhension + que + subjonctif",
+    "explication": "Le verbe « redouter » exprime la crainte et régit l'emploi du subjonctif (« soit ») dans la proposition complétive.",
+    "modele": "Les analystes redoutent que la remontée des taux d'intérêt ne ralentisse la croissance régionale."
+   },
+   {
+    "surface": "trois personnes ont été tuées et quinze blessées, dont trois enfants, à Vychnevé lorsqu'une frappe russe a touché un supermarché",
+    "structure": "Coordination de participes passés au passif + subordination temporelle",
+    "explication": "L'ellipse de l'auxiliaire « ont été » devant le second participe « blessées » allège la phrase passive introduisant une circonstance avec « lorsque ».",
+    "modele": "Deux ministres ont été révoqués et quatre désignés lors de ce remaniement budgétaire."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Condamnez ce terrorisme, tenez la Russie pour responsable et agissez maintenant pour mettre fin au massacre",
+    "figure": "Injonction tripartite (Impératifs juxtaposés)",
+    "effet": "Crée un sentiment d'urgence absolue et formule un appel à l'action direct et sans concession envers la communauté internationale."
+   }
+  ],
+  "dropped": 0
+ }
+}
