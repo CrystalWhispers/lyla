@@ -1,0 +1,425 @@
+{
+ "id": "2026-11-24-1z0pp",
+ "date": "2026-11-24",
+ "title": "Mort de Nahel Merzouk : la justice ordonne un procès pour meurtre à l'encontre du policier",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/france/20261124-mort-nahel-merzouk-justice-ordonne-proc%C3%A8s-pour-meurtre-policier",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 458,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Renvoi du policier aux assises pour le meurtre de Nahel",
+  "summary": "La cour d'appel de Versailles a confirmé le renvoi du policier accusé du meurtre de Nahel Merzouk devant la cour d'assises. Cette décision intervient après plusieurs rebondissements juridiques entre la Cour de cassation et la chambre de l'instruction.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "wqu4jr",
+    "kind": "vocab",
+    "term": "un arbitrage (m.)",
+    "surface": "décision",
+    "usage": "actif",
+    "definition_fr": "Acte par lequel une autorité tranche un litige ou prend une décision formelle.",
+    "translation_cn": "裁决，决定",
+    "exemple": "Le gouvernement attend la décision du Conseil constitutionnel avant d'appliquer la loi.",
+    "note": "Souvent utilisé en justice comme en politique pour désigner un choix tranché.",
+    "context": "Sa décision, qui pourra faire l'objet de nouveaux recours, survient après une série de rebondissements judiciaires dans ce dossier devenu symbole des violences policières en …",
+    "synonymes": [
+     "un jugement",
+     "un arbitrage",
+     "un arrêté"
+    ],
+    "famille": [
+     "décider",
+     "décisif"
+    ],
+    "collocations": [
+     "rendre une décision",
+     "décision de justice"
+    ]
+   },
+   {
+    "id": "126gz73",
+    "kind": "vocab",
+    "term": "un grief (m.)",
+    "surface": "charges",
+    "usage": "actif",
+    "definition_fr": "Ensemble des éléments de preuve ou des accusations pesant contre une personne.",
+    "translation_cn": "指控，罪证",
+    "exemple": "Le procureur a estimé qu'il y avait des charges suffisantes pour ouvrir un procès.",
+    "note": "Au singulier 'la charge', en droit au pluriel 'les charges'.",
+    "context": "La cour a retenu l'existence de \"charges suffisantes\" à l'encontre de l'accusé et écarté le \"fait justificatif soulevé par la défense\", a-t-elle détaillé.",
+    "synonymes": [
+     "des accusations (f.)",
+     "des griefs (m.)"
+    ],
+    "famille": [
+     "charger",
+     "chargement"
+    ],
+    "collocations": [
+     "charges suffisantes",
+     "retenir des charges"
+    ]
+   },
+   {
+    "id": "1lgstah",
+    "kind": "vocab",
+    "term": "un recours (m.)",
+    "surface": "recours",
+    "usage": "actif",
+    "definition_fr": "Action en justice permettant d'obtenir le réexamen d'une décision.",
+    "translation_cn": "诉求，上诉，救济程序",
+    "exemple": "Les entreprises sanctionnées ont introduit un recours devant la Cour de justice européenne.",
+    "note": "Construit fréquemment avec les verbes former, exercer ou introduire.",
+    "context": "Sa décision, qui pourra faire l'objet de nouveaux recours, survient après une série de rebondissements judiciaires dans ce dossier devenu symbole des violences policières en …",
+    "synonymes": [
+     "une contestation",
+     "un appel"
+    ],
+    "famille": [
+     "recourir"
+    ],
+    "collocations": [
+     "faire l'objet d'un recours",
+     "exercer un recours"
+    ]
+   },
+   {
+    "id": "1ahusxd",
+    "kind": "vocab",
+    "term": "des réquisitions (f.)",
+    "surface": "réquisitions",
+    "usage": "passif",
+    "definition_fr": "Demande formelle faite par le ministère public lors d'un procès.",
+    "translation_cn": "（检方的）公诉意见，建议判决",
+    "exemple": "Le juge a suivi les réquisitions du parquet en prononçant une peine exemplaire.",
+    "note": "Terme juridique spécialisé désignant la position du procureur.",
+    "context": "… d'enquête, deux juges d'instruction ont ordonné le renvoi du fonctionnaire devant la cour d'assises des Hauts-de-Seine pour meurtre, conformément aux réquisitions du parquet de Nanterre.",
+    "synonymes": [
+     "des demandes (f.)",
+     "des conclusions (f.)"
+    ],
+    "famille": [
+     "réquisitionner"
+    ],
+    "collocations": [
+     "conformément aux réquisitions",
+     "suivre les réquisitions"
+    ]
+   },
+   {
+    "id": "1rsm2j",
+    "kind": "vocab",
+    "term": "requalifier",
+    "surface": "requalifier",
+    "usage": "passif",
+    "definition_fr": "Changer la définition juridique attribuée à des faits.",
+    "translation_cn": "重新定性（指控或事实）",
+    "exemple": "Le tribunal a décidé de requalifier la faute lourde en faute simple.",
+    "note": "Très fréquent en droit pénal et en droit du travail.",
+    "context": "… de l'instruction de la cour d'appel de Versailles avait décidé de requalifier les faits et a ordonné que le policier soit renvoyé devant la cour …",
+    "synonymes": [
+     "reconsidérer",
+     "remanier"
+    ],
+    "famille": [
+     "qualification",
+     "qualifier"
+    ],
+    "collocations": [
+     "requalifier les faits",
+     "requalifier une infraction"
+    ]
+   },
+   {
+    "id": "8nfmz",
+    "kind": "vocab",
+    "term": "un non-lieu (m.)",
+    "surface": "non-lieu",
+    "usage": "actif",
+    "definition_fr": "Décision mettant fin à une poursuite pénale sans condamnation.",
+    "translation_cn": "不起诉决定",
+    "exemple": "Le magistrat a conclu à un non-lieu faute de preuves tangibles.",
+    "note": "Invariable au pluriel : des non-lieu.",
+    "context": "Ils avaient par ailleurs confirmé le non-lieu pour le second policier présent lors de l'intervention.",
+    "synonymes": [
+     "un classement sans suite"
+    ],
+    "famille": [],
+    "collocations": [
+     "prononcer un non-lieu",
+     "bénéficier d'un non-lieu"
+    ]
+   },
+   {
+    "id": "1p72epa",
+    "kind": "vocab",
+    "term": "se pourvoir",
+    "surface": "pourvus",
+    "usage": "passif",
+    "definition_fr": "Introduire un recours devant une haute juridiction (comme la Cour de cassation).",
+    "translation_cn": "提起申诉，上诉（至最高法院）",
+    "exemple": "L'État a décidé de se pourvoir en cassation pour contester l'annulation du décret.",
+    "note": "Utilisé principalement dans l'expression 'se pourvoir en cassation'.",
+    "context": "… requalification des faits n'a satisfait personne : le parquet général, les parties civiles et la défense, qui espère un non-lieu, se sont pourvus en cassation.",
+    "synonymes": [
+     "attaquer",
+     "contester"
+    ],
+    "famille": [
+     "pourvoi"
+    ],
+    "collocations": [
+     "se pourvoir en cassation",
+     "se pourvoir en appel"
+    ]
+   },
+   {
+    "id": "1392una",
+    "kind": "vocab",
+    "term": "une juridiction (f.)",
+    "surface": "juridiction",
+    "usage": "actif",
+    "definition_fr": "Tribunal ou ensemble des tribunaux d'un certain ordre.",
+    "translation_cn": "司法机关，审判管辖权",
+    "exemple": "Cette juridiction internationale est compétente pour régler les litiges commerciaux.",
+    "note": "Peut désigner le tribunal lui-même ou son ressort géographique/technique.",
+    "context": "… contre-pied de la décision de la cour d'appel, la plus haute juridiction française, qui juge le seul respect du droit et non le fond des …",
+    "synonymes": [
+     "un tribunal",
+     "une instance"
+    ],
+    "famille": [
+     "juridique",
+     "jurisprudence"
+    ],
+    "collocations": [
+     "haute juridiction",
+     "saisir une juridiction"
+    ]
+   },
+   {
+    "id": "7knqbw",
+    "kind": "vocab",
+    "term": "imputer",
+    "surface": "imputée",
+    "usage": "actif",
+    "definition_fr": "Attribuer la responsabilité d'un fait ou d'une faute à quelqu'un.",
+    "translation_cn": "归咎于，归因于",
+    "exemple": "On ne peut pas imputer cette baisse des ventes uniquement à la crise sanitaire.",
+    "note": "Construit avec la préposition 'à' : imputer quelque chose à quelqu'un.",
+    "context": "… devant la chambre de l'instruction de la cour d'appel de Versailles qui, autrement composée, s'est à nouveau penchée sur l'intention homicide imputée à Florian M.",
+    "synonymes": [
+     "attribuer",
+     "endosser"
+    ],
+    "famille": [
+     "imputation",
+     "imputable"
+    ],
+    "collocations": [
+     "imputer une responsabilité",
+     "imputer une faute"
+    ]
+   },
+   {
+    "id": "i5ll7c",
+    "kind": "vocab",
+    "term": "un rebondissement (m.)",
+    "surface": "rebondissements",
+    "usage": "actif",
+    "definition_fr": "Événement imprévu qui relance une affaire ou en change le cours.",
+    "translation_cn": "剧变，转折，新波澜",
+    "exemple": "Cette enquête politique connaît un nouveau rebondissement après la révélation d'écoutes.",
+    "note": "Courant aussi bien en politique que dans la presse générale.",
+    "context": "… décision, qui pourra faire l'objet de nouveaux recours, survient après une série de rebondissements judiciaires dans ce dossier devenu symbole des violences policières en France.",
+    "synonymes": [
+     "un coup de théâtre",
+     "un retournement"
+    ],
+    "famille": [
+     "rebondir",
+     "rebond"
+    ],
+    "collocations": [
+     "nouveau rebondissement",
+     "série de rebondissements"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "hx896s",
+    "kind": "expression",
+    "term": "un refus d'obtempérer (m.)",
+    "surface": "refus d'obtempérer",
+    "usage": "actif",
+    "definition_fr": "Le fait de refuser de se soumettre aux ordres d'une autorité.",
+    "translation_cn": "拒绝服从命令（如加查/停车指令）",
+    "exemple": "Le conducteur a été interpellé après un refus d'obtempérer à un barrage routier.",
+    "note": "Expression technique du droit pénal très présente dans l'actualité.",
+    "context": "… le policier qui a tué Nahel Merzouk en 2023 à la suite d'un refus d'obtempérer serait jugé devant la cour d'assises des Hauts-de-Seine pour meurtre.",
+    "collocations": [
+     "délit de refus d'obtempérer",
+     "commettre un refus d'obtempérer"
+    ]
+   },
+   {
+    "id": "3tc0ag",
+    "kind": "expression",
+    "term": "un fait justificatif (m.)",
+    "surface": "fait justificatif",
+    "usage": "passif",
+    "definition_fr": "Circonstance légale qui enlève le caractère punissable à une infraction (ex. légitime défense).",
+    "translation_cn": "正当化事由（如正当防卫）",
+    "exemple": "La légitime défense est le fait justificatif le plus souvent invoqué dans ce type de procès.",
+    "note": "Terme juridique spécialisé.",
+    "context": "La cour a retenu l'existence de \"charges suffisantes\" à l'encontre de l'accusé et écarté le \"fait justificatif soulevé par la défense\", a-t-elle détaillé.",
+    "collocations": [
+     "invoquer un fait justificatif",
+     "écarter un fait justificatif"
+    ]
+   },
+   {
+    "id": "e1lcny",
+    "kind": "expression",
+    "term": "à bout portant",
+    "surface": "à bout portant",
+    "usage": "actif",
+    "definition_fr": "De très près, en touchant presque la cible.",
+    "translation_cn": "近距离（贴身）",
+    "exemple": "L'agresseur a tiré à bout portant avant de prendre la fuite.",
+    "note": "S'utilise principalement avec les verbes tirer ou viser.",
+    "context": "Le 27 juin 2023, Nahel Merzouk, 17 ans, est tué à Nanterre, dans les Hauts-de-Seine, d'une balle tirée à bout portant par Florian M.",
+    "collocations": [
+     "tirer à bout portant",
+     "tir à bout portant"
+    ]
+   },
+   {
+    "id": "cm6j94",
+    "kind": "expression",
+    "term": "une partie civile (f.)",
+    "surface": "parties civiles",
+    "usage": "actif",
+    "definition_fr": "La personne victime d'une infraction qui intervient au procès pour demander réparation.",
+    "translation_cn": "民事诉讼原告（刑事附带民事诉讼受害者）",
+    "exemple": "La famille de la victime s'est constituée partie civile pour avoir accès au dossier.",
+    "note": "Expression juridique consacrée.",
+    "context": "… départementale des Hauts-de-Seine sous la qualification de moins grave de violences ayant entraîné la mort sans intention de la donner, suscitant l'émoi des parties civiles.",
+    "collocations": [
+     "se constituer partie civile",
+     "l'avocat des parties civiles"
+    ]
+   },
+   {
+    "id": "199do59",
+    "kind": "expression",
+    "term": "remettre en liberté",
+    "surface": "remis en liberté",
+    "usage": "actif",
+    "definition_fr": "Libérer une personne détenue préventivement ou temporairement.",
+    "translation_cn": "释放，获释",
+    "exemple": "Le suspect a été remis en liberté sous contrôle judiciaire en attendant son procès.",
+    "note": "Se dit souvent d'un prévenu avant son jugement définitive.",
+    "context": ", qui a effectué cinq mois de détention provisoire avant d'être remis en liberté, avait fait appel.",
+    "collocations": [
+     "être remis en liberté",
+     "demande de remise en liberté"
+    ]
+   },
+   {
+    "id": "1nigln6",
+    "kind": "expression",
+    "term": "prendre le contre-pied",
+    "surface": "Prenant le contre-pied",
+    "usage": "actif",
+    "definition_fr": "Adopter une position totalement opposée à celle qui était établie.",
+    "translation_cn": "采取截然相反的立场",
+    "exemple": "Le nouveau ministre a pris le contre-pied des mesures adoptées par son prédécesseur.",
+    "note": "Style soutenu, très utilisé en discours politique et d'analyse.",
+    "context": "Prenant le contre-pied de la décision de la cour d'appel, la plus haute juridiction française, qui juge le seul respect du droit et non le …",
+    "collocations": [
+     "prendre le contre-pied de",
+     "prendre totalement le contre-pied"
+    ]
+   },
+   {
+    "id": "5hvntp",
+    "kind": "expression",
+    "term": "juger le fond (d'un dossier)",
+    "surface": "le fond des dossiers",
+    "usage": "actif",
+    "definition_fr": "Examiner la réalité des faits et les preuves, par opposition à la seule forme juridique.",
+    "translation_cn": "审查案情实质（非仅审查法律程序）",
+    "exemple": "La Cour de cassation ne juge pas le fond, elle vérifie l'application correcte de la loi.",
+    "note": "Opposition classique en droit entre 'la forme' (la procédure) et 'le fond' (la réalité des faits).",
+    "context": "… juridiction française, qui juge le seul respect du droit et non le fond des dossiers, a estimé que la juridiction n'avait \"pas justifié sa décision\" …",
+    "collocations": [
+     "juger sur le fond",
+     "trancher le fond"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1lmfhc3",
+    "kind": "connecteur",
+    "term": "conformément à",
+    "surface": "conformément aux",
+    "usage": "actif",
+    "definition_fr": "En accord avec une règle, une demande ou un texte de référence.",
+    "translation_cn": "根据，依照",
+    "exemple": "",
+    "note": "Suivi d'un nom. Très utilisé dans le registre administratif et juridique tant à l'écrit qu'à l'oral fort réutilisable par l'apprenant.",
+    "context": "… d'enquête, deux juges d'instruction ont ordonné le renvoi du fonctionnaire devant la cour d'assises des Hauts-de-Seine pour meurtre, conformément aux réquisitions du parquet de Nanterre.",
+    "fonction": "conformité"
+   },
+   {
+    "id": "1vst25n",
+    "kind": "connecteur",
+    "term": "par ailleurs",
+    "surface": "par ailleurs",
+    "usage": "actif",
+    "definition_fr": "D'autre part, en outre, pour ajouter un élément d'information distinct.",
+    "translation_cn": "此外，加之",
+    "exemple": "",
+    "note": "Permet d'introduire un second argument ou fait sans alourdir le texte.",
+    "context": "Ils avaient par ailleurs confirmé le non-lieu pour le second policier présent lors de l'intervention.",
+    "fonction": "addition"
+   },
+   {
+    "id": "jcqsxv",
+    "kind": "connecteur",
+    "term": "toutefois",
+    "surface": "toutefois",
+    "usage": "actif",
+    "definition_fr": "Cependant, néanmoins, pour nuancer ce qui vient d'être affirmé.",
+    "translation_cn": "然而，不过",
+    "exemple": "",
+    "note": "Registre soutenu, très fréquent dans l'argumentation formelle.",
+    "context": "pour meurtre, validant toutefois le non-lieu pour l'autre fonctionnaire.",
+    "fonction": "restriction"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Sa décision, qui pourra faire l'objet de nouveaux recours, survient après une série de rebondissements judiciaires",
+    "structure": "Proposition relative explicative incise",
+    "explication": "La proposition relative entre virgules apporte un complément d'information non restrictif sans interrompre l'ossature de la phrase principale.",
+    "modele": "Le projet de loi, qui suscite de vives contestations au Parlement, sera voté la semaine prochaine."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "ce dossier devenu symbole des violences policières en France",
+    "figure": "Métonymie / Élévation au rang d'emblème",
+    "effet": "Transforme un fait divers judiciaire particulier en un enjeu de société global, conférant au procès une portée politique majeure."
+   }
+  ],
+  "dropped": 1
+ }
+}
