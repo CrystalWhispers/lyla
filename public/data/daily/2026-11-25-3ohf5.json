@@ -1,0 +1,341 @@
+{
+ "id": "2026-11-25-3ohf5",
+ "date": "2026-11-25",
+ "title": "Violences sexistes et sexuelles: la Fondation des femmes chiffre le coût de la séparation pour les victimes",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/france/20261125-violences-sexistes-et-sexuelles-la-fondation-des-femmes-chiffre-le-co%C3%BBt-de-la-s%C3%A9paration-pour-les-victimes",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 432,
+ "model": "gemini-3.5-flash",
+ "analysis": {
+  "title": "Violences conjugales et précarité : le coût financier du départ",
+  "summary": "Le rapport de la Fondation des femmes met en évidence la vulnérabilité financière des victimes de violences conjugales au moment de quitter le domicile. Le coût élevé des démarches et de la réinstallation constitue un obstacle majeur qui contraint souvent ces femmes à retourner auprès de leur agresseur.",
+  "theme": "Travail & social",
+  "vocabulaire": [
+   {
+    "id": "r031b7",
+    "kind": "vocab",
+    "term": "une violation (f.)",
+    "surface": "violation",
+    "usage": "actif",
+    "definition_fr": "Transgression grave d'une règle, d'une loi ou d'un droit.",
+    "translation_cn": "侵犯，违反",
+    "exemple": "",
+    "note": "",
+    "context": "Les violences à l'égard des femmes demeurent la violation des droits humains la plus répandue à travers le monde.",
+    "synonymes": [
+     "une atteinte",
+     "un manquement",
+     "une transgression"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1tqz4n",
+    "kind": "vocab",
+    "term": "la précarité (f.)",
+    "surface": "précarité",
+    "usage": "actif",
+    "definition_fr": "Situation d'instabilité financière ou sociale qui fragilise une personne.",
+    "translation_cn": "不稳定，贫困状态",
+    "exemple": "",
+    "note": "",
+    "context": "… de lutte contre les violences faites aux femmes, l'association française la Fondation des femmes publie un rapport sur le lien entre violences conjugales et précarité.",
+    "synonymes": [
+     "l'instabilité (f.)",
+     "la fragilité",
+     "l'insécurité (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "dyncim",
+    "kind": "vocab",
+    "term": "consécutif (-ive)",
+    "surface": "consécutive",
+    "usage": "actif",
+    "definition_fr": "Qui se suit sans interruption dans le temps.",
+    "translation_cn": "连续的",
+    "exemple": "",
+    "note": "",
+    "context": "Un chiffre en augmentation pour la deuxième année consécutive alors que les plaintes pour violences conjugales sont elles aussi en hausse : en 2025, près …",
+    "synonymes": [
+     "d'affilée",
+     "ininterrompu",
+     "successif"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "cx7bxr",
+    "kind": "vocab",
+    "term": "une plainte (f.)",
+    "surface": "plaintes",
+    "usage": "actif",
+    "definition_fr": "Démarche officielle auprès de la justice pour signaler une infraction.",
+    "translation_cn": "控告，起诉",
+    "exemple": "",
+    "note": "",
+    "context": "… chiffre en augmentation pour la deuxième année consécutive alors que les plaintes pour violences conjugales sont elles aussi en hausse : en 2025, près de …",
+    "synonymes": [
+     "une dénonciation",
+     "un recours"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "9znxw4",
+    "kind": "vocab",
+    "term": "un dommage / violenté(e)",
+    "surface": "violentée",
+    "usage": "actif",
+    "definition_fr": "Qui a subi des actes de violence physique ou psychologique.",
+    "translation_cn": "遭受暴力的",
+    "exemple": "",
+    "note": "",
+    "context": "… contexte que, pour la première fois, une association s'est penchée sur ce que coûte à une femme violentée le fait de quitter le domicile conjugal.",
+    "synonymes": [
+     "agressée",
+     "maltraitée"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1l67r2p",
+    "kind": "vocab",
+    "term": "chiffrer (v.)",
+    "surface": "chiffre",
+    "usage": "actif",
+    "definition_fr": "Évaluer le montant financier de quelque chose.",
+    "translation_cn": "计算，估算（金额）",
+    "exemple": "",
+    "note": "",
+    "context": "Un chiffre en augmentation pour la deuxième année consécutive alors que les plaintes pour violences conjugales sont elles aussi en hausse : en 2025, près …",
+    "synonymes": [
+     "évaluer",
+     "estimer",
+     "calculer"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1h7sp2r",
+    "kind": "vocab",
+    "term": "sécuriser (v.)",
+    "surface": "sécuriser",
+    "usage": "actif",
+    "definition_fr": "Rendre stable, sûr et à l'abri des risques.",
+    "translation_cn": "保障，使安全",
+    "exemple": "",
+    "note": "",
+    "context": "… de s'équiper, de porter plainte et de prendre un avocat pour sécuriser la garde des enfants, mais aussi d'assurer seule les dépenses quotidiennes de la …",
+    "synonymes": [
+     "consolider",
+     "garantir",
+     "protéger"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "3ldvn4",
+    "kind": "vocab",
+    "term": "un traumatisme (m.)",
+    "surface": "traumatisme",
+    "usage": "actif",
+    "definition_fr": "Choc émotionnel grave provoquant des séquelles psychologiques ou physiques.",
+    "translation_cn": "创伤，精神打击",
+    "exemple": "",
+    "note": "",
+    "context": "… sécuriser la garde des enfants, mais aussi d'assurer seule les dépenses quotidiennes de la famille - dont les frais de soins, après un tel traumatisme.",
+    "synonymes": [
+     "un choc",
+     "une séquelle",
+     "une blessure"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "it0uzx",
+    "kind": "vocab",
+    "term": "un filet de sécurité (m.)",
+    "surface": "filet de sécurité",
+    "usage": "actif",
+    "definition_fr": "Dispositif d'aide destiné à protéger contre une dégradation financière ou sociale.",
+    "translation_cn": "安全网（保障机制）",
+    "exemple": "",
+    "note": "",
+    "context": "… sécurisation de l'emploi des victimes, ou la mise en place d'un filet de sécurité pour que le nouveau logement puisse être durable, trop de femmes …",
+    "synonymes": [
+     "une protection",
+     "un soutien"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "nqhmvh",
+    "kind": "vocab",
+    "term": "contraindre (v.)",
+    "surface": "contraintes",
+    "usage": "actif",
+    "definition_fr": "Obliger quelqu'un à agir contre sa volonté sous la pression des circonstances.",
+    "translation_cn": "迫使，强制",
+    "exemple": "",
+    "note": "",
+    "context": "… filet de sécurité pour que le nouveau logement puisse être durable, trop de femmes étant encore contraintes de regagner le domicile conjugal, faute de moyens.",
+    "synonymes": [
+     "forcer",
+     "obliger",
+     "imposer"
+    ],
+    "famille": [],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "1aldlyk",
+    "kind": "expression",
+    "term": "à l'égard de (prép.)",
+    "surface": "à l'égard des",
+    "usage": "actif",
+    "definition_fr": "En ce qui concerne, envers quelqu'un.",
+    "translation_cn": "关于，对于",
+    "exemple": "Le gouvernement a durci la réglementation à l'égard des fausses déclarations fiscales.",
+    "note": "",
+    "context": "Les violences à l'égard des femmes demeurent la violation des droits humains la plus répandue à travers le monde.",
+    "collocations": [
+     "attitudes à l'égard de",
+     "mesures à l'égard de"
+    ]
+   },
+   {
+    "id": "1b7vvf3",
+    "kind": "expression",
+    "term": "poste par poste (loc. adv.)",
+    "surface": "poste par poste",
+    "usage": "actif",
+    "definition_fr": "En analysant chaque catégorie de dépense ou de budget séparément.",
+    "translation_cn": "逐项（审查或计算）",
+    "exemple": "Le ministère des Finances a révisé les dépenses publiques poste par poste pour réduire les coûts.",
+    "note": "",
+    "context": "… prix de la liberté » de la Fondation des femmes chiffre, poste par poste, le budget nécessaire, pour deux types de profils : celui d'une …",
+    "collocations": [
+     "analyser poste par poste",
+     "détailler poste par poste"
+    ]
+   },
+   {
+    "id": "jl19i6",
+    "kind": "expression",
+    "term": "prendre en compte (v.)",
+    "surface": "prend pas en compte",
+    "usage": "actif",
+    "definition_fr": "Considérer un élément dans une évaluation ou une décision.",
+    "translation_cn": "考虑到，将……纳入计算",
+    "exemple": "La banque centrale prend en compte l'évolution des prix de l'énergie avant de modifier ses taux directeurs.",
+    "note": "",
+    "context": "Et encore, souligne la Fondation des femmes, ce calcul ne prend pas en compte le poids des arrêts maladie éventuels ou les ruptures de carrière.",
+    "collocations": [
+     "prendre en compte l'inflation",
+     "prendre en compte les risques"
+    ]
+   },
+   {
+    "id": "10ihl3m",
+    "kind": "expression",
+    "term": "faute de (prép.)",
+    "surface": "faute de",
+    "usage": "actif",
+    "definition_fr": "En raison du manque ou de l'absence de quelque chose.",
+    "translation_cn": "由于缺乏，因缺少",
+    "exemple": "Le projet d'infrastructure a été suspendu faute de financements privés.",
+    "note": "",
+    "context": "… filet de sécurité pour que le nouveau logement puisse être durable, trop de femmes étant encore contraintes de regagner le domicile conjugal, faute de moyens.",
+    "collocations": [
+     "faute de moyens",
+     "faute de temps"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "ijc4t1",
+    "kind": "connecteur",
+    "term": "au demeurant (adv.)",
+    "surface": "au demeurant",
+    "usage": "passif",
+    "definition_fr": "Au reste, d'ailleurs ; s'emploie pour apporter une nuance ou préciser un fait.",
+    "translation_cn": "况且，此外，实际上",
+    "exemple": "",
+    "note": "Registre soutenu, très utile pour nuancer une affirmation dans un exposé commercial ou politique.",
+    "context": "… elles aussi en hausse : en 2025, près de 285 000 ont été enregistrées, moins d'une victime sur huit osant au demeurant dénoncer son agresseur.",
+    "fonction": "restriction"
+   },
+   {
+    "id": "11jzz1d",
+    "kind": "connecteur",
+    "term": "en effet (adv.)",
+    "surface": "en effet",
+    "usage": "actif",
+    "definition_fr": "Introduit une explication ou une preuve de ce qui vient d'être énoncé.",
+    "translation_cn": "确实，因为（引出解释）",
+    "exemple": "",
+    "note": "Sert à expliciter le motif de l'affirmation précédente.",
+    "context": "En quittant leur mari violent, ces dernières ont en effet besoin de se reloger, de s'équiper, de porter plainte et de prendre un avocat pour …",
+    "fonction": "cause"
+   },
+   {
+    "id": "1ut1f2z",
+    "kind": "connecteur",
+    "term": "donc (conj.)",
+    "surface": "donc",
+    "usage": "actif",
+    "definition_fr": "Marque la conclusion logique d'un raisonnement.",
+    "translation_cn": "因此，所以",
+    "exemple": "",
+    "note": "Synthétise le résultat du calcul exposé.",
+    "context": "Le prix de leur liberté retrouvée s'élève donc à dix ou onze mois de salaire.",
+    "fonction": "conséquence"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "C'est dans ce contexte que, pour la première fois, une association s'est penchée sur ce que coûte à une femme violentée le fait de quitter",
+    "structure": "Gallicisme d'insistance (C'est ... que) avec double complément circonstanciel et infinitive substantive",
+    "explication": "Le procédé d'emphase 'C'est... que' met en relief la situation de départ ('dans ce contexte'), suivi d'une subordonnée interrogative indirecte ('ce que coûte') combinée à une structure d'infinitif sujet 'le fait de + infinitif'.",
+    "modele": "C'est à cette période que, pour la première fois, le gouvernement s'est penché sur ce que représente pour les PME le coût de la transition énergétique."
+   },
+   {
+    "surface": "trop de femmes étant encore contraintes de regagner le domicile conjugal, faute de moyens.",
+    "structure": "Proposition participe absolue suivie d'un groupe prépositionnel causal",
+    "explication": "Le participe présent 'étant' forme une proposition autonome qui exprime une cause ou un état de fait permanent, conclue par la formule restrictive 'faute de'.",
+    "modele": "De nombreuses entreprises étant désormais contraintes de réduire leurs investissements, faute de liquidités suffisantes."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "Le prix de la liberté",
+    "figure": "Metaphore",
+    "effet": "Associe une notion abstraite fondamentale (la liberté) à un coût comptable et financier très concret pour frapper l'esprit de l'auditeur."
+   },
+   {
+    "surface": "Le prix de leur liberté retrouvée s'élève donc à dix ou onze mois de salaire.",
+    "figure": "Formulation choc à valeur de synthèse analytique",
+    "effet": "Convertit une somme abstraite en une durée concrète de revenus pour matérialiser l'obstacle économique à l'émancipation des victimes."
+   }
+  ],
+  "dropped": 2
+ }
+}
