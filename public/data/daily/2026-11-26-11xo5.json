@@ -1,0 +1,413 @@
+{
+ "id": "2026-11-26-11xo5",
+ "date": "2026-11-26",
+ "title": "En Espagne, l'extrême droite séduit une partie de la jeunesse en surfant sur sa \"détresse\"",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/europe/20261126-en-espagne-l-extr%C3%AAme-droite-s%C3%A9duit-une-partie-de-la-jeunesse-en-surfant-sur-sa-d%C3%A9tresse",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 843,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Espagne : l'ascension de Vox auprès des jeunes électeurs",
+  "summary": "Le parti d'extrême droite espagnol Vox enregistre une forte progression auprès des jeunes, portée par des difficultés économiques et le réseau TikTok. Cette tendance traduit une polarisation politique croissante et une importante fracture de genre au sein des nouvelles générations.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "17e6rak",
+    "kind": "vocab",
+    "term": "un terro (m.)",
+    "surface": "terreau",
+    "usage": "actif",
+    "definition_fr": "Milieu favorable au développement de quelque chose.",
+    "translation_cn": "温床，土壤",
+    "exemple": "",
+    "note": "",
+    "context": "La précarité comme terreau électoral",
+    "synonymes": [
+     "un nid",
+     "un ferment",
+     "un substrat"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "svtzne",
+    "kind": "vocab",
+    "term": "une percée (f.)",
+    "surface": "percée",
+    "usage": "actif",
+    "definition_fr": "Progression rapide et remarquable dans un domaine ou lors d'une élection.",
+    "translation_cn": "突破，迅速崛起",
+    "exemple": "",
+    "note": "",
+    "context": "Cette percée intervient alors que l'extrême droite pourrait – pour la première fois depuis la fin de la dictature franquiste en 1975 –, participer au …",
+    "synonymes": [
+     "une avancée",
+     "un essor",
+     "une poussée"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "mrza2o",
+    "kind": "vocab",
+    "term": "déjouer",
+    "surface": "déjouer",
+    "usage": "actif",
+    "definition_fr": "Faire échouer un plan ou des prévisions par son action.",
+    "translation_cn": "挫败，使（预测等）落空",
+    "exemple": "",
+    "note": "",
+    "context": "Après huit ans à la tête du gouvernement, le Premier ministre socialiste Pedro Sanchez espère, quant à lui, déjouer les pronostics.",
+    "synonymes": [
+     "déjouer",
+     "défaire",
+     "Mettre en échec"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1tqz4n",
+    "kind": "vocab",
+    "term": "la précarité (f.)",
+    "surface": "précarité",
+    "usage": "actif",
+    "definition_fr": "Situation d'instabilité économique ou sociale.",
+    "translation_cn": "不稳定性，贫困状态",
+    "exemple": "",
+    "note": "",
+    "context": "La précarité comme terreau électoral",
+    "synonymes": [
+     "l'instabilité (f.)",
+     "la fragilité (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1dj7yca",
+    "kind": "vocab",
+    "term": "la pénurie (f.)",
+    "surface": "pénurie",
+    "usage": "actif",
+    "definition_fr": "Manque grave d'une chose nécessaire.",
+    "translation_cn": "短缺，匮乏",
+    "exemple": "",
+    "note": "",
+    "context": "En cause, notamment : l'envolée des loyers, la pénurie de logements abordables et la difficulté d’accéder à la propriété.",
+    "synonymes": [
+     "le manque",
+     "la disette (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1jm7ueo",
+    "kind": "vocab",
+    "term": "le foncier (m.)",
+    "surface": "foncier",
+    "usage": "passif",
+    "definition_fr": "Ensemble des terrains et biens immobiliers.",
+    "translation_cn": "土地，地产",
+    "exemple": "",
+    "note": "",
+    "context": "Le parti promet de faciliter l'accès au logement en libéralisant le foncier, en baissant les impôts et en luttant contre l'occupation illégale.",
+    "synonymes": [
+     "l'immobilier (m.)",
+     "le terrain (m.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1h4rfb5",
+    "kind": "vocab",
+    "term": "un amalgama (m.)",
+    "surface": "amalgame",
+    "usage": "actif",
+    "definition_fr": "Mélange injustifié de choses ou concepts différents.",
+    "translation_cn": "混为一谈，混淆",
+    "exemple": "",
+    "note": "",
+    "context": "Ils font un amalgame entre immigration et délinquance\", résume Maria Elisa Alonso.",
+    "synonymes": [
+     "une confusion",
+     "un mélange"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "178k4nd",
+    "kind": "vocab",
+    "term": "la détresse (f.)",
+    "surface": "détresse",
+    "usage": "actif",
+    "definition_fr": "Sentiment d'abandon ou situation d'extrême souffrance.",
+    "translation_cn": "困境，痛苦",
+    "exemple": "",
+    "note": "",
+    "context": "\"Mais c'est un discours qui parle à cette jeunesse en détresse.",
+    "synonymes": [
+     "la détresse",
+     "l'angoisse (f.)"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1s3bb7z",
+    "kind": "vocab",
+    "term": "discerner",
+    "surface": "discerner",
+    "usage": "actif",
+    "definition_fr": "Distinguer clairement avec l'esprit.",
+    "translation_cn": "分辨，辨别",
+    "exemple": "",
+    "note": "",
+    "context": "… critique chez une partie de la jeunesse espagnole, une difficulté à discerner ce qui est vrai, ce qui est faux et ce qui relève de …",
+    "synonymes": [
+     "distinguer",
+     "démêler",
+     "percevoir"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "17q22ka",
+    "kind": "vocab",
+    "term": "une enclave (f.)",
+    "surface": "enclave",
+    "usage": "passif",
+    "definition_fr": "Territoire enfermé dans un autre territoire étranger.",
+    "translation_cn": "飞地，包围地",
+    "exemple": "",
+    "note": "",
+    "context": "… des législatives, notamment après l'arrivée de plus de 70 000 migrants depuis le Maroc dans l'enclave espagnole de Ceuta, en Afrique du Nord, fin juillet.",
+    "synonymes": [
+     "un territoire séparé"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "wly40b",
+    "kind": "vocab",
+    "term": "un pronostic (m.)",
+    "surface": "pronostics",
+    "usage": "actif",
+    "definition_fr": "Prévision sur le résultat d'un événement futur.",
+    "translation_cn": "预测，预估",
+    "exemple": "",
+    "note": "",
+    "context": "Après huit ans à la tête du gouvernement, le Premier ministre socialiste Pedro Sanchez espère, quant à lui, déjouer les pronostics.",
+    "synonymes": [
+     "une prévision",
+     "une estimation"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "n7annx",
+    "kind": "vocab",
+    "term": "le patriotisme (m.)",
+    "surface": "patriotisme",
+    "usage": "actif",
+    "definition_fr": "Amour et dévouement pour sa patrie.",
+    "translation_cn": "爱国主义",
+    "exemple": "",
+    "note": "",
+    "context": "… Instagram et X, où le parti diffuse de courtes vidéos sur ses thèmes de prédilection : patriotisme, identité nationale, famille traditionnelle et rejet du féminisme.",
+    "synonymes": [
+     "le civisme",
+     "la loyauté"
+    ],
+    "famille": [],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "sgi0h9",
+    "kind": "expression",
+    "term": "arriver en tête",
+    "surface": "arrive en tête",
+    "usage": "actif",
+    "definition_fr": "Occuper la première position dans un classement ou vote.",
+    "translation_cn": "名列前茅，占第一位",
+    "exemple": "",
+    "note": "",
+    "context": "Vox arrive en tête des intentions de vote chez les 18-24 ans, avec 23,2 %, devant le PSOE de Pedro Sanchez (22 %), selon les …",
+    "collocations": []
+   },
+   {
+    "id": "ogl3my",
+    "kind": "expression",
+    "term": "être à la tête de",
+    "surface": "à la tête du",
+    "usage": "actif",
+    "definition_fr": "Diriger ou présider une institution ou organisation.",
+    "translation_cn": "领导，主持",
+    "exemple": "",
+    "note": "",
+    "context": "Après huit ans à la tête du gouvernement, le Premier ministre socialiste Pedro Sanchez espère, quant à lui, déjouer les pronostics.",
+    "collocations": []
+   },
+   {
+    "id": "lux1ae",
+    "kind": "expression",
+    "term": "tirer profit de",
+    "surface": "tirer profit de",
+    "usage": "actif",
+    "definition_fr": "Obtenir un avantage ou un bénéfice à partir d'une situation.",
+    "translation_cn": "从中获利，利用",
+    "exemple": "",
+    "note": "",
+    "context": "Vox entend tirer profit de cette frustration.",
+    "collocations": []
+   },
+   {
+    "id": "1gosgd5",
+    "kind": "expression",
+    "term": "s'imposer comme",
+    "surface": "s'est imposée comme",
+    "usage": "actif",
+    "definition_fr": "Devenir incontournable ou prioritaire.",
+    "translation_cn": "成为……，确立地位",
+    "exemple": "",
+    "note": "",
+    "context": "L'immigration s'est imposée comme l'un des thèmes majeurs de la campagne des législatives, notamment après l'arrivée de plus de 70 000 migrants depuis le Maroc …",
+    "collocations": []
+   },
+   {
+    "id": "1qfed5u",
+    "kind": "expression",
+    "term": "faire un amalgame",
+    "surface": "font un amalgame",
+    "usage": "actif",
+    "definition_fr": "Associer à tort deux idées distinctes.",
+    "translation_cn": "混为一谈",
+    "exemple": "",
+    "note": "",
+    "context": "Ils font un amalgame entre immigration et délinquance\", résume Maria Elisa Alonso.",
+    "collocations": []
+   },
+   {
+    "id": "13vzsid",
+    "kind": "expression",
+    "term": "miser sur",
+    "surface": "mise sur",
+    "usage": "actif",
+    "definition_fr": "Placer sa confiance ou ses ressources dans une stratégie.",
+    "translation_cn": "押宝于，倚重",
+    "exemple": "",
+    "note": "",
+    "context": "Pour toucher cette génération, Vox mise sur TikTok, Instagram et X, où le parti diffuse de courtes vidéos sur ses thèmes de prédilection : patriotisme, …",
+    "collocations": []
+   },
+   {
+    "id": "drey1y",
+    "kind": "expression",
+    "term": "avoir du mal à (peiner à)",
+    "surface": "peinent à",
+    "usage": "actif",
+    "definition_fr": "Éprouver des difficultés à réaliser une action.",
+    "translation_cn": "挣扎于，难以",
+    "exemple": "",
+    "note": "",
+    "context": "En Espagne, les jeunes peinent à prendre leur indépendance.",
+    "collocations": []
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1dxlx95",
+    "kind": "connecteur",
+    "term": "quant à lui",
+    "surface": "quant à lui",
+    "usage": "actif",
+    "definition_fr": "Pour ce qui le concerne personnellement.",
+    "translation_cn": "至于他",
+    "exemple": "",
+    "note": "",
+    "context": "Après huit ans à la tête du gouvernement, le Premier ministre socialiste Pedro Sanchez espère, quant à lui, déjouer les pronostics.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "92pj3k",
+    "kind": "connecteur",
+    "term": "notamment",
+    "surface": "notamment",
+    "usage": "actif",
+    "definition_fr": "En particulier, spécialement.",
+    "translation_cn": "尤其是，特别是",
+    "exemple": "",
+    "note": "",
+    "context": "En cause, notamment : l'envolée des loyers, la pénurie de logements abordables et la difficulté d’accéder à la propriété.",
+    "fonction": "illustration"
+   },
+   {
+    "id": "1m54pjy",
+    "kind": "connecteur",
+    "term": "selon",
+    "surface": "selon",
+    "usage": "actif",
+    "definition_fr": "D'après les affirmations ou les sources de.",
+    "translation_cn": "根据",
+    "exemple": "",
+    "note": "",
+    "context": "… avec 23,2 %, devant le PSOE de Pedro Sanchez (22 %), selon les dernières données du Centre de recherches sociologiques espagnol (CIS), publiées en novembre.",
+    "fonction": "référence"
+   },
+   {
+    "id": "vgd11v",
+    "kind": "connecteur",
+    "term": "ainsi",
+    "surface": "ainsi",
+    "usage": "actif",
+    "definition_fr": "De cette manière, de la sorte.",
+    "translation_cn": "由此，因此",
+    "exemple": "",
+    "note": "",
+    "context": "Des internautes ont ainsi accusé des immigrés de fraude électorale en relayant un article d'un média proche de Vox sur de prétendues inscriptions frauduleuses dans …",
+    "fonction": "conséquence"
+   },
+   {
+    "id": "14x1hqr",
+    "kind": "connecteur",
+    "term": "à l'inverse",
+    "surface": "À l'inverse",
+    "usage": "actif",
+    "definition_fr": "Au contraire, par opposition directe.",
+    "translation_cn": "相反地",
+    "exemple": "",
+    "note": "",
+    "context": "À l'inverse, le PSOE de Pedro Sanchez arrive largement en tête auprès de ces dernières, avec 32 %.",
+    "fonction": "opposition"
+   }
+  ],
+  "syntaxe": [],
+  "rhetorique": [
+   {
+    "surface": "La précarité comme terreau électoral",
+    "figure": "Métaphore",
+    "effet": "Assimile la précarité à une terre fertile pour le développement d'un vote politique, rendant l'idée très visuelle."
+   },
+   {
+    "surface": "inverser l'invasion migratoire",
+    "figure": "Hyperbole",
+    "effet": "Exagère délibérément l'ampleur du phénomène migratoire pour susciter un sentiment d'urgence et une réponse émotionnelle forte."
+   }
+  ],
+  "dropped": 3
+ }
+}
