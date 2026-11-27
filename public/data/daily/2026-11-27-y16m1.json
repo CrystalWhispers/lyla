@@ -1,0 +1,439 @@
+{
+ "id": "2026-11-27-y16m1",
+ "date": "2026-11-27",
+ "title": "Massacre de Shakahola au Kenya: le gourou de la secte, son épouse et son bras droit reconnus coupables de terrorisme",
+ "source": {
+  "name": "RFI",
+  "url": "https://www.rfi.fr/fr/afrique/20261126-massacre-de-shakahola-au-kenya-le-gourou-de-la-secte-son-%C3%A9pouse-et-son-bras-droit-reconnus-coupables-de-terrorisme",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 591,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Condamnation du pasteur Paul Mackenzie dans l'affaire Shakahola",
+  "summary": "Le pasteur autoproclamé Paul Mackenzie a été reconnu coupable de terrorisme et de radicalisation par le tribunal de Shanzu au Kenya. Ce procès marque la fin d'un marathon judiciaire lié au massacre de la forêt de Shakahola.",
+  "theme": "Politique intérieure",
+  "vocabulaire": [
+   {
+    "id": "vdbs45",
+    "kind": "vocab",
+    "term": "un prévenu (m.)",
+    "surface": "prévenus",
+    "usage": "actif",
+    "definition_fr": "Personne poursuivie devant un tribunal correctionnel.",
+    "translation_cn": "被告人",
+    "exemple": "",
+    "note": "",
+    "context": "Vingt-deux autres prévenus ont en revanche été acquittés.",
+    "synonymes": [
+     "un accusé",
+     "un comparant",
+     "un mis en cause meurtre"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "e0dtyi",
+    "kind": "vocab",
+    "term": "acquitter",
+    "surface": "acquittés",
+    "usage": "actif",
+    "definition_fr": "Déclarer un accusé non coupable par une décision de justice.",
+    "translation_cn": "宣告无罪",
+    "exemple": "",
+    "note": "",
+    "context": "Vingt-deux autres prévenus ont en revanche été acquittés.",
+    "synonymes": [
+     "blanchir",
+     "mettre hors de cause",
+     "absolvassions"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "lz5ivs",
+    "kind": "vocab",
+    "term": "un volet (m.)",
+    "surface": "volet",
+    "usage": "actif",
+    "definition_fr": "Une partie ou une étape distincte d'une affaire complexe.",
+    "translation_cn": "部分，环节",
+    "exemple": "",
+    "note": "",
+    "context": "Dans un autre volet de cette affaire tentaculaire, la justice l'avait également condamné, début novembre, à 200 ans de prison pour le meurtre de 190 …",
+    "synonymes": [
+     "une phase",
+     "un aspect",
+     "une partie"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "m7r1uj",
+    "kind": "vocab",
+    "term": "tentaculaire",
+    "surface": "tentaculaire",
+    "usage": "passif",
+    "definition_fr": "Qui s'étend dans de multiples directions et devient très complexe.",
+    "translation_cn": "错综复杂的，庞大的",
+    "exemple": "",
+    "note": "",
+    "context": "Dans un autre volet de cette affaire tentaculaire, la justice l'avait également condamné, début novembre, à 200 ans de prison pour le meurtre de 190 …",
+    "synonymes": [
+     "ramifié",
+     "tentaculaire",
+     "arborescent"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "5fziaw",
+    "kind": "vocab",
+    "term": "un homicide (m.)",
+    "surface": "homicide",
+    "usage": "actif",
+    "definition_fr": "Le fait de donner la mort à un être humain.",
+    "translation_cn": "杀人，过失致死",
+    "exemple": "",
+    "note": "",
+    "context": "… vendredi 27 novembre doit être rendu le verdict du procès pour homicide involontaire, dernier jugement attendu dans ce marathon judiciaire qu'est devenue l'affaire de Shakahola.",
+    "synonymes": [
+     "un meurtre",
+     "un assassinat",
+     "un crime"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "rsdt1s",
+    "kind": "vocab",
+    "term": "un précepte (m.)",
+    "surface": "préceptes",
+    "usage": "passif",
+    "definition_fr": "Règle morale ou religieuse enseignée comme une conduite à suivre.",
+    "translation_cn": "戒律，教条",
+    "exemple": "",
+    "note": "",
+    "context": "Au moins 430 personnes sont mortes en suivant les préceptes de sa secte, qui encourageait ses disciples à mourir de faim pour « rencontrer Jésus …",
+    "synonymes": [
+     "une règle",
+     "un principe",
+     "une maxime"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "10pkoqq",
+    "kind": "vocab",
+    "term": "une ampleur (f.)",
+    "surface": "ampleur",
+    "usage": "actif",
+    "definition_fr": "Importance ou étendue considérable d'un phénomène.",
+    "translation_cn": "规模，程度",
+    "exemple": "",
+    "note": "",
+    "context": "Au Kenya, le tribunal anti-terroriste de Shanzu vient de clore une affaire judiciaire de très grande ampleur.",
+    "synonymes": [
+     "une envergure",
+     "une étendue",
+     "une portée"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "9f228e",
+    "kind": "vocab",
+    "term": "un coaccusé (m.)",
+    "surface": "coaccusés",
+    "usage": "actif",
+    "definition_fr": "Personne poursuivie en justice en même temps qu'une autre.",
+    "translation_cn": "同案被告",
+    "exemple": "",
+    "note": "",
+    "context": "Parmi les 91 coaccusés de Paul Mackenzie figurent également son épouse et son bras droit, Smart Deri Kalama, tous deux reconnus coupables.",
+    "synonymes": [
+     "un coprévenu",
+     "un complice"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "4ualx3",
+    "kind": "vocab",
+    "term": "une ingénierie (f.)",
+    "surface": "ingénierie",
+    "usage": "passif",
+    "definition_fr": "Organisation méthodique et conceptuelle d'un système complexe.",
+    "translation_cn": "系统设计，工程策划",
+    "exemple": "",
+    "note": "",
+    "context": "Implacablement, la magistrate a exposé point par point l'ingénierie du projet apocalyptique de Paul Mackenzie, démontrant comment le gourou avait construit « un système de …",
+    "synonymes": [
+     "une conception",
+     "une structuration",
+     "une élaboration"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "fp230a",
+    "kind": "vocab",
+    "term": "promouvoir",
+    "surface": "promouvoir",
+    "usage": "actif",
+    "definition_fr": "Faire progresser, encourager ou défendre une idée ou une cause.",
+    "translation_cn": "推动，促进",
+    "exemple": "",
+    "note": "",
+    "context": "… système de croyances extrêmes dans le but de faciliter une violence idéologique » pour promouvoir un « changement religieux, politique et social », a-t-elle expliqué.",
+    "synonymes": [
+     "encourager",
+     "soutenir",
+     "favoriser"
+    ],
+    "famille": [],
+    "collocations": []
+   },
+   {
+    "id": "1v72pye",
+    "kind": "vocab",
+    "term": "un bras droit (m.)",
+    "surface": "bras droit",
+    "usage": "actif",
+    "definition_fr": "Principal assistant ou collaborateur de confiance d'un responsable.",
+    "translation_cn": "得力助手，左膀右臂",
+    "exemple": "",
+    "note": "",
+    "context": "Parmi les 91 coaccusés de Paul Mackenzie figurent également son épouse et son bras droit, Smart Deri Kalama, tous deux reconnus coupables.",
+    "synonymes": [
+     "un second",
+     "un adjoint",
+     "un collaborateur"
+    ],
+    "famille": [],
+    "collocations": []
+   }
+  ],
+  "expressions": [
+   {
+    "id": "1gwjgk0",
+    "kind": "expression",
+    "term": "reconnaître coupable",
+    "surface": "reconnu coupable",
+    "usage": "actif",
+    "definition_fr": "Déclarer légalement qu'une personne a commis une infraction.",
+    "translation_cn": "判决有罪",
+    "exemple": "Le ministre accusé de détournement a été reconnu coupable par la Haute Cour.",
+    "note": "S'emploie très souvent au passif dans le journalisme judiciaire.",
+    "context": "Le pasteur autoproclamé Paul Mackenzie a été reconnu coupable de radicalisation et de terrorisme, jeudi 26 novembre, par le tribunal de Shanzu, à Mombasa.",
+    "collocations": [
+     "être reconnu coupable",
+     "déclarer un accusé coupable"
+    ]
+   },
+   {
+    "id": "1vnw3sc",
+    "kind": "expression",
+    "term": "faire appel",
+    "surface": "faire appel",
+    "usage": "actif",
+    "definition_fr": "Contester une décision de justice devant une juridiction supérieure.",
+    "translation_cn": "提出上诉",
+    "exemple": "Le gouvernement a fait appel du jugement annulant la réforme fiscale.",
+    "note": "Terme juridique de base très utilisé dans la presse politique.",
+    "context": "La défense annonce son intention de faire appel",
+    "collocations": [
+     "faire appel d'une décision",
+     "interjeter appel"
+    ]
+   },
+   {
+    "id": "d2rzlw",
+    "kind": "expression",
+    "term": "un chef d'accusation (m.)",
+    "surface": "chefs d'accusation",
+    "usage": "actif",
+    "definition_fr": "Motif juridique précis pour lequel une personne est poursuivie.",
+    "translation_cn": "控罪，指控罪名",
+    "exemple": "Trois chefs d'accusation de corruption ont été retenus contre l'ancien maire.",
+    "note": "Utiliser 'retenir' comme verbe d'accompagnement.",
+    "context": "Cinq chefs d'accusation avaient été retenus contre Paul Mackenzie et ses complices, dont la « participation à une activité criminelle organisée », la « radicalisation …",
+    "collocations": [
+     "retenir des chefs d'accusation",
+     "multiplier les chefs d'accusation"
+    ]
+   },
+   {
+    "id": "1cmrwkw",
+    "kind": "expression",
+    "term": "un marathon judiciaire (m.)",
+    "surface": "marathon judiciaire",
+    "usage": "actif",
+    "definition_fr": "Procédure judiciaire particulièrement longue et complexe.",
+    "translation_cn": "漫长的诉讼过程",
+    "exemple": "Ce procès antitrust marque la fin d'un marathon judiciaire de cinq ans.",
+    "note": "Expression journalistique courante pour qualifier des procès fleuves.",
+    "context": "… vendredi 27 novembre doit être rendu le verdict du procès pour homicide involontaire, dernier jugement attendu dans ce marathon judiciaire qu'est devenue l'affaire de Shakahola.",
+    "collocations": [
+     "clore un marathon judiciaire",
+     "s'engager dans un marathon judiciaire"
+    ]
+   },
+   {
+    "id": "1f7lkev",
+    "kind": "expression",
+    "term": "un bras droit (m.)",
+    "surface": "bras droit",
+    "usage": "actif",
+    "definition_fr": "Collaborateur immédiat et le plus proche d'un dirigeant.",
+    "translation_cn": "得力干将，主要助手",
+    "exemple": "Le président a désigné son ancien bras droit pour diriger la campagne électorale.",
+    "note": "Familiers et très courant en politique.",
+    "context": "Parmi les 91 coaccusés de Paul Mackenzie figurent également son épouse et son bras droit, Smart Deri Kalama, tous deux reconnus coupables.",
+    "collocations": [
+     "être le bras droit de",
+     "nommer son bras droit"
+    ]
+   },
+   {
+    "id": "g8a6zj",
+    "kind": "expression",
+    "term": "rendre un verdict",
+    "surface": "rendu le verdict",
+    "usage": "actif",
+    "definition_fr": "Prononcer officiellement la décision finale d'un tribunal.",
+    "translation_cn": "做出判决",
+    "exemple": "Le tribunal correctionnel rendra son verdict dans un mois.",
+    "note": "Le verbe 'rendre' est spécifique pour l'annonce officielle des décisions judiciaires.",
+    "context": "Ce vendredi 27 novembre doit être rendu le verdict du procès pour homicide involontaire, dernier jugement attendu dans ce marathon judiciaire qu'est devenue l'affaire de …",
+    "collocations": [
+     "rendre un verdict",
+     "attendre un verdict"
+    ]
+   },
+   {
+    "id": "k3j20",
+    "kind": "expression",
+    "term": "attendre avec impatience",
+    "surface": "attendons avec impatience",
+    "usage": "actif",
+    "definition_fr": "Être dans l'attente vive et intéressée d'un événement.",
+    "translation_cn": "翘首以盼，迫切等待",
+    "exemple": "Les marchés financiers attendent avec impatience la décision de la Banque centrale.",
+    "note": "Tournure idiomatique très naturelle à l'oral comme à l'écrit.",
+    "context": "Nous trouvons que le nombre d'acquittements augmente et nous attendons avec impatience le verdict de demain, où nous sommes convaincus que d'autres personnes pourront sortir …",
+    "collocations": [
+     "attendre avec impatience un résultat",
+     "attendre avec impatience la décision"
+    ]
+   },
+   {
+    "id": "1lfbs2j",
+    "kind": "expression",
+    "term": "être impliqué dans",
+    "surface": "étaient pas impliquées",
+    "usage": "actif",
+    "definition_fr": "Prendre part à une affaire criminelle, politique ou financière.",
+    "translation_cn": "牵涉其中，卷入",
+    "exemple": "Plusieurs diplomates étaient impliqués dans cette affaire d'espionnage.",
+    "note": "Attention à la préposition 'dans'.",
+    "context": "Plusieurs personnes ont été acquittées aujourd'hui car la cour a reconnu qu'elles n'étaient pas impliquées.",
+    "collocations": [
+     "être directement impliqué",
+     "nier être impliqué"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1d1iwpy",
+    "kind": "connecteur",
+    "term": "en revanche",
+    "surface": "en revanche",
+    "usage": "actif",
+    "definition_fr": "Marque une opposition ou un contraste affirmé entre deux faits.",
+    "translation_cn": "相反，然而",
+    "exemple": "",
+    "note": "Préférable à 'par contre' dans un registre soutenu.",
+    "context": "Vingt-deux autres prévenus ont en revanche été acquittés.",
+    "fonction": "opposition"
+   },
+   {
+    "id": "1uxka89",
+    "kind": "connecteur",
+    "term": "car",
+    "surface": "car",
+    "usage": "actif",
+    "definition_fr": "Introduit une explication ou une justification de ce qui précède.",
+    "translation_cn": "因为",
+    "exemple": "",
+    "note": "S'utilise principalement à l'écrit ou dans un discours articulé.",
+    "context": "« Nous allons faire appel, car nous avons trouvé que, souvent, la cour n'avait pas traité objectivement les faits.",
+    "fonction": "cause"
+   },
+   {
+    "id": "1v8l1uj",
+    "kind": "connecteur",
+    "term": "également",
+    "surface": "également",
+    "usage": "actif",
+    "definition_fr": "S'ajoute à une information précédente.",
+    "translation_cn": "同样，也",
+    "exemple": "",
+    "note": "Placé en général après le verbe.",
+    "context": "Parmi les 91 coaccusés de Paul Mackenzie figurent également son épouse et son bras droit, Smart Deri Kalama, tous deux reconnus coupables.",
+    "fonction": "addition"
+   },
+   {
+    "id": "1m3mx8i",
+    "kind": "connecteur",
+    "term": "dans le but de",
+    "surface": "dans le but de",
+    "usage": "actif",
+    "definition_fr": "Indique l'intention ou la finalité d'une action.",
+    "translation_cn": "为了，旨在",
+    "exemple": "",
+    "note": "Suivi d'un verbe à l'infinitif.",
+    "context": "… comment le gourou avait construit « un système de croyances extrêmes dans le but de faciliter une violence idéologique » pour promouvoir un « changement …",
+    "fonction": "but"
+   }
+  ],
+  "syntaxe": [
+   {
+    "surface": "Pour la juge, ce qui s'est passé dans la forêt de Shakahola n'est pas le fait de plusieurs volontés individuelles, mais bien d'une intention",
+    "structure": "C'est / Ce n'est pas X, mais bien Y",
+    "explication": "Structure d'opposition emphatique qui rejette une première hypothèse pour imposer la véritable cause avec force grâce à 'bien'.",
+    "modele": "Pour la Commission européenne, la crise énergétique n'est pas le fait de marchés défaillants, mais bien d'une dépendance excessive aux hydrocarbures."
+   },
+   {
+    "surface": "Ce vendredi 27 novembre doit être rendu le verdict du procès pour homicide involontaire",
+    "structure": "Inversion du sujet en tournure passive avec l'auxiliaire devoir",
+    "explication": "L'inversion du sujet nominal ('le verdict...') permet d'anticiper le moment temporel et d'apporter un effet solennel à l'annonce.",
+    "modele": "Ce mardi doit être voté le projet de loi sur la transition énergétique."
+   }
+  ],
+  "rhetorique": [
+   {
+    "surface": "un système de croyances extrêmes dans le but de faciliter une violence idéologique",
+    "figure": "Formulation juridique et synthétique",
+    "effet": "Permet d'objectiver et de rationaliser la folie sectaire en termes juridiques et conceptuels précis."
+   },
+   {
+    "surface": "marathon judiciaire",
+    "figure": "Métaphore sportive",
+    "effet": "Souligne l'extrême longueur, l'épuisement des parties et la complexité des procédures juridiques successives."
+   }
+  ],
+  "dropped": 1
+ }
+}
