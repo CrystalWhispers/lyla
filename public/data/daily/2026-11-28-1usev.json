@@ -1,0 +1,213 @@
+{
+ "id": "2026-11-28-1usev",
+ "date": "2026-11-28",
+ "title": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
+ "source": {
+  "name": "France 24",
+  "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+  "mode": "excerpt",
+  "license": "Citations courtes, voir la source"
+ },
+ "words": 180,
+ "model": "gemini-3.6-flash",
+ "analysis": {
+  "title": "Tensions sécuritaires au Mali, fronde en RDC et SICA d'Abidjan",
+  "summary": "Cette revue d'actualité africaine aborde l'escalade sécuritaire au nord du Mali face aux djihadistes, les dissensions politiques en RD Congo et l'ouverture du Salon audiovisuel à Abidjan. Les sujets illustrent des enjeux géopolitiques, institutionnels et culturels majeurs sur le continent.",
+  "theme": "Géopolitique & diplomatie",
+  "vocabulaire": [
+   {
+    "id": "ehl02s",
+    "kind": "vocab",
+    "term": "un blocus (m.)",
+    "surface": "blocus",
+    "usage": "actif",
+    "definition_fr": "Isolement imposé à une zone pour couper ses approvisionnements.",
+    "translation_cn": "封锁",
+    "exemple": "Les forces armées ont brisé le blocus imposé aux villes côtières.",
+    "note": "Le 's' final s'écrit mais ne se prononce pas.",
+    "context": "… Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali…",
+    "synonymes": [
+     "un siège (m.)",
+     "un isolement (m.)"
+    ],
+    "famille": [
+     "bloquer"
+    ],
+    "collocations": [
+     "imposer un blocus",
+     "lever le blocus",
+     "subir un blocus"
+    ]
+   },
+   {
+    "id": "1rh78me",
+    "kind": "vocab",
+    "term": "un détachement (m.)",
+    "surface": "détachement",
+    "usage": "actif",
+    "definition_fr": "Unité militaire envoyée pour une mission spécifique.",
+    "translation_cn": "分遣队 / 部署",
+    "exemple": "Un détachement de casques bleus a été déployé à la frontière.",
+    "note": "À ne pas confondre avec le sens psychologique de prise de distance.",
+    "context": "… semaines dans cette ville située dans la région de Tombouctou d’un détachement des forces russes d’Africa Corps et de l’armée malienne qui suscite l’ire des …",
+    "synonymes": [
+     "un contingent (m.)",
+     "une unité (f.)"
+    ],
+    "famille": [
+     "détacher",
+     "détachable"
+    ],
+    "collocations": [
+     "détachement militaire",
+     "envoyer un détachement"
+    ]
+   },
+   {
+    "id": "1cf7ykq",
+    "kind": "vocab",
+    "term": "l'ire (f.)",
+    "surface": "ire",
+    "usage": "passif",
+    "definition_fr": "Colère vive ou fureur (registre très soutenu/littéraire).",
+    "translation_cn": "愤怒 / 怒火",
+    "exemple": "La hausse des taxes a suscité l'ire des partenaires commerciaux.",
+    "note": "Nom féminin rare, s'utilise surtout dans l'expression 'susciter l'ire'.",
+    "context": "… dans cette ville située dans la région de Tombouctou d’un détachement des forces russes d’Africa Corps et de l’armée malienne qui suscite l’ire des djihadistes…",
+    "synonymes": [
+     "la courroux (m.)",
+     "la colère (f.)"
+    ],
+    "famille": [
+     "irascible"
+    ],
+    "collocations": [
+     "susciter l'ire de",
+     "attirer l'ire de"
+    ]
+   },
+   {
+    "id": "1ov7aqu",
+    "kind": "vocab",
+    "term": "une fronde (f.)",
+    "surface": "fronde",
+    "usage": "actif",
+    "definition_fr": "Révolte contestataire au sein d'un groupe ou parti politique.",
+    "translation_cn": "内部反抗 / 反叛",
+    "exemple": "Le premier ministre fait face à une fronde parlementaire au sein de sa majorité.",
+    "note": "Très fréquent dans le journalisme politique français.",
+    "context": "En RD Congo, le parti de Vital Kamerhe, l’un des poids lourds de la majorité présidentielle, est secoué par une fronde interne.",
+    "synonymes": [
+     "une rébellion (f.)",
+     "une contestation (f.)"
+    ],
+    "famille": [
+     "fronder",
+     "frondeur"
+    ],
+    "collocations": [
+     "fronde interne",
+     "mener une fronde",
+     "faire face à une fronde"
+    ]
+   },
+   {
+    "id": "qxxuqu",
+    "kind": "vocab",
+    "term": "désavouer (v.)",
+    "surface": "désavouer",
+    "usage": "actif",
+    "definition_fr": "Refuser de reconnaître ou désapprouver publiquement des propos ou actes.",
+    "translation_cn": "否认 / 不赞 me low 绝 / 表达异议",
+    "exemple": "Le ministre des Affaires étrangères a désavoué les déclarations de son ambassadeur.",
+    "note": "Le nom dérivé 'un désaveu' est également très employé.",
+    "context": "… l’Union pour la nation congolaise (UNC) ont signé un communiqué pour désavouer les propos de leur président sur la conduite de la guerre dans l’est …",
+    "synonymes": [
+     "renier",
+     "désapprouver"
+    ],
+    "famille": [
+     "un désaveu (m.)"
+    ],
+    "collocations": [
+     "désavouer des propos",
+     "désavouer un ministre"
+    ]
+   }
+  ],
+  "expressions": [
+   {
+    "id": "s2iuj8",
+    "kind": "expression",
+    "term": "un poids lourd (m.)",
+    "surface": "poids lourds",
+    "usage": "actif",
+    "definition_fr": "Acteur politique ou économique très influent.",
+    "translation_cn": "重量级人物 / 巨头",
+    "exemple": "Ce poids lourd de la diplomatie a négocié le traité de paix.",
+    "note": "Sens figuré tiré de la boxe et du transport routier.",
+    "context": "En RD Congo, le parti de Vital Kamerhe, l’un des poids lourds de la majorité présidentielle, est secoué par une fronde interne.",
+    "collocations": [
+     "un poids lourd de la politique",
+     "un poids lourd du secteur"
+    ]
+   },
+   {
+    "id": "zs0lp8",
+    "kind": "expression",
+    "term": "une prise de distance (f.)",
+    "surface": "prise de distance",
+    "usage": "actif",
+    "definition_fr": "Attitude consistant à s'éloigner d'une ligne politique ou d'un allié.",
+    "translation_cn": "保持距离 / 表态切割",
+    "exemple": "Sa récente prise de distance avec le gouvernement laisse présager une démission.",
+    "note": "Très usité en communication politique pour indiquer un désaccord subtil.",
+    "context": "Une prise de distance qui révèle des tensions au sein du parti.",
+    "collocations": [
+     "marquer une prise de distance",
+     "prise de distance politique"
+    ]
+   },
+   {
+    "id": "l21ynb",
+    "kind": "expression",
+    "term": "conquérir le public (v.)",
+    "surface": "conquérir le public",
+    "usage": "actif",
+    "definition_fr": "Séduire et gagner l'adhésion des spectateurs ou consommateurs.",
+    "translation_cn": "征服观众 / 赢得受众",
+    "exemple": "Cette nouvelle série africaine espère conquérir le public international.",
+    "note": "S'emploie aussi bien dans le domaine culturel que commercial.",
+    "context": "À Abidjan, de jeunes créateurs africains veulent eux aussi conquérir le public avec leurs propres histoires, inspirées de l’univers du manga japonais.",
+    "collocations": [
+     "conquérir un marché",
+     "conquérir le public"
+    ]
+   }
+  ],
+  "connecteurs": [
+   {
+    "id": "1rbke58",
+    "kind": "connecteur",
+    "term": "depuis (prép. de temps)",
+    "surface": "depuis",
+    "usage": "actif",
+    "definition_fr": "Indique le point de départ d'une action qui continue dans le présent.",
+    "translation_cn": "自……以来",
+    "exemple": "",
+    "note": "Exige le présent de l'indicatif en français moderne quand l'action se poursuit, contrairement à l'anglais ou au chinois qui utilisent d'autres structures grammaticales.",
+    "context": "… Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali…",
+    "fonction": "temporelle (continuité)"
+   }
+  ],
+  "syntaxe": [],
+  "rhetorique": [
+   {
+    "surface": "poids lourds",
+    "figure": "Métaphore",
+    "effet": "Donne une image concrète et percutante de l'assise et du pouvoir politique de la personnalité mentionnée."
+   }
+  ],
+  "dropped": 2
+ }
+}
